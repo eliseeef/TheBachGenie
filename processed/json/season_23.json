@@ -1,24 +1,24 @@
 [
     {
-        "Name": "Cassie Randolph[12]",
+        "Name": "Cassie Randolph",
         "Age": "23",
         "Hometown": "Huntington Beach, California",
         "Occupation": "Speech Pathologist",
         "Outcome": "Winner",
         "Place": "1",
-        "Ref": "[13]"
+        "Ref": ""
     },
     {
-        "Name": "Hannah Godwin[14]",
+        "Name": "Hannah Godwin",
         "Age": "23",
         "Hometown": "Birmingham, Alabama",
         "Occupation": "Content Creator",
         "Outcome": "Week 9",
         "Place": "2",
-        "Ref": "[15]"
+        "Ref": ""
     },
     {
-        "Name": "Tayshia Adams[16]",
+        "Name": "Tayshia Adams",
         "Age": "28",
         "Hometown": "Santa Ana, California",
         "Occupation": "Phlebotomist",
@@ -29,32 +29,32 @@
     {
         "Name": "Cassie Randolph",
         "Age": "(Returned to competition)",
-        "Hometown": "Quit[a]",
-        "Occupation": "[17]",
+        "Hometown": "Quit",
+        "Occupation": "",
         "Outcome": "",
         "Place": "",
         "Ref": ""
     },
     {
-        "Name": "Caelynn Miller-Keyes[18]",
+        "Name": "Caelynn Miller-Keyes",
         "Age": "23",
         "Hometown": "Fredericksburg, Virginia",
         "Occupation": "Miss North Carolina USA 2018",
         "Outcome": "Week 8",
         "Place": "4",
-        "Ref": "[19]"
+        "Ref": ""
     },
     {
-        "Name": "Kirpa Sudick[20]",
+        "Name": "Kirpa Sudick",
         "Age": "26",
         "Hometown": "Whittier, California",
         "Occupation": "Dental Hygienist",
         "Outcome": "Week 7",
         "Place": "5",
-        "Ref": "[21]"
+        "Ref": ""
     },
     {
-        "Name": "Heather Martin[22]",
+        "Name": "Heather Martin",
         "Age": "23",
         "Hometown": "Carlsbad, California",
         "Occupation": "Assistant Program Manager",
@@ -63,7 +63,7 @@
         "Ref": ""
     },
     {
-        "Name": "Hannah Brown[14]",
+        "Name": "Hannah Brown",
         "Age": "24",
         "Hometown": "Northport, Alabama",
         "Occupation": "Miss Alabama USA 2018",
@@ -72,16 +72,16 @@
         "Ref": ""
     },
     {
-        "Name": "Katie Morton[23]",
+        "Name": "Katie Morton",
         "Age": "26",
         "Hometown": "Oviedo, Florida",
         "Occupation": "Medical Sales Representative",
         "Outcome": "Week 6",
         "Place": "8",
-        "Ref": "[24]"
+        "Ref": ""
     },
     {
-        "Name": "Demi Burnett[25]",
+        "Name": "Demi Burnett",
         "Age": "23",
         "Hometown": "Red Oak, Texas",
         "Occupation": "Interior Designer",
@@ -90,7 +90,7 @@
         "Ref": ""
     },
     {
-        "Name": "Sydney Lotuaco[20]",
+        "Name": "Sydney Lotuaco",
         "Age": "27",
         "Hometown": "Virginia Beach, Virginia",
         "Occupation": "NBA Dancer",
@@ -99,7 +99,7 @@
         "Ref": ""
     },
     {
-        "Name": "Nicole Lopez-Alvar[26]",
+        "Name": "Nicole Lopez-Alvar",
         "Age": "25",
         "Hometown": "Miami, Florida",
         "Occupation": "Social Media Coordinator",
@@ -108,7 +108,7 @@
         "Ref": ""
     },
     {
-        "Name": "Onyeka Ehie[25]",
+        "Name": "Onyeka Ehie",
         "Age": "24",
         "Hometown": "Manhattan, Kansas",
         "Occupation": "IT Risk Consultant",
@@ -117,25 +117,25 @@
         "Ref": ""
     },
     {
-        "Name": "Elyse Dehlbom[27]",
+        "Name": "Elyse Dehlbom",
         "Age": "31",
         "Hometown": "Soldotna, Alaska",
         "Occupation": "Makeup Artist",
         "Outcome": "13 (quit)",
-        "Place": "[28]",
+        "Place": "",
         "Ref": ""
     },
     {
-        "Name": "Courtney Curtis[20]",
+        "Name": "Courtney Curtis",
         "Age": "23",
         "Hometown": "McDonough, Georgia",
         "Occupation": "Caterer",
         "Outcome": "Week 4",
         "Place": "14–15",
-        "Ref": "[29]"
+        "Ref": ""
     },
     {
-        "Name": "Tracy Shapoff[30]",
+        "Name": "Tracy Shapoff",
         "Age": "31",
         "Hometown": "Rochester, New York",
         "Occupation": "Wardrobe Stylist",
@@ -144,16 +144,16 @@
         "Ref": ""
     },
     {
-        "Name": "Brianna \"Bri\" Barnes[31]",
+        "Name": "Brianna  Barnes",
         "Age": "24",
         "Hometown": "Chino Hills, California",
         "Occupation": "Model",
         "Outcome": "Week 3",
         "Place": "16–18",
-        "Ref": "[32]"
+        "Ref": ""
     },
     {
-        "Name": "Catherine Agro[26]",
+        "Name": "Catherine Agro",
         "Age": "26",
         "Hometown": "Fort Lauderdale, Florida",
         "Occupation": "DJ",
@@ -162,7 +162,7 @@
         "Ref": ""
     },
     {
-        "Name": "Nina Bartula[18]",
+        "Name": "Nina Bartula",
         "Age": "30",
         "Hometown": "Raleigh, North Carolina",
         "Occupation": "Sales Account Manager",
@@ -171,7 +171,7 @@
         "Ref": ""
     },
     {
-        "Name": "Caitlin Clemmens[33]",
+        "Name": "Caitlin Clemmens",
         "Age": "25",
         "Hometown": "Toronto, Ontario",
         "Occupation": "Realtor",
@@ -180,16 +180,16 @@
         "Ref": ""
     },
     {
-        "Name": "Alex Blumberg[20]",
+        "Name": "Alex Blumberg",
         "Age": "29",
         "Hometown": "Vancouver, British Columbia",
         "Occupation": "Dog Rescuer",
         "Outcome": "Week 2",
         "Place": "20–23",
-        "Ref": "[34]"
+        "Ref": ""
     },
     {
-        "Name": "Angelique Sherman[35]",
+        "Name": "Angelique Sherman",
         "Age": "28",
         "Hometown": "Hamilton, New Jersey",
         "Occupation": "Marketing Salesperson",
@@ -198,7 +198,7 @@
         "Ref": ""
     },
     {
-        "Name": "Annie Reardon[5][14]",
+        "Name": "Annie Reardon",
         "Age": "23",
         "Hometown": "Mequon, Wisconsin",
         "Occupation": "Financial Associate",
@@ -207,7 +207,7 @@
         "Ref": ""
     },
     {
-        "Name": "Erika McNutt[20]",
+        "Name": "Erika McNutt",
         "Age": "25",
         "Hometown": "Encinitas, California",
         "Occupation": "Recruiter",
@@ -216,16 +216,16 @@
         "Ref": ""
     },
     {
-        "Name": "Alex Dillon[36]",
+        "Name": "Alex Dillon",
         "Age": "23",
         "Hometown": "Dennis, Massachusetts",
         "Occupation": "Sloth",
         "Outcome": "Week 1",
         "Place": "24–30",
-        "Ref": "[37]"
+        "Ref": ""
     },
     {
-        "Name": "Devin Gooden[38]",
+        "Name": "Devin Gooden",
         "Age": "23",
         "Hometown": "Medford, Oregon",
         "Occupation": "Broadcast Journalist",
@@ -234,7 +234,7 @@
         "Ref": ""
     },
     {
-        "Name": "Erin Landry[25]",
+        "Name": "Erin Landry",
         "Age": "28",
         "Hometown": "Plano, Texas",
         "Occupation": "Cinderella",
@@ -243,7 +243,7 @@
         "Ref": ""
     },
     {
-        "Name": "Adrianne \"Jane\" Averbukh[39]",
+        "Name": "Adrianne  Averbukh",
         "Age": "26",
         "Hometown": "West Hollywood, California",
         "Occupation": "Social Worker",
@@ -252,7 +252,7 @@
         "Ref": ""
     },
     {
-        "Name": "Laura Pellerito[25]",
+        "Name": "Laura Pellerito",
         "Age": "26",
         "Hometown": "Dallas, Texas",
         "Occupation": "Accountant",
@@ -261,7 +261,7 @@
         "Ref": ""
     },
     {
-        "Name": "Revian Chang[20]",
+        "Name": "Revian Chang",
         "Age": "24",
         "Hometown": "Plano, Texas",
         "Occupation": "Nurse",
@@ -270,7 +270,7 @@
         "Ref": ""
     },
     {
-        "Name": "Tahzjuan Hawkins[20]",
+        "Name": "Tahzjuan Hawkins",
         "Age": "25",
         "Hometown": "Castle Pines, Colorado",
         "Occupation": "Business Development Associate",

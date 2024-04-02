@@ -1,15 +1,15 @@
 [
     {
-        "Name": "Susie Evans[27][28]",
+        "Name": "Susie Evans",
         "Age": "28",
         "Hometown": "Poquoson, Virginia",
         "Occupation": "Wedding Videographer",
         "Outcome": "Winner",
         "Place": "1",
-        "Ref": "[29]"
+        "Ref": ""
     },
     {
-        "Name": "Gabriela \"Gabby\" Windey[16][30]",
+        "Name": "Gabriela  Windey",
         "Age": "30",
         "Hometown": "O'Fallon, Illinois",
         "Occupation": "ICU Nurse",
@@ -18,7 +18,7 @@
         "Ref": ""
     },
     {
-        "Name": "Rachel Recchia[31]",
+        "Name": "Rachel Recchia",
         "Age": "25",
         "Hometown": "Clermont, Florida",
         "Occupation": "Flight Instructor",
@@ -30,31 +30,31 @@
         "Name": "Susie Evans",
         "Age": "(Returned to competition)",
         "Hometown": "Week 9",
-        "Occupation": "[a]",
-        "Outcome": "[32]",
+        "Occupation": "",
+        "Outcome": "",
         "Place": "",
         "Ref": ""
     },
     {
-        "Name": "Serene Russell[33]",
+        "Name": "Serene Russell",
         "Age": "26",
         "Hometown": "Oklahoma City, Oklahoma",
         "Occupation": "Elementary School Teacher",
         "Outcome": "Week 8",
         "Place": "4",
-        "Ref": "[34]"
+        "Ref": ""
     },
     {
-        "Name": "Teddi Wright[31][35]",
+        "Name": "Teddi Wright",
         "Age": "24",
         "Hometown": "Redlands, California",
         "Occupation": "Surgical Unit Nurse",
         "Outcome": "Week 7",
         "Place": "5",
-        "Ref": "[24]"
+        "Ref": ""
     },
     {
-        "Name": "Sarah Hamrick[14][36]",
+        "Name": "Sarah Hamrick",
         "Age": "23",
         "Hometown": "Spartanburg, South Carolina",
         "Occupation": "Wealth Management Advisor",
@@ -63,7 +63,7 @@
         "Ref": ""
     },
     {
-        "Name": "Genevieve Parisi[37][38]",
+        "Name": "Genevieve Parisi",
         "Age": "26",
         "Hometown": "Rehoboth, Massachusetts",
         "Occupation": "Bartender",
@@ -72,16 +72,16 @@
         "Ref": ""
     },
     {
-        "Name": "Eliza Isichei[39]",
+        "Name": "Eliza Isichei",
         "Age": "25",
-        "Hometown": "Tampa, Florida[b]",
+        "Hometown": "Tampa, Florida",
         "Occupation": "Marketing Manager",
         "Outcome": "Week 6",
         "Place": "8–9",
         "Ref": ""
     },
     {
-        "Name": "Mara Agrait[40][41]",
+        "Name": "Mara Agrait",
         "Age": "32",
         "Hometown": "Collingswood, New Jersey",
         "Occupation": "Entrepreneur",
@@ -90,16 +90,16 @@
         "Ref": ""
     },
     {
-        "Name": "Hunter Haag[42]",
+        "Name": "Hunter Haag",
         "Age": "28",
         "Hometown": "Lake Wylie, South Carolina",
         "Occupation": "Human Resources Specialist",
         "Outcome": "Week 5",
         "Place": "10–11",
-        "Ref": "[43]"
+        "Ref": ""
     },
     {
-        "Name": "Marlena Wesh[27][39]",
+        "Name": "Marlena Wesh",
         "Age": "30",
         "Hometown": "Virginia Beach, Virginia",
         "Occupation": "Former Olympian",
@@ -108,7 +108,7 @@
         "Ref": ""
     },
     {
-        "Name": "Shanae Ankney[44]",
+        "Name": "Shanae Ankney",
         "Age": "29",
         "Hometown": "Sycamore, Ohio",
         "Occupation": "Recruiter",
@@ -117,16 +117,16 @@
         "Ref": ""
     },
     {
-        "Name": "Jillian \"Jill\" Chin[37]",
+        "Name": "Jillian  Chin",
         "Age": "26",
         "Hometown": "Scituate, Rhode Island",
         "Occupation": "Architectural Historian",
         "Outcome": "Week 4",
         "Place": "13–15",
-        "Ref": "[23]"
+        "Ref": ""
     },
     {
-        "Name": "Lyndsey Windham[45]",
+        "Name": "Lyndsey Windham",
         "Age": "28",
         "Hometown": "Orange, Texas",
         "Occupation": "Industrial Sales Representative",
@@ -135,7 +135,7 @@
         "Ref": ""
     },
     {
-        "Name": "Sierra Jackson[46]",
+        "Name": "Sierra Jackson",
         "Age": "26",
         "Hometown": "Oklahoma City, Oklahoma",
         "Occupation": "Yoga Instructor",
@@ -144,16 +144,16 @@
         "Ref": ""
     },
     {
-        "Name": "Elizabeth Corrigan[47]",
+        "Name": "Elizabeth Corrigan",
         "Age": "32",
         "Hometown": "Highlands Ranch, Colorado",
         "Occupation": "Real Estate Advisor",
         "Outcome": "Week 3",
         "Place": "16–18",
-        "Ref": "[22]"
+        "Ref": ""
     },
     {
-        "Name": "Kira Mengistu[40]",
+        "Name": "Kira Mengistu",
         "Age": "32",
         "Hometown": "Greensboro, North Carolina",
         "Occupation": "Physician",
@@ -162,7 +162,7 @@
         "Ref": ""
     },
     {
-        "Name": "Melina Nasab[46]",
+        "Name": "Melina Nasab",
         "Age": "27",
         "Hometown": "West Hollywood, California",
         "Occupation": "Personal Trainer",
@@ -171,16 +171,16 @@
         "Ref": ""
     },
     {
-        "Name": "Ency Abedin[48]",
+        "Name": "Ency Abedin",
         "Age": "28",
         "Hometown": "Burbank, California",
         "Occupation": "Sales Manager",
         "Outcome": "Week 2",
         "Place": "19–21",
-        "Ref": "[21]"
+        "Ref": ""
     },
     {
-        "Name": "Kate Gallivan[17]",
+        "Name": "Kate Gallivan",
         "Age": "32",
         "Hometown": "Clarksville, Tennessee",
         "Occupation": "Real Estate Agent",
@@ -189,7 +189,7 @@
         "Ref": ""
     },
     {
-        "Name": "Tessa Tookes[46]",
+        "Name": "Tessa Tookes",
         "Age": "26",
         "Hometown": "Stamford, Connecticut",
         "Occupation": "Human Resources Specialist",
@@ -198,7 +198,7 @@
         "Ref": ""
     },
     {
-        "Name": "Cassidy Timbrooks[49]",
+        "Name": "Cassidy Timbrooks",
         "Age": "26",
         "Hometown": "Cave Creek, Arizona",
         "Occupation": "Executive Recruiter",
@@ -207,16 +207,16 @@
         "Ref": ""
     },
     {
-        "Name": "Daria Rose[50][51]",
+        "Name": "Daria Rose",
         "Age": "24",
         "Hometown": "Baldwin, New York",
         "Occupation": "Law Student",
         "Outcome": "Week 1",
         "Place": "23–28",
-        "Ref": "[52][53]"
+        "Ref": ""
     },
     {
-        "Name": "Hailey Malles[51]",
+        "Name": "Hailey Malles",
         "Age": "26",
         "Hometown": "Orlando, Florida",
         "Occupation": "Pediatric Nurse",
@@ -225,7 +225,7 @@
         "Ref": ""
     },
     {
-        "Name": "Ivana Noble[51]",
+        "Name": "Ivana Noble",
         "Age": "31",
         "Hometown": "Snellville, Georgia",
         "Occupation": "Bar Mitzvah Dancer",
@@ -234,7 +234,7 @@
         "Ref": ""
     },
     {
-        "Name": "Jane Paik[51]",
+        "Name": "Jane Paik",
         "Age": "33",
         "Hometown": "Santa Monica, California",
         "Occupation": "Social Media Director",
@@ -243,7 +243,7 @@
         "Ref": ""
     },
     {
-        "Name": "Lindsay Dobbs[51]",
+        "Name": "Lindsay Dobbs",
         "Age": "27",
         "Hometown": "Warner Robins, Georgia",
         "Occupation": "Neonatal Nurse",
@@ -252,7 +252,7 @@
         "Ref": ""
     },
     {
-        "Name": "Rianna Hockaday[45][51]",
+        "Name": "Rianna Hockaday",
         "Age": "26",
         "Hometown": "Mount Pleasant, Texas",
         "Occupation": "Registered Nurse",
@@ -261,7 +261,7 @@
         "Ref": ""
     },
     {
-        "Name": "Samantha Jeffries[51]",
+        "Name": "Samantha Jeffries",
         "Age": "26",
         "Hometown": "Dayton, Ohio",
         "Occupation": "Occupational Therapist",
@@ -270,7 +270,7 @@
         "Ref": ""
     },
     {
-        "Name": "Claire Heilig[27][51]",
+        "Name": "Claire Heilig",
         "Age": "28",
         "Hometown": "Virginia Beach, Virginia",
         "Occupation": "Spray Tanner",

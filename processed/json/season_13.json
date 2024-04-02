@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Melissa Rycroft[9]",
+        "Name": "Melissa Rycroft",
         "Age": "25",
         "Hometown": "Dallas, Texas",
         "Occupation": "Sales Representative",
@@ -8,7 +8,7 @@
         "Place": "1"
     },
     {
-        "Name": "Molly Malaney[10]",
+        "Name": "Molly Malaney",
         "Age": "24",
         "Hometown": "Brookfield, Wisconsin",
         "Occupation": "Department Store Buyer",
@@ -24,7 +24,7 @@
         "Place": "3"
     },
     {
-        "Name": "Naomi Crespo[11]",
+        "Name": "Naomi Crespo",
         "Age": "24",
         "Hometown": "Carlsbad, California",
         "Occupation": "Flight Attendant",
@@ -32,7 +32,7 @@
         "Place": "4"
     },
     {
-        "Name": "Stephanie Hogan[12]",
+        "Name": "Stephanie Hogan",
         "Age": "34",
         "Hometown": "Huntsville, Alabama",
         "Occupation": "Medical Marketing Representative",
@@ -48,7 +48,7 @@
         "Place": "6–8"
     },
     {
-        "Name": "Megan Parris[13]",
+        "Name": "Megan Parris",
         "Age": "25",
         "Hometown": "Sewickley, Pennsylvania",
         "Occupation": "Lacrosse Coach",
@@ -56,7 +56,7 @@
         "Place": ""
     },
     {
-        "Name": "Shannon Bair[14]",
+        "Name": "Shannon Bair",
         "Age": "29",
         "Hometown": "Marshall, Missouri",
         "Occupation": "Dental Hygienist",
@@ -64,7 +64,7 @@
         "Place": ""
     },
     {
-        "Name": "Nikki Kaapke[15]",
+        "Name": "Nikki Kaapke",
         "Age": "29",
         "Hometown": "Blue Island, Illinois",
         "Occupation": "Administrative Assistant",
@@ -80,7 +80,7 @@
         "Place": "10–11"
     },
     {
-        "Name": "Kari Fajen[16]",
+        "Name": "Kari Fajen",
         "Age": "27",
         "Hometown": "Lee's Summit, Missouri",
         "Occupation": "Account Executive",
@@ -88,7 +88,7 @@
         "Place": ""
     },
     {
-        "Name": "Natalie Getz[17]",
+        "Name": "Natalie Getz",
         "Age": "27",
         "Hometown": "Morton, Illinois",
         "Occupation": "Human Resources Recruiter",
@@ -96,15 +96,15 @@
         "Place": ""
     },
     {
-        "Name": "Raquel Medeiros[18]",
+        "Name": "Raquel Medeiros",
         "Age": "27",
-        "Hometown": "Recife, Pernambuco[a]",
+        "Hometown": "Recife, Pernambuco",
         "Occupation": "Medical Student",
         "Outcome": "Week 2",
         "Place": "13–14"
     },
     {
-        "Name": "Sharon Staebell[19]",
+        "Name": "Sharon Staebell",
         "Age": "32",
         "Hometown": "Batavia, New York",
         "Occupation": "Teacher",
@@ -112,7 +112,7 @@
         "Place": ""
     },
     {
-        "Name": "Lisa Gonzalez[20]",
+        "Name": "Lisa Gonzalez",
         "Age": "28",
         "Hometown": "Boise, Idaho",
         "Occupation": "Public Relations Associate",
