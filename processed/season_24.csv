@@ -1,32 +1,31 @@
-Name,Age,Hometown,Occupation,Outcome,Place,Ref
-Hannah Ann Sluss[22],23,"Powell, Tennessee",Model,Winner,1,[3]
-Madison Prewett[14][23],23,"Auburn, Alabama",Foster Parent Recruiter,Runner-up,2 (quit),[24]
-Victoria Fuller[25],26,"Virginia Beach, Virginia",Medical Sales Rep,Week 9,3,[26]
-Kelsey Weier[12],28,"Urbandale, Iowa",Professional Clothier,Week 8,4,[19]
-Kelley Flanagan[27],27,"North Barrington, Illinois",Attorney,Week 7,5,[28]
-Natasha Parker[29],31,"Manhattan, New York",Event Planner,6,,
-Mykenna Dorn[30],22,"Langley, British Columbia",Fashion Blogger,Week 6,7–8,[31]
-Sydney Hightower[32],24,"Northport, Alabama",Retail Marketing Manager,,,
-Tammy Ly[33],24,"Syracuse, New York",House Flipper,9,,
-Victoria Paul[11][34],27,"Alexandria, Louisiana",Nurse,10,,
-Lexi Buchanan[35],26,"Jacksonville, Florida",Marketing Coordinator,Week 5,11–12,[36]
-Shiann Lewis[35],27,"Las Vegas, Nevada",Administrative Assistant,,,
-Deandra Kanu[37],23,"Bar Harbor, Maine",Home Care Coordinator,Week 4,13–15,
-Kiarra Norman[38],23,"Kennesaw, Georgia",Nanny,,,
-Savannah Mullins[10],27,"Houston, Texas",Realtor,,,
-Alayah Benavidez[10],24,"Helotes, Texas",Orthodontist Assistant,16,,
-Alayah Benavidez,(Returned to competition),Week 3,,[18],,
-Alexa Caves[27],27,"Springfield, Illinois",Esthetician,17–19,,
-Jasmine Nguyen[10],25,"Houston, Texas",Client Relations Manager,,,
-Sarah Coffin[22],24,"Knoxville, Tennessee",Medical Radiographer,,,
-Courtney Perry[39],26,"Venice, Florida",Cosmetologist,Week 2,20–22,[40]
-Lauren Jones[41],26,"Glendale, California",Marketing Executive,,,
-Payton Moran[42],24,"Wellesley, Massachusetts",Business Development Rep,,,
-Avonlea Elkins[10],27,"Fort Worth, Texas",Cattle Rancher,Week 1,23–30,[17]
-Eunice Cho[27],23,"Chicago, Illinois",Flight Attendant,,,
-Jade Gilliland[43],26,"Mesa, Arizona",Media Buyer,,,
-Jenna Serrano[27],22,"New Lenox, Illinois",Nursing Student,,,
-Katrina Badowski[27],28,"St. Charles, Illinois",Pro NBA Dancer,,,
-Kylie Ramos[41],26,"Davis, California",Entertainment Sales Associate,,,
-Maurissa Gunn[13][38],23,"Laurel, Montana",Patient Care Coordinator,,,
-Megan Hops[44],26,"San Bruno, California",Flight Attendant,,,
+Name,Age,Hometown,Occupation,Outcome
+Hannah Ann Sluss,23,"Powell, Tennessee",Model,Winner
+Madison Prewett,23,"Auburn, Alabama",Foster Parent Recruiter,Runner-up
+Victoria Fuller,26,"Virginia Beach, Virginia",Medical Sales Rep,Week 9
+Kelsey Weier,28,"Urbandale, Iowa",Professional Clothier,Week 8
+Kelley Flanagan,27,"North Barrington, Illinois",Attorney,Week 7
+Natasha Parker,31,"Manhattan, New York",Event Planner,Week 7
+Mykenna Dorn,22,"Langley, British Columbia",Fashion Blogger,Week 6
+Sydney Hightower,24,"Northport, Alabama",Retail Marketing Manager,Week 6
+Tammy Ly,24,"Syracuse, New York",House Flipper,Week 6
+Victoria Paul,27,"Alexandria, Louisiana",Nurse,Week 6
+Lexi Buchanan,26,"Jacksonville, Florida",Marketing Coordinator,Week 5
+Shiann Lewis,27,"Las Vegas, Nevada",Administrative Assistant,Week 5
+Deandra Kanu,23,"Bar Harbor, Maine",Home Care Coordinator,Week 4
+Kiarra Norman,23,"Kennesaw, Georgia",Nanny,Week 4
+Savannah Mullins,27,"Houston, Texas",Realtor,Week 4
+Alayah Benavidez,24,"Helotes, Texas",Orthodontist Assistant,Week 4
+Alexa Caves,27,"Springfield, Illinois",Esthetician,Week 4
+Jasmine Nguyen,25,"Houston, Texas",Client Relations Manager,Week 4
+Sarah Coffin,24,"Knoxville, Tennessee",Medical Radiographer,Week 4
+Courtney Perry,26,"Venice, Florida",Cosmetologist,Week 2
+Lauren Jones,26,"Glendale, California",Marketing Executive,Week 2
+Payton Moran,24,"Wellesley, Massachusetts",Business Development Rep,Week 2
+Avonlea Elkins,27,"Fort Worth, Texas",Cattle Rancher,Week 1
+Eunice Cho,23,"Chicago, Illinois",Flight Attendant,Week 1
+Jade Gilliland,26,"Mesa, Arizona",Media Buyer,Week 1
+Jenna Serrano,22,"New Lenox, Illinois",Nursing Student,Week 1
+Katrina Badowski,28,"St. Charles, Illinois",Pro NBA Dancer,Week 1
+Kylie Ramos,26,"Davis, California",Entertainment Sales Associate,Week 1
+Maurissa Gunn,23,"Laurel, Montana",Patient Care Coordinator,Week 1
+Megan Hops,26,"San Bruno, California",Flight Attendant,Week 1

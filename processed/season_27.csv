@@ -1,31 +1,31 @@
-Name,Age,Hometown,Occupation,Outcome,Place,Ref
-"Kaitlyn ""Kaity"" Biggar[21]",27,"Kingston, Ontario",Travel Nurse,Winner,1,[22]
-"Gabriella ""Gabi"" Elnicki[23]",25,"Pittsford, Vermont",Senior Account Executive,Runner-Up,2,
-Ariel Frenkel[10][24],28,"Manhattan, New York",Marketing Executive,Week 9,3,[25]
-Charity Lawson[26],26,"Columbus, Georgia",Child and Family Therapist,Week 8,4,[27]
-Katherine Izzo[28],26,"Tampa, Florida",Registered Nurse,Week 7,5,[29]
-Brooklyn Willie[6][30],25,"Mineola, Texas",Rodeo Racer,6,,
-Greer Blitzer[31],24,"Bellaire, Texas",Medical Sales Representative,7,,
-"Alyssa ""Aly"" Jacobs[32][33]",26,"Smyrna, Georgia",Healthcare Strategist,Week 6,8,[34]
-"Jessica ""Jess"" Girod[33]",23,"Winter Springs, Florida",E-Commerce Coordinator,9,,
-Kylee Russell[35][36],25,"Charlotte, North Carolina",Postpartum Nurse,Week 5,10-11,[16]
-Mercedes Northup[37],24,"Bloomfield, Iowa",Nonprofit Case Manager,,,
-Davia Bunch[8],25,"Roebuck, South Carolina",Marketing Manager,Week 4,12–13,[38]
-Genevie Mayo[39][40],26,"Joppa, Maryland",Neonatal Nurse,,,
-Anastasia Keramidas[39],30,"Baltimore, Maryland",Content Marketing Manager,14,,
-Christina Mandrell[6][7],26,"Hendersonville, Tennessee",Content Creator,Week 3,15,[15]
-Brianna Thorbourne[6][41],24,"Jersey City, New Jersey",Entrepreneur,16 (quit),,
-Bailey Brown[6][42],27,"Brentwood, Tennessee",Executive Recruiter,17,,
-"Catherine ""Cat"" Wong[6][8]",26,"Bushwick, New York",Professional Dancer,Week 2,18–20,[14]
-Kimberly Gutierrez[43],30,"Stroudsburg, Pennsylvania",Hospitality Manager,,,
-Victoria Jameson[31][44],30,"Keller, Texas",Professional Makeup Artist,,,
-Becca Serrano[43],25,"Burbank, California",Nursing Student,Week 1,21–29,[45]
-Cara Ammon[46],27,"McCandless, Pennsylvania",Corporate Recruiter,,,
-Holland Parsons[43],24,"Boca Raton, Florida",Insurance Marketer,,,
-Lekha Ravi[9][47],29,"Miami, Florida",Financial Advisor,,,
-Olivia Lewis[48],24,"Churchville, New York",Patient Care Technician,,,
-Olivia Miller[49],25,"Delphos, Ohio",Stylist,,,
-Sonia Sharma[50],29,"Jericho, New York",Project Manager,,,
-Vanessa Dinh[51],23,"Farmington Hills, Michigan",Restaurant Marketer,,,
-Viktoria Eichner[43],29,"Vienna, Austria[a]",Nanny,,,
-Madison Johnson[52],26,"Fargo, North Dakota",Business Owner,30,,
+Name,Age,Hometown,Occupation,Outc
+"Kaitlyn ""Kaity"" Biggar",27,"Kingston, Ontario",Travel Nurse,Winner
+"Gabriella ""Gabi"" Elnicki",25,"Pittsford, Vermont",Senior Account Executive,Runner-Up
+Ariel Frenkel,28,"Manhattan, New York",Marketing Executive,Week 9
+Charity Lawson,26,"Columbus, Georgia",Child and Family Therapist,Week 8
+Katherine Izzo,26,"Tampa, Florida",Registered Nurse,Week 7
+Brooklyn Willie,25,"Mineola, Texas",Rodeo Racer,Week 7
+Greer Blitzer,24,"Bellaire, Texas",Medical Sales Representative,Week 7
+"Alyssa ""Aly"" Jacobs",26,"Smyrna, Georgia",Healthcare Strategist,Week 6
+"Jessica ""Jess"" Girod",23,"Winter Springs, Florida",E-Commerce Coordinator,Week 6
+Kylee Russell,25,"Charlotte, North Carolina",Postpartum Nurse,Week 5
+Mercedes Northup,24,"Bloomfield, Iowa",Nonprofit Case Manager,Week 5
+Davia Bunch,25,"Roebuck, South Carolina",Marketing Manager,Week 4
+Genevie Mayo,26,"Joppa, Maryland",Neonatal Nurse,Week 4
+Anastasia Keramidas,30,"Baltimore, Maryland",Content Marketing Manager,Week 4
+Christina Mandrell,26,"Hendersonville, Tennessee",Content Creator,Week 3
+Brianna Thorbourne,24,"Jersey City, New Jersey",Entrepreneur,Week 3
+Bailey Brown,27,"Brentwood, Tennessee",Executive Recruiter,Week 3
+"Catherine ""Cat"" Wong",26,"Bushwick, New York",Professional Dancer,Week 2
+Kimberly Gutierrez,30,"Stroudsburg, Pennsylvania",Hospitality Manager,Week 2
+Victoria Jameson,30,"Keller, Texas",Professional Makeup Artist,Week 2
+Becca Serrano,25,"Burbank, California",Nursing Student,Week 1
+Cara Ammon,27,"McCandless, Pennsylvania",Corporate Recruiter,Week 1
+Holland Parsons,24,"Boca Raton, Florida",Insurance Marketer,Week 1
+Lekha Ravi,29,"Miami, Florida",Financial Advisor,Week 1
+Olivia Lewis,24,"Churchville, New York",Patient Care Technician,Week 1
+Olivia Miller,25,"Delphos, Ohio",Stylist,Week 1
+Sonia Sharma,29,"Jericho, New York",Project Manager,Week 1
+Vanessa Dinh,23,"Farmington Hills, Michigan",Restaurant Marketer,Week 1
+Viktoria Eichner,29,"Vienna, Austria",Nanny,Week 1
+Madison Johnson,26,"Fargo, North Dakota",Business Owner,Week 1

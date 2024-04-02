@@ -1,32 +1,31 @@
-Name,Age,Hometown,Occupation,Outcome,Place,Ref
-Susie Evans[27][28],28,"Poquoson, Virginia",Wedding Videographer,Winner,1,[29]
-"Gabriela ""Gabby"" Windey[16][30]",30,"O'Fallon, Illinois",ICU Nurse,Runner-Up(Week 10),2–3,
-Rachel Recchia[31],25,"Clermont, Florida",Flight Instructor,,,
-Susie Evans,(Returned to competition),Week 9,[a],[32],,
-Serene Russell[33],26,"Oklahoma City, Oklahoma",Elementary School Teacher,Week 8,4,[34]
-Teddi Wright[31][35],24,"Redlands, California",Surgical Unit Nurse,Week 7,5,[24]
-Sarah Hamrick[14][36],23,"Spartanburg, South Carolina",Wealth Management Advisor,6,,
-Genevieve Parisi[37][38],26,"Rehoboth, Massachusetts",Bartender,7,,
-Eliza Isichei[39],25,"Tampa, Florida[b]",Marketing Manager,Week 6,8–9,
-Mara Agrait[40][41],32,"Collingswood, New Jersey",Entrepreneur,,,
-Hunter Haag[42],28,"Lake Wylie, South Carolina",Human Resources Specialist,Week 5,10–11,[43]
-Marlena Wesh[27][39],30,"Virginia Beach, Virginia",Former Olympian,,,
-Shanae Ankney[44],29,"Sycamore, Ohio",Recruiter,12,,
-"Jillian ""Jill"" Chin[37]",26,"Scituate, Rhode Island",Architectural Historian,Week 4,13–15,[23]
-Lyndsey Windham[45],28,"Orange, Texas",Industrial Sales Representative,,,
-Sierra Jackson[46],26,"Oklahoma City, Oklahoma",Yoga Instructor,,,
-Elizabeth Corrigan[47],32,"Highlands Ranch, Colorado",Real Estate Advisor,Week 3,16–18,[22]
-Kira Mengistu[40],32,"Greensboro, North Carolina",Physician,,,
-Melina Nasab[46],27,"West Hollywood, California",Personal Trainer,,,
-Ency Abedin[48],28,"Burbank, California",Sales Manager,Week 2,19–21,[21]
-Kate Gallivan[17],32,"Clarksville, Tennessee",Real Estate Agent,,,
-Tessa Tookes[46],26,"Stamford, Connecticut",Human Resources Specialist,,,
-Cassidy Timbrooks[49],26,"Cave Creek, Arizona",Executive Recruiter,22,,
-Daria Rose[50][51],24,"Baldwin, New York",Law Student,Week 1,23–28,[52][53]
-Hailey Malles[51],26,"Orlando, Florida",Pediatric Nurse,,,
-Ivana Noble[51],31,"Snellville, Georgia",Bar Mitzvah Dancer,,,
-Jane Paik[51],33,"Santa Monica, California",Social Media Director,,,
-Lindsay Dobbs[51],27,"Warner Robins, Georgia",Neonatal Nurse,,,
-Rianna Hockaday[45][51],26,"Mount Pleasant, Texas",Registered Nurse,,,
-Samantha Jeffries[51],26,"Dayton, Ohio",Occupational Therapist,29 (quit),,
-Claire Heilig[27][51],28,"Virginia Beach, Virginia",Spray Tanner,30,,
+Name,Age,Hometown,Occupation,Outcome
+Susie Evans,28,"Poquoson, Virginia",Wedding Videographer,Winner
+"Gabriela ""Gabby"" Windey",30,"O'Fallon, Illinois",ICU Nurse,Runner-Up
+Rachel Recchia,25,"Clermont, Florida",Flight Instructor,Week 9
+Serene Russell,26,"Oklahoma City, Oklahoma",Elementary School Teacher,Week 8
+Teddi Wright,24,"Redlands, California",Surgical Unit Nurse,Week 7
+Sarah Hamrick,23,"Spartanburg, South Carolina",Wealth Management Advisor,Week 7
+Genevieve Parisi,26,"Rehoboth, Massachusetts",Bartender,Week 7
+Eliza Isichei,25,"Tampa, Florida",Marketing Manager,Week 6
+Mara Agrait,32,"Collingswood, New Jersey",Entrepreneur,Week 6
+Hunter Haag,28,"Lake Wylie, South Carolina",Human Resources Specialist,Week 5
+Marlena Wesh,30,"Virginia Beach, Virginia",Former Olympian,Week 5
+Shanae Ankney,29,"Sycamore, Ohio",Recruiter,Week 5
+"Jillian ""Jill"" Chin",26,"Scituate, Rhode Island",Architectural Historian,Week 4
+Lyndsey Windham,28,"Orange, Texas",Industrial Sales Representative,Week 4
+Sierra Jackson,26,"Oklahoma City, Oklahoma",Yoga Instructor,Week 4
+Elizabeth Corrigan,32,"Highlands Ranch, Colorado",Real Estate Advisor,Week 3
+Kira Mengistu,32,"Greensboro, North Carolina",Physician,Week 3
+Melina Nasab,27,"West Hollywood, California",Personal Trainer,Week 3
+Ency Abedin,28,"Burbank, California",Sales Manager,Week 2
+Kate Gallivan,32,"Clarksville, Tennessee",Real Estate Agent,Week 2
+Tessa Tookes,26,"Stamford, Connecticut",Human Resources Specialist,Week 2
+Cassidy Timbrooks,26,"Cave Creek, Arizona",Executive Recruiter,Week 2
+Daria Rose,24,"Baldwin, New York",Law Student,Week 1
+Hailey Malles,26,"Orlando, Florida",Pediatric Nurse,Week 1
+Ivana Noble,31,"Snellville, Georgia",Bar Mitzvah Dancer,Week 1
+Jane Paik,33,"Santa Monica, California",Social Media Director,Week 1
+Lindsay Dobbs,27,"Warner Robins, Georgia",Neonatal Nurse,Week 1
+Rianna Hockaday,26,"Mount Pleasant, Texas",Registered Nurse,Week 1
+Samantha Jeffries,26,"Dayton, Ohio",Occupational Therapist,Week 1
+Claire Heilig,28,"Virginia Beach, Virginia",Spray Tanner,Week 1

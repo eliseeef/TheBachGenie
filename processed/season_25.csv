@@ -1,38 +1,38 @@
-Name,Age,Hometown,Occupation,Arrived,Outcome,Place,Ref
-Rachael Kirkconnell[17],24,"Cumming, Georgia",Graphic Designer,Week 1,Winner,1,[18]
-Michelle Young[19][20],27,"Woodbury, Minnesota",Teacher,Week 3,Runner-Up,2,
-"Briana ""Bri"" Springs[21][22]",24,"San Antonio, Texas",Communications Manager,Week 1,Week 9,3,[23]
-Serena Pitt[24][25],23,"Markham, Ontario",Publicist,Week 8,4 (quit),[26],
-Pieper James[27],23,"Happy Valley, Oregon",Graduate Student,Week 7,5,[14],
-Jessenia Cruz[22],27,"El Paso, Texas",Social Media Marketer,6,,,
-Kit Keenan[6],21,"Manhattan, New York",Fashion Entrepreneur,7 (quit),,,
-Abigail Heringer[8][27],25,"Salem, Oregon",Client Financial Manager,8,,,
-Chelsea Vaughn[28],29,"Marietta, Georgia",Runway Model,Week 6,9–10,,
-Serena Chew[29],24,"San Bruno, California",Flight Attendant,,,,
-Katie Thurston[24][30],29,"Lynnwood, Washington",Bank Marketing Manager,11,[13],,
-Brittany Galvin[20][31],23,"Hinsdale, Illinois",Model,Week 3,Week 5,12–14,
-"Mearg ""Magi"" Tareke[32]",32,"Adwa, Ethiopia[b]",Pharmacist,Week 1,,,
-Ryan Claytor[20],26,"Mechanicsville, Virginia",Dancer/Choreographer,Week 3,,,
-"Meredith ""MJ"" Snyder[33]",23,"Hudson, Ohio",Hairstylist,Week 1,15,,
-Catalina Morales[34],29,"Caguas, Puerto Rico[c]",Former Miss Universe Puerto Rico,Week 3,Week 4,16–19,[35]
-Lauren Maddox[36],29,"Miami, Florida",Corporate Attorney,Week 1,,,
-"Mariela ""Mari"" Pepin[5][37]",24,"Severn, Maryland",Marketing Director,,,,
-Victoria Larson[38],27,"Los Angeles, California",Queen,,,,
-Anna Redman[39][40],24,"Owatonna, Minnesota",Copywriter,20,,,
-Kaili Anderson[40],26,"San Diego, California",Hostess,Week 3,21–23,[12],
-Khaylah Epps[41],28,"Durham, North Carolina",Healthcare Advocate,,,,
-"Kimberly ""Kim"" Li[20]",28,"Cypress, California",ICU Nurse,Week 3,,,
-Sarah Trott[42],24,"Scripps Ranch, California",Broadcast Journalist,Week 1,24 (quit),[11],
-Alana Milne[22],26,"San Antonio, Texas",Photographer,Week 2,25–29,,
-Illeana Pennetto[43],25,"South Salem, New York",Health Food Developer,,,,
-Kristin Hopkins[44],27,"Virginia Beach, Virginia",Attorney,,,,
-Marylynn Sienna[45],28,"Huntington Beach, California",Event Coordinator,,,,
-Sydney Johnson[7],28,"Franklin, Tennessee",Marketing Specialist,,,,
-Alicia Holloway[46],24,"Morgantown, West Virginia",Professional Ballerina,Week 1,30–37,[47],
-Amber Andrews[45],30,"Rialto, California",Nursing Student,,,,
-Carolyn Vallejo[45],30,"Newburyport, Massachusetts",Journalist,,,,
-Casandra Suarez[45],25,"Lodi, California",Social Worker,,,,
-Corrinne Jones[48],22,"Pomfret, Connecticut",Marketing Manager,,,,
-Emani Curl[49],25,"Albuquerque, New Mexico",Realtor,,,,
-Kimberly Courneya[30],28,"Lake Tapps, Washington",Airline Recruiter,,,,
-Saneh Ste. Claire[50],25,"Vilano Beach, Florida",IT Consultant,,,,
+Name,Age,Hometown,Occupation,Outcome
+Rachael Kirkconnell,24,"Cumming, Georgia",Graphic Designer,Winner
+Michelle Young,27,"Woodbury, Minnesota",Teacher,Runner-Up
+"Briana ""Bri"" Springs",24,"San Antonio, Texas",Communications Manager,Week 9
+Serena Pitt,23,"Markham, Ontario",Publicist,Week 8
+Pieper James,23,"Happy Valley, Oregon",Graduate Student,Week 8
+Jessenia Cruz,27,"El Paso, Texas",Social Media Marketer,Week 8
+Kit Keenan,21,"Manhattan, New York",Fashion Entrepreneur,Week 7
+Abigail Heringer,25,"Salem, Oregon",Client Financial Manager,Week 7
+Chelsea Vaughn,29,"Marietta, Georgia",Runway Model,Week 6
+Serena Chew,24,"San Bruno, California",Flight Attendant,Week 6
+Katie Thurston,29,"Lynnwood, Washington",Bank Marketing Manager,Week 6
+Brittany Galvin,23,"Hinsdale, Illinois",Model,Week 5
+"Mearg ""Magi"" Tareke",32,"Adwa, Ethiopia",Pharmacist,Week 5
+Ryan Claytor,26,"Mechanicsville, Virginia",Dancer/Choreographer,Week 5
+"Meredith ""MJ"" Snyder",23,"Hudson, Ohio",Hairstylist,Week 5
+Catalina Morales,29,"Caguas, Puerto Rico",Former Miss Universe Puerto Rico,Week 4
+Lauren Maddox,29,"Miami, Florida",Corporate Attorney,Week 4
+"Mariela ""Mari"" Pepin",24,"Severn, Maryland",Marketing Director,Week 4
+Victoria Larson,27,"Los Angeles, California",Queen,Week 4
+Anna Redman,24,"Owatonna, Minnesota",Copywriter,Week 4
+Kaili Anderson,26,"San Diego, California",Hostess,Week 3
+Khaylah Epps,28,"Durham, North Carolina",Healthcare Advocate,Week 3
+"Kimberly ""Kim"" Li",28,"Cypress, California",ICU Nurse,Week 3
+Sarah Trott,24,"Scripps Ranch, California",Broadcast Journalist,Week 3
+Alana Milne,26,"San Antonio, Texas",Photographer,Week 2
+Illeana Pennetto,25,"South Salem, New York",Health Food Developer,Week 2
+Kristin Hopkins,27,"Virginia Beach, Virginia",Attorney,Week 2
+Marylynn Sienna,28,"Huntington Beach, California",Event Coordinator,Week 2
+Sydney Johnson,28,"Franklin, Tennessee",Marketing Specialist,Week 2
+Alicia Holloway,24,"Morgantown, West Virginia",Professional Ballerina,Week 1
+Amber Andrews,30,"Rialto, California",Nursing Student,Week 1
+Carolyn Vallejo,30,"Newburyport, Massachusetts",Journalist,Week 1
+Casandra Suarez,25,"Lodi, California",Social Worker,Week 1
+Corrinne Jones,22,"Pomfret, Connecticut",Marketing Manager,Week 1
+Emani Curl,25,"Albuquerque, New Mexico",Realtor,Week 1
+Kimberly Courneya,28,"Lake Tapps, Washington",Airline Recruiter,Week 1
+Saneh Ste. Claire,25,"Vilano Beach, Florida",IT Consultant,Week 1

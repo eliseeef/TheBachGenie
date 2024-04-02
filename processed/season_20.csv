@@ -1,29 +1,29 @@
-Name,Age,Hometown,Occupation,Outcome,Place,Ref
-Lauren Bushnell[9],25,"West Linn, Oregon",Flight Attendant,Winner,1,[10]
-"Joelle ""JoJo"" Fletcher[6][11]",24,"Dallas, Texas",Real Estate Developer,Runner-up,2,
-Caila Quinn[12],24,"Hudson, Ohio",Software Sales Representative,Week 9,3,[13]
-Amanda Stanton[11][14],25,"Laguna Beach, California",Esthetician,Week 8,4,[15]
-Becca Tilley[16],26,"Shreveport, Louisiana",Chiropractic Assistant,Week 7,5,[17]
-Emily Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,6,,
-Lauren Himle[18],25,"Dexter, Michigan",Kindergarten Teacher,Week 6,7,[19]
-Olivia Caridi[5][11],23,"Austin, Texas",Former News Anchor,8,,
-Leah Block[20],25,"Greenwood Village, Colorado",Event Planner,9,,
-Jennifer Saviano[21],25,"Davie, Florida",Small Business Owner,Week 5,10,
-Jubilee Sharpe[11],24,"Fort Lauderdale, Florida",War Veteran,11,[22],
-Amber James[23],30,"Kankakee, Illinois",Bartender,Week 4,12–13,[24]
-Rachel Tchen[25],23,"Little Rock, Arkansas",Unemployed,,,
-Haley Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,14,,
-Jami Letain[26],23,"St. Albert, Alberta",Bartender,Week 3,15–16,[27]
-Shushanna Mkrtychyan[28],27,"Salt Lake City, Utah",Property Manager,,,
-Lace Morris[20],25,"Denver, Colorado",Real Estate Agent,17 (quit),,
-"Amanda ""Mandi"" Kremer[29]",28,"Portland, Oregon",Dentist,Week 2,18–20,[30]
-"Jacqueline ""Jackie"" Dion[31]",23,"Newport Beach, California",Gerontologist,,,
-Samantha Passmore[32],26,"New Smyrna Beach, Florida",Attorney,,,
-"Lauren ""LB"" Barr[33]",23,"Stillwater, Oklahoma",Fashion Buyer,21 (quit),,
-Breanne Rice[34],30,"Seattle, Washington",Nutritional Therapist,Week 1,22–28,[35]
-"Isabel ""Izzy"" Goodkind[36]",24,"Branford, Connecticut",Graphic Designer,,,
-Jessica Moser[37],23,"Boca Raton, Florida",Accountant,,,
-Laura Esselman[38],24,"Louisville, Kentucky",Account Executive,,,
-Lauren Russell[39],26,"Houston, Texas",Math Teacher,,,
-Maegan Miller[39],30,"Visalia, California",Cowgirl,,,
-Tiara Soleim[40],27,"Redmond, Washington",Chicken Enthusiast,,,
+Name,Age,Hometown,Occupation,Outcome
+Lauren Bushnell,25,"West Linn, Oregon",Flight Attendant,Winner
+"Joelle ""JoJo"" Fletcher",24,"Dallas, Texas",Real Estate Developer,Runner-up
+Caila Quinn,24,"Hudson, Ohio",Software Sales Representative,Week 9
+Amanda Stanton,25,"Laguna Beach, California",Esthetician,Week 8
+Becca Tilley,26,"Shreveport, Louisiana",Chiropractic Assistant,Week 7
+Emily Ferguson,23,"Las Vegas, Nevada",Waitress,Week 6
+Lauren Himle,25,"Dexter, Michigan",Kindergarten Teacher,Week 6
+Olivia Caridi,23,"Austin, Texas",Former News Anchor,Week 6
+Leah Block,25,"Greenwood Village, Colorado",Event Planner,Week 6
+Jennifer Saviano,25,"Davie, Florida",Small Business Owner,Week 5
+Jubilee Sharpe,24,"Fort Lauderdale, Florida",War Veteran,Week 5
+Amber James,30,"Kankakee, Illinois",Bartender,Week 4
+Rachel Tchen,23,"Little Rock, Arkansas",Unemployed,Week 4
+Haley Ferguson,23,"Las Vegas, Nevada",Waitress,Week 4
+Jami Letain,23,"St. Albert, Alberta",Bartender,Week 3
+Shushanna Mkrtychyan,27,"Salt Lake City, Utah",Property Manager,Week 3
+Lace Morris,25,"Denver, Colorado",Real Estate Agent,Week 3
+"Amanda ""Mandi"" Kremer",28,"Portland, Oregon",Dentist,Week 2
+"Jacqueline ""Jackie"" Dion",23,"Newport Beach, California",Gerontologist,Week 2
+Samantha Passmore,26,"New Smyrna Beach, Florida",Attorney,Week 2
+"Lauren ""LB"" Barr",23,"Stillwater, Oklahoma",Fashion Buyer,Week 2
+Breanne Rice,30,"Seattle, Washington",Nutritional Therapist,Week 1
+"Isabel ""Izzy"" Goodkind",24,"Branford, Connecticut",Graphic Designer,Week 1
+Jessica Moser,23,"Boca Raton, Florida",Accountant,Week 1
+Laura Esselman,24,"Louisville, Kentucky",Account Executive,Week 1
+Lauren Russell,26,"Houston, Texas",Math Teacher,Week 1
+Maegan Miller,30,"Visalia, California",Cowgirl,Week 1
+Tiara Soleim,27,"Redmond, Washington",Chicken Enthusiast,Week 1
