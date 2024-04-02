@@ -4,7 +4,7 @@
     "Age": "23",
     "Hometown": "Powell, Tennessee",
     "Occupation": "Model",
-    "Outcome": "Winner",
+    "Eliminated": "Winner",
     "Place": "1"
   },
   {
@@ -12,7 +12,7 @@
     "Age": "23",
     "Hometown": "Auburn, Alabama",
     "Occupation": "Foster Parent Recruiter",
-    "Outcome": "Runner-up",
+    "Eliminated": "Runner-up",
     "Place": "2 (quit)"
   },
   {
@@ -20,7 +20,7 @@
     "Age": "26",
     "Hometown": "Virginia Beach, Virginia",
     "Occupation": "Medical Sales Rep",
-    "Outcome": "Week 9",
+    "Eliminated": "Week 9",
     "Place": "3"
   },
   {
@@ -28,7 +28,7 @@
     "Age": "28",
     "Hometown": "Urbandale, Iowa",
     "Occupation": "Professional Clothier",
-    "Outcome": "Week 8",
+    "Eliminated": "Week 8",
     "Place": "4"
   },
   {
@@ -36,7 +36,7 @@
     "Age": "27",
     "Hometown": "North Barrington, Illinois",
     "Occupation": "Attorney",
-    "Outcome": "Week 7",
+    "Eliminated": "Week 7",
     "Place": "5"
   },
   {
@@ -44,7 +44,7 @@
     "Age": "31",
     "Hometown": "Manhattan, New York",
     "Occupation": "Event Planner",
-    "Outcome": "6",
+    "Eliminated": "6",
     "Place": ""
   },
   {
@@ -52,7 +52,7 @@
     "Age": "22",
     "Hometown": "Langley, British Columbia",
     "Occupation": "Fashion Blogger",
-    "Outcome": "Week 6",
+    "Eliminated": "Week 6",
     "Place": "7–8"
   },
   {
@@ -60,7 +60,7 @@
     "Age": "24",
     "Hometown": "Northport, Alabama",
     "Occupation": "Retail Marketing Manager",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -68,7 +68,7 @@
     "Age": "24",
     "Hometown": "Syracuse, New York",
     "Occupation": "House Flipper",
-    "Outcome": "9",
+    "Eliminated": "9",
     "Place": ""
   },
   {
@@ -76,7 +76,7 @@
     "Age": "27",
     "Hometown": "Alexandria, Louisiana",
     "Occupation": "Nurse",
-    "Outcome": "10",
+    "Eliminated": "10",
     "Place": ""
   },
   {
@@ -84,7 +84,7 @@
     "Age": "26",
     "Hometown": "Jacksonville, Florida",
     "Occupation": "Marketing Coordinator",
-    "Outcome": "Week 5",
+    "Eliminated": "Week 5",
     "Place": "11–12"
   },
   {
@@ -92,7 +92,7 @@
     "Age": "27",
     "Hometown": "Las Vegas, Nevada",
     "Occupation": "Administrative Assistant",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -100,7 +100,7 @@
     "Age": "23",
     "Hometown": "Bar Harbor, Maine",
     "Occupation": "Home Care Coordinator",
-    "Outcome": "Week 4",
+    "Eliminated": "Week 4",
     "Place": "13–15"
   },
   {
@@ -108,7 +108,7 @@
     "Age": "23",
     "Hometown": "Kennesaw, Georgia",
     "Occupation": "Nanny",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -116,7 +116,7 @@
     "Age": "27",
     "Hometown": "Houston, Texas",
     "Occupation": "Realtor",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -124,7 +124,7 @@
     "Age": "24",
     "Hometown": "Helotes, Texas",
     "Occupation": "Orthodontist Assistant",
-    "Outcome": "16",
+    "Eliminated": "16",
     "Place": ""
   },
   {
@@ -132,7 +132,7 @@
     "Age": "(Returned to competition)",
     "Hometown": "Week 3",
     "Occupation": "",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -140,7 +140,7 @@
     "Age": "27",
     "Hometown": "Springfield, Illinois",
     "Occupation": "Esthetician",
-    "Outcome": "17–19",
+    "Eliminated": "17–19",
     "Place": ""
   },
   {
@@ -148,7 +148,7 @@
     "Age": "25",
     "Hometown": "Houston, Texas",
     "Occupation": "Client Relations Manager",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -156,7 +156,7 @@
     "Age": "24",
     "Hometown": "Knoxville, Tennessee",
     "Occupation": "Medical Radiographer",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -164,7 +164,7 @@
     "Age": "26",
     "Hometown": "Venice, Florida",
     "Occupation": "Cosmetologist",
-    "Outcome": "Week 2",
+    "Eliminated": "Week 2",
     "Place": "20–22"
   },
   {
@@ -172,7 +172,7 @@
     "Age": "26",
     "Hometown": "Glendale, California",
     "Occupation": "Marketing Executive",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -180,7 +180,7 @@
     "Age": "24",
     "Hometown": "Wellesley, Massachusetts",
     "Occupation": "Business Development Rep",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -188,7 +188,7 @@
     "Age": "27",
     "Hometown": "Fort Worth, Texas",
     "Occupation": "Cattle Rancher",
-    "Outcome": "Week 1",
+    "Eliminated": "Week 1",
     "Place": "23–30"
   },
   {
@@ -196,7 +196,7 @@
     "Age": "23",
     "Hometown": "Chicago, Illinois",
     "Occupation": "Flight Attendant",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -204,7 +204,7 @@
     "Age": "26",
     "Hometown": "Mesa, Arizona",
     "Occupation": "Media Buyer",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -212,7 +212,7 @@
     "Age": "22",
     "Hometown": "New Lenox, Illinois",
     "Occupation": "Nursing Student",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -220,7 +220,7 @@
     "Age": "28",
     "Hometown": "St. Charles, Illinois",
     "Occupation": "Pro NBA Dancer",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -228,7 +228,7 @@
     "Age": "26",
     "Hometown": "Davis, California",
     "Occupation": "Entertainment Sales Associate",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -236,7 +236,7 @@
     "Age": "23",
     "Hometown": "Laurel, Montana",
     "Occupation": "Patient Care Coordinator",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -244,7 +244,7 @@
     "Age": "26",
     "Hometown": "San Bruno, California",
     "Occupation": "Flight Attendant",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   }
 ]

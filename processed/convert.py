@@ -27,12 +27,17 @@ seasonNumbers = [1, 2, 5, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 21, 22, 23, 24,
 
 
 
-for seasonNumber in seasonNumbers:
-    if (seasonNumber < 10):
-        csv_file_path = f'./season_0{seasonNumber}.csv'
-        json_file_path = f'./json/season_0{seasonNumber}.json'
-    else:
-        csv_file_path = f'./season_{seasonNumber}.csv'
-        json_file_path = f'./json/season_{seasonNumber}.json'
-    csv_to_json(csv_file_path, json_file_path)
-    print(f'Conversion complete. JSON file saved at: {json_file_path}')
+csv_file_path = f'./all.csv'
+json_file_path = f'./json/all.json'
+csv_to_json(csv_file_path, json_file_path)
+print(f'Conversion complete. JSON file saved at: {json_file_path}')
+
+# for seasonNumber in seasonNumbers:
+#     if (seasonNumber < 10):
+#         csv_file_path = f'./season_0{seasonNumber}.csv'
+#         json_file_path = f'./json/season_0{seasonNumber}.json'
+#     else:
+#         csv_file_path = f'./season_{seasonNumber}.csv'
+#         json_file_path = f'./json/season_{seasonNumber}.json'
+#     csv_to_json(csv_file_path, json_file_path)
+#     print(f'Conversion complete. JSON file saved at: {json_file_path}')

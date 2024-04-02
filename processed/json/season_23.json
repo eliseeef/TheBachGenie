@@ -4,7 +4,7 @@
     "Age": "23",
     "Hometown": "Huntington Beach, California",
     "Occupation": "Speech Pathologist",
-    "Outcome": "Winner",
+    "Eliminated": "Winner",
     "Place": "1"
   },
   {
@@ -12,7 +12,7 @@
     "Age": "23",
     "Hometown": "Birmingham, Alabama",
     "Occupation": "Content Creator",
-    "Outcome": "Week 9",
+    "Eliminated": "Week 9",
     "Place": "2"
   },
   {
@@ -20,7 +20,7 @@
     "Age": "28",
     "Hometown": "Santa Ana, California",
     "Occupation": "Phlebotomist",
-    "Outcome": "3",
+    "Eliminated": "3",
     "Place": ""
   },
   {
@@ -28,7 +28,7 @@
     "Age": "(Returned to competition)",
     "Hometown": "Quit",
     "Occupation": "",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -36,7 +36,7 @@
     "Age": "23",
     "Hometown": "Fredericksburg, Virginia",
     "Occupation": "Miss North Carolina USA 2018",
-    "Outcome": "Week 8",
+    "Eliminated": "Week 8",
     "Place": "4"
   },
   {
@@ -44,7 +44,7 @@
     "Age": "26",
     "Hometown": "Whittier, California",
     "Occupation": "Dental Hygienist",
-    "Outcome": "Week 7",
+    "Eliminated": "Week 7",
     "Place": "5"
   },
   {
@@ -52,7 +52,7 @@
     "Age": "23",
     "Hometown": "Carlsbad, California",
     "Occupation": "Assistant Program Manager",
-    "Outcome": "6 (quit)",
+    "Eliminated": "6 (quit)",
     "Place": ""
   },
   {
@@ -60,7 +60,7 @@
     "Age": "24",
     "Hometown": "Northport, Alabama",
     "Occupation": "Miss Alabama USA 2018",
-    "Outcome": "7",
+    "Eliminated": "7",
     "Place": ""
   },
   {
@@ -68,7 +68,7 @@
     "Age": "26",
     "Hometown": "Oviedo, Florida",
     "Occupation": "Medical Sales Representative",
-    "Outcome": "Week 6",
+    "Eliminated": "Week 6",
     "Place": "8"
   },
   {
@@ -76,7 +76,7 @@
     "Age": "23",
     "Hometown": "Red Oak, Texas",
     "Occupation": "Interior Designer",
-    "Outcome": "9",
+    "Eliminated": "9",
     "Place": ""
   },
   {
@@ -84,7 +84,7 @@
     "Age": "27",
     "Hometown": "Virginia Beach, Virginia",
     "Occupation": "NBA Dancer",
-    "Outcome": "10 (quit)",
+    "Eliminated": "10 (quit)",
     "Place": ""
   },
   {
@@ -92,7 +92,7 @@
     "Age": "25",
     "Hometown": "Miami, Florida",
     "Occupation": "Social Media Coordinator",
-    "Outcome": "Week 5",
+    "Eliminated": "Week 5",
     "Place": "11–12"
   },
   {
@@ -100,7 +100,7 @@
     "Age": "24",
     "Hometown": "Manhattan, Kansas",
     "Occupation": "IT Risk Consultant",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -108,7 +108,7 @@
     "Age": "31",
     "Hometown": "Soldotna, Alaska",
     "Occupation": "Makeup Artist",
-    "Outcome": "13 (quit)",
+    "Eliminated": "13 (quit)",
     "Place": ""
   },
   {
@@ -116,7 +116,7 @@
     "Age": "23",
     "Hometown": "McDonough, Georgia",
     "Occupation": "Caterer",
-    "Outcome": "Week 4",
+    "Eliminated": "Week 4",
     "Place": "14–15"
   },
   {
@@ -124,7 +124,7 @@
     "Age": "31",
     "Hometown": "Rochester, New York",
     "Occupation": "Wardrobe Stylist",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -132,7 +132,7 @@
     "Age": "24",
     "Hometown": "Chino Hills, California",
     "Occupation": "Model",
-    "Outcome": "Week 3",
+    "Eliminated": "Week 3",
     "Place": "16–18"
   },
   {
@@ -140,7 +140,7 @@
     "Age": "26",
     "Hometown": "Fort Lauderdale, Florida",
     "Occupation": "DJ",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -148,7 +148,7 @@
     "Age": "30",
     "Hometown": "Raleigh, North Carolina",
     "Occupation": "Sales Account Manager",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -156,7 +156,7 @@
     "Age": "25",
     "Hometown": "Toronto, Ontario",
     "Occupation": "Realtor",
-    "Outcome": "19",
+    "Eliminated": "19",
     "Place": ""
   },
   {
@@ -164,7 +164,7 @@
     "Age": "29",
     "Hometown": "Vancouver, British Columbia",
     "Occupation": "Dog Rescuer",
-    "Outcome": "Week 2",
+    "Eliminated": "Week 2",
     "Place": "20–23"
   },
   {
@@ -172,7 +172,7 @@
     "Age": "28",
     "Hometown": "Hamilton, New Jersey",
     "Occupation": "Marketing Salesperson",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -180,7 +180,7 @@
     "Age": "23",
     "Hometown": "Mequon, Wisconsin",
     "Occupation": "Financial Associate",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -188,7 +188,7 @@
     "Age": "25",
     "Hometown": "Encinitas, California",
     "Occupation": "Recruiter",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -196,7 +196,7 @@
     "Age": "23",
     "Hometown": "Dennis, Massachusetts",
     "Occupation": "Sloth",
-    "Outcome": "Week 1",
+    "Eliminated": "Week 1",
     "Place": "24–30"
   },
   {
@@ -204,7 +204,7 @@
     "Age": "23",
     "Hometown": "Medford, Oregon",
     "Occupation": "Broadcast Journalist",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -212,7 +212,7 @@
     "Age": "28",
     "Hometown": "Plano, Texas",
     "Occupation": "Cinderella",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -220,7 +220,7 @@
     "Age": "26",
     "Hometown": "West Hollywood, California",
     "Occupation": "Social Worker",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -228,7 +228,7 @@
     "Age": "26",
     "Hometown": "Dallas, Texas",
     "Occupation": "Accountant",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -236,7 +236,7 @@
     "Age": "24",
     "Hometown": "Plano, Texas",
     "Occupation": "Nurse",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   },
   {
@@ -244,7 +244,7 @@
     "Age": "25",
     "Hometown": "Castle Pines, Colorado",
     "Occupation": "Business Development Associate",
-    "Outcome": "",
+    "Eliminated": "",
     "Place": ""
   }
 ]

@@ -4,7 +4,7 @@
         "Age": "26",
         "Hometown": "Kearney, Missouri",
         "Occupation": "Pediatric Nurse",
-        "Outcome": "Winner",
+        "Eliminated": "Winner",
         "Place": "1"
     },
     {
@@ -12,7 +12,7 @@
         "Age": "32",
         "Hometown": "Sacramento, California",
         "Occupation": "Hairstylist",
-        "Outcome": "Runner-up",
+        "Eliminated": "Runner-up",
         "Place": "2"
     },
     {
@@ -20,7 +20,7 @@
         "Age": "26",
         "Hometown": "Buckhead, Georgia",
         "Occupation": "Assistant District Attorney",
-        "Outcome": "Week 9",
+        "Eliminated": "Week 9",
         "Place": "3 (quit)"
     },
     {
@@ -28,7 +28,7 @@
         "Age": "32",
         "Hometown": "Martha's Vineyard, Massachusetts",
         "Occupation": "Real Estate Agent",
-        "Outcome": "Week 8",
+        "Eliminated": "Week 8",
         "Place": "4"
     },
     {
@@ -36,7 +36,7 @@
         "Age": "24",
         "Hometown": "Lexington, Ohio",
         "Occupation": "Science Educator",
-        "Outcome": "Week 7",
+        "Eliminated": "Week 7",
         "Place": "5"
     },
     {
@@ -44,7 +44,7 @@
         "Age": "29",
         "Hometown": "Ottawa, Ontario",
         "Occupation": "Opera Singer",
-        "Outcome": "6 (quit)",
+        "Eliminated": "6 (quit)",
         "Place": ""
     },
     {
@@ -52,7 +52,7 @@
         "Age": "29",
         "Hometown": "Iowa City, Iowa",
         "Occupation": "Medical Sales Rep",
-        "Outcome": "Week 6",
+        "Eliminated": "Week 6",
         "Place": "7"
     },
     {
@@ -60,7 +60,7 @@
         "Age": "22",
         "Hometown": "Rochester Hills, Michigan",
         "Occupation": "Former NBA Dancer",
-        "Outcome": "8",
+        "Eliminated": "8",
         "Place": ""
     },
     {
@@ -68,7 +68,7 @@
         "Age": "26",
         "Hometown": "Orland Park, Illinois",
         "Occupation": "Nanny",
-        "Outcome": "Week 5",
+        "Eliminated": "Week 5",
         "Place": "9–11"
     },
     {
@@ -76,7 +76,7 @@
         "Age": "25",
         "Hometown": "Litchfield, Illinois",
         "Occupation": "Psychiatric Nurse",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -84,7 +84,7 @@
         "Age": "27",
         "Hometown": "Conyers, Georgia",
         "Occupation": "Dog Lover",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -92,7 +92,7 @@
         "Age": "27",
         "Hometown": "Forty Fort, Pennsylvania",
         "Occupation": "First Grade Teacher",
-        "Outcome": "Week 4",
+        "Eliminated": "Week 4",
         "Place": "12–13"
     },
     {
@@ -100,7 +100,7 @@
         "Age": "26",
         "Hometown": "Clinton, Michigan",
         "Occupation": "Music Composer",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -108,7 +108,7 @@
         "Age": "24",
         "Hometown": "Aurora, Illinois",
         "Occupation": "Marketing Manager",
-        "Outcome": "Week 3",
+        "Eliminated": "Week 3",
         "Place": "14–15"
     },
     {
@@ -116,7 +116,7 @@
         "Age": "25",
         "Hometown": "Santa Barbara, California",
         "Occupation": "Free Spirit",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -124,7 +124,7 @@
         "Age": "27",
         "Hometown": "Clermont, Florida",
         "Occupation": "Local News Reporter",
-        "Outcome": "Week 2",
+        "Eliminated": "Week 2",
         "Place": "16–17"
     },
     {
@@ -132,7 +132,7 @@
         "Age": "27",
         "Hometown": "Miami, Florida",
         "Occupation": "Account Manager",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -140,7 +140,7 @@
         "Age": "24",
         "Hometown": "Porto Alegre, Brazil",
         "Occupation": "Legal Assistant",
-        "Outcome": "18",
+        "Eliminated": "18",
         "Place": ""
     },
     {
@@ -148,7 +148,7 @@
         "Age": "24",
         "Hometown": "Tampa, Florida",
         "Occupation": "Communications Director",
-        "Outcome": "Week 1",
+        "Eliminated": "Week 1",
         "Place": "19–27"
     },
     {
@@ -156,7 +156,7 @@
         "Age": "31",
         "Hometown": "Apopka, Florida",
         "Occupation": "Massage Therapist",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -164,7 +164,7 @@
         "Age": "25",
         "Hometown": "Roanoke, Texas",
         "Occupation": "Grade School Teacher",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -172,7 +172,7 @@
         "Age": "23",
         "Hometown": "Miami, Florida",
         "Occupation": "Police Support Specialist",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -180,7 +180,7 @@
         "Age": "23",
         "Hometown": "Rockford, Illinois",
         "Occupation": "Interior Designer",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -188,7 +188,7 @@
         "Age": "25",
         "Hometown": "Antelope Acres, California",
         "Occupation": "Nursing Home Owner",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -196,7 +196,7 @@
         "Age": "25",
         "Hometown": "Edmond, Oklahoma",
         "Occupation": "Mineral Coordinator",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -204,7 +204,7 @@
         "Age": "25",
         "Hometown": "Wagener, South Carolina",
         "Occupation": "Personal Banker",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     },
     {
@@ -212,7 +212,7 @@
         "Age": "26",
         "Hometown": "Sutter, California",
         "Occupation": "Personal Trainer",
-        "Outcome": "",
+        "Eliminated": "",
         "Place": ""
     }
 ]
