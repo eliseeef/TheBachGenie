@@ -1,0 +1,218 @@
+[
+    {
+        "Name": "Nikki Ferrell[6][7]",
+        "Age": "26",
+        "Hometown": "Kearney, Missouri",
+        "Occupation": "Pediatric Nurse",
+        "Outcome": "Winner",
+        "Place": "1"
+    },
+    {
+        "Name": "Clare Crawley[8]",
+        "Age": "32",
+        "Hometown": "Sacramento, California",
+        "Occupation": "Hairstylist",
+        "Outcome": "Runner-up",
+        "Place": "2"
+    },
+    {
+        "Name": "Andi Dorfman[9]",
+        "Age": "26",
+        "Hometown": "Buckhead, Georgia",
+        "Occupation": "Assistant District Attorney",
+        "Outcome": "Week 9",
+        "Place": "3 (quit)"
+    },
+    {
+        "Name": "Renee Oteri[10]",
+        "Age": "32",
+        "Hometown": "Martha's Vineyard, Massachusetts",
+        "Occupation": "Real Estate Agent",
+        "Outcome": "Week 8",
+        "Place": "4"
+    },
+    {
+        "Name": "Chelsie Webster[11]",
+        "Age": "24",
+        "Hometown": "Lexington, Ohio",
+        "Occupation": "Science Educator",
+        "Outcome": "Week 7",
+        "Place": "5"
+    },
+    {
+        "Name": "Sharleen Joynt[12][13]",
+        "Age": "29",
+        "Hometown": "Ottawa, Ontario[a]",
+        "Occupation": "Opera Singer",
+        "Outcome": "6 (quit)",
+        "Place": ""
+    },
+    {
+        "Name": "Katherine \"Kat\" Hurd[14]",
+        "Age": "29",
+        "Hometown": "Iowa City, Iowa",
+        "Occupation": "Medical Sales Rep",
+        "Outcome": "Week 6",
+        "Place": "7"
+    },
+    {
+        "Name": "Cassandra Ferguson[15]",
+        "Age": "22",
+        "Hometown": "Rochester Hills, Michigan",
+        "Occupation": "Former NBA Dancer",
+        "Outcome": "8",
+        "Place": ""
+    },
+    {
+        "Name": "Allison \"Alli\" Restko[13]",
+        "Age": "26",
+        "Hometown": "Orland Park, Illinois",
+        "Occupation": "Nanny",
+        "Outcome": "Week 5",
+        "Place": "9–11"
+    },
+    {
+        "Name": "Danielle Ronco[16]",
+        "Age": "25",
+        "Hometown": "Litchfield, Illinois",
+        "Occupation": "Psychiatric Nurse",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Kelly Travis[9][13]",
+        "Age": "27",
+        "Hometown": "Conyers, Georgia",
+        "Occupation": "Dog Lover",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Elise Mosca[17]",
+        "Age": "27",
+        "Hometown": "Forty Fort, Pennsylvania",
+        "Occupation": "First Grade Teacher",
+        "Outcome": "Week 4",
+        "Place": "12–13"
+    },
+    {
+        "Name": "Lauren Solomon[18]",
+        "Age": "26",
+        "Hometown": "Clinton, Michigan",
+        "Occupation": "Music Composer",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Christy Hansen[19]",
+        "Age": "24",
+        "Hometown": "Aurora, Illinois",
+        "Occupation": "Marketing Manager",
+        "Outcome": "Week 3",
+        "Place": "14–15"
+    },
+    {
+        "Name": "Lucinda \"Lucy\" Aragon[13]",
+        "Age": "25",
+        "Hometown": "Santa Barbara, California",
+        "Occupation": "Free Spirit",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Amy Long[20]",
+        "Age": "27",
+        "Hometown": "Clermont, Florida",
+        "Occupation": "Local News Reporter",
+        "Outcome": "Week 2",
+        "Place": "16–17"
+    },
+    {
+        "Name": "Chantel Forrest[21]",
+        "Age": "27",
+        "Hometown": "Miami, Florida",
+        "Occupation": "Account Manager",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Victoria Lima[13]",
+        "Age": "24",
+        "Hometown": "Porto Alegre, Brazil[b]",
+        "Occupation": "Legal Assistant",
+        "Outcome": "18",
+        "Place": ""
+    },
+    {
+        "Name": "Alexis Morgado[13][22]",
+        "Age": "24",
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Communications Director",
+        "Outcome": "Week 1",
+        "Place": "19–27"
+    },
+    {
+        "Name": "Amy Jokinen[13]",
+        "Age": "31",
+        "Hometown": "Apopka, Florida",
+        "Occupation": "Massage Therapist",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Ashley Poe[13]",
+        "Age": "25",
+        "Hometown": "Roanoke, Texas",
+        "Occupation": "Grade School Teacher",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Christine Llano[13][23]",
+        "Age": "23",
+        "Hometown": "Miami, Florida",
+        "Occupation": "Police Support Specialist",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Kylie Lewis[13][24]",
+        "Age": "23",
+        "Hometown": "Rockford, Illinois",
+        "Occupation": "Interior Designer",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Lacy Faddoul[13][21]",
+        "Age": "25",
+        "Hometown": "Antelope Acres, California",
+        "Occupation": "Nursing Home Owner",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Lauren Higginson[13]",
+        "Age": "25",
+        "Hometown": "Edmond, Oklahoma",
+        "Occupation": "Mineral Coordinator",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Maggie Gantt[13][25]",
+        "Age": "25",
+        "Hometown": "Wagener, South Carolina",
+        "Occupation": "Personal Banker",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Valerie Eredia[13][26]",
+        "Age": "26",
+        "Hometown": "Sutter, California",
+        "Occupation": "Personal Trainer",
+        "Outcome": "",
+        "Place": ""
+    }
+]

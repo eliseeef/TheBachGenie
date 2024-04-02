@@ -1,0 +1,202 @@
+[
+    {
+        "Name": "Melissa Rycroft[9]",
+        "Age": "25",
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Sales Representative",
+        "Outcome": "Winner",
+        "Place": "1"
+    },
+    {
+        "Name": "Molly Malaney[10]",
+        "Age": "24",
+        "Hometown": "Brookfield, Wisconsin",
+        "Occupation": "Department Store Buyer",
+        "Outcome": "Runner-Up",
+        "Place": "2"
+    },
+    {
+        "Name": "Jillian Harris",
+        "Age": "29",
+        "Hometown": "Peace River, Alberta",
+        "Occupation": "Interior Designer",
+        "Outcome": "Week 7",
+        "Place": "3"
+    },
+    {
+        "Name": "Naomi Crespo[11]",
+        "Age": "24",
+        "Hometown": "Carlsbad, California",
+        "Occupation": "Flight Attendant",
+        "Outcome": "Week 6",
+        "Place": "4"
+    },
+    {
+        "Name": "Stephanie Hogan[12]",
+        "Age": "34",
+        "Hometown": "Huntsville, Alabama",
+        "Occupation": "Medical Marketing Representative",
+        "Outcome": "Week 5",
+        "Place": "5"
+    },
+    {
+        "Name": "Lauren Wanger",
+        "Age": "27",
+        "Hometown": "Marlboro, New Jersey",
+        "Occupation": "Teacher",
+        "Outcome": "Week 4",
+        "Place": "6–8"
+    },
+    {
+        "Name": "Megan Parris[13]",
+        "Age": "25",
+        "Hometown": "Sewickley, Pennsylvania",
+        "Occupation": "Lacrosse Coach",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Shannon Bair[14]",
+        "Age": "29",
+        "Hometown": "Marshall, Missouri",
+        "Occupation": "Dental Hygienist",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Nikki Kaapke[15]",
+        "Age": "29",
+        "Hometown": "Blue Island, Illinois",
+        "Occupation": "Administrative Assistant",
+        "Outcome": "9",
+        "Place": ""
+    },
+    {
+        "Name": "Erica DeSimone",
+        "Age": "25",
+        "Hometown": "Monroe, Connecticut",
+        "Occupation": "Account Executive",
+        "Outcome": "Week 3",
+        "Place": "10–11"
+    },
+    {
+        "Name": "Kari Fajen[16]",
+        "Age": "27",
+        "Hometown": "Lee's Summit, Missouri",
+        "Occupation": "Account Executive",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Natalie Getz[17]",
+        "Age": "27",
+        "Hometown": "Morton, Illinois",
+        "Occupation": "Human Resources Recruiter",
+        "Outcome": "12",
+        "Place": ""
+    },
+    {
+        "Name": "Raquel Medeiros[18]",
+        "Age": "27",
+        "Hometown": "Recife, Pernambuco[a]",
+        "Occupation": "Medical Student",
+        "Outcome": "Week 2",
+        "Place": "13–14"
+    },
+    {
+        "Name": "Sharon Staebell[19]",
+        "Age": "32",
+        "Hometown": "Batavia, New York",
+        "Occupation": "Teacher",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Lisa Gonzalez[20]",
+        "Age": "28",
+        "Hometown": "Boise, Idaho",
+        "Occupation": "Public Relations Associate",
+        "Outcome": "15 (quit)",
+        "Place": ""
+    },
+    {
+        "Name": "Ann Lueders",
+        "Age": "24",
+        "Hometown": "Phoenix, Arizona",
+        "Occupation": "Flight Attendant",
+        "Outcome": "Week 1",
+        "Place": "16–25"
+    },
+    {
+        "Name": "Dominique Carta",
+        "Age": "26",
+        "Hometown": "Mount Carmel, Pennsylvania",
+        "Occupation": "Medical Sales Representative",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Emily",
+        "Age": "23",
+        "Hometown": "Seattle, Washington",
+        "Occupation": "Casino Marketing Representative",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Jackie Hickley",
+        "Age": "26",
+        "Hometown": "Springfield, Massachusetts",
+        "Occupation": "Wedding Coordinator",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Julie Dermotta",
+        "Age": "26",
+        "Hometown": "Columbus, Ohio",
+        "Occupation": "Teacher",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Nicole Mah",
+        "Age": "25",
+        "Hometown": "Calgary, Alberta",
+        "Occupation": "Menswear Buyer",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Renee Simlak",
+        "Age": "36",
+        "Hometown": "Southfield, Michigan",
+        "Occupation": "Jewelry Designer",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Shelby Callas",
+        "Age": "23",
+        "Hometown": "Stockton, California",
+        "Occupation": "Account Executive",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Stacia Mann",
+        "Age": "24",
+        "Hometown": "Orem, Utah",
+        "Occupation": "Charity Accountant",
+        "Outcome": "",
+        "Place": ""
+    },
+    {
+        "Name": "Treasure Morgan",
+        "Age": "28",
+        "Hometown": "Salt Lake City, Utah",
+        "Occupation": "Nurse Practitioner",
+        "Outcome": "",
+        "Place": ""
+    }
+]

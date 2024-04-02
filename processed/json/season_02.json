@@ -1,0 +1,177 @@
+[
+    {
+        "Name": "Helene Eksterowicz",
+        "Age": "27",
+        "Hometown": "Gloucester, New Jersey",
+        "Job": "School Psychologist",
+        "Eliminated": "Winner"
+    },
+    {
+        "Name": "Brooke Smith",
+        "Age": "22",
+        "Hometown": "Albertville, Alabama",
+        "Job": "College Student",
+        "Eliminated": "Runner-up"
+    },
+    {
+        "Name": "Gwen Gioia",
+        "Age": "31",
+        "Hometown": "Philadelphia, Pennsylvania",
+        "Job": "Executive Recruiter",
+        "Eliminated": "Week 6"
+    },
+    {
+        "Name": "Angela Vaught",
+        "Age": "27",
+        "Hometown": "Kansas City, Missouri",
+        "Job": "Registered Nurse",
+        "Eliminated": "Week 5"
+    },
+    {
+        "Name": "Hayley Crittenden",
+        "Age": "28",
+        "Hometown": "Lake Oswego, Oregon",
+        "Job": "Retail Manager",
+        "Eliminated": "Week 4"
+    },
+    {
+        "Name": "Heather Cranford",
+        "Age": "30",
+        "Hometown": "Dallas, Texas",
+        "Job": "Flight Attendant",
+        "Eliminated": "Week 4"
+    },
+    {
+        "Name": "Christi Weible",
+        "Age": "23",
+        "Hometown": "Boise, Idaho",
+        "Job": "Assistant Financial Advisor",
+        "Eliminated": "Week 3"
+    },
+    {
+        "Name": "Heather Campion",
+        "Age": "24",
+        "Hometown": "Walnut Creek, California",
+        "Job": "Marriage Therapy Trainee",
+        "Eliminated": "Week 3"
+    },
+    {
+        "Name": "Kyla Dickerson",
+        "Age": "22",
+        "Hometown": "Midvale, Utah",
+        "Job": "Airline Supervisor",
+        "Eliminated": "Week 3"
+    },
+    {
+        "Name": "Shannon Fries",
+        "Age": "26",
+        "Hometown": "North Lindenhurst, New York",
+        "Job": "Graphic Artist",
+        "Eliminated": "Week 3"
+    },
+    {
+        "Name": "Dana Norris",
+        "Age": "24",
+        "Hometown": "Beverly Hills, California",
+        "Job": "Radio Sales",
+        "Eliminated": "Week 2"
+    },
+    {
+        "Name": "Erin Lulevitch",
+        "Age": "25",
+        "Hometown": "West Chester, Pennsylvania",
+        "Job": "Publications Quality Control",
+        "Eliminated": "Week 2"
+    },
+    {
+        "Name": "Suzanne Freeman",
+        "Age": "33",
+        "Hometown": "Redondo Beach, California",
+        "Job": "Flight Attendant",
+        "Eliminated": "Week 2"
+    },
+    {
+        "Name": "Frances Dinglasan",
+        "Age": "30",
+        "Hometown": "San Francisco, California",
+        "Job": "Strategic Planning Analyst",
+        "Eliminated": "Week 2 (Quit)"
+    },
+    {
+        "Name": "Anindita Dutta",
+        "Age": "27",
+        "Hometown": "Brooklyn, New York",
+        "Job": "Attorney",
+        "Eliminated": "Week 2 (Quit)"
+    },
+    {
+        "Name": "Amber West",
+        "Age": "26",
+        "Hometown": "Chapel Hill, North Carolina",
+        "Job": "Psychologist",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Camille Langfield",
+        "Age": "29",
+        "Hometown": "Sherman Oaks, California",
+        "Job": "Actress",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Cari",
+        "Age": "29",
+        "Hometown": "Granite City, Illinois",
+        "Job": "3rd Grade Teacher",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Christy",
+        "Age": "24",
+        "Hometown": "Avondale, Arizona",
+        "Job": "Radiological Technologist",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Erin A.",
+        "Age": "24",
+        "Hometown": "Houston, Texas",
+        "Job": "Interior Designer",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Fatima Rivas",
+        "Age": "22",
+        "Hometown": "Long Beach, California",
+        "Job": "College Student",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Liangy Fernandez",
+        "Age": "30",
+        "Hometown": "Coral Gables, Florida",
+        "Job": "Paralegal",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Lori Todd",
+        "Age": "26",
+        "Hometown": "Dallas, Texas",
+        "Job": "Former NBA Cheerleader",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Merrilee Donohue",
+        "Age": "28",
+        "Hometown": "Forked River, New Jersey",
+        "Job": "1st Grade Teacher",
+        "Eliminated": "Week 1"
+    },
+    {
+        "Name": "Suzi Reid",
+        "Age": "28",
+        "Hometown": "Richmond, Virginia",
+        "Job": "Communications Specialist",
+        "Eliminated": "Week 1"
+    }
+]

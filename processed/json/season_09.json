@@ -1,0 +1,191 @@
+[
+    {
+        "Name": "Jennifer Wilson",
+        "Age": "24",
+        "Hometown": "Pembroke Pines, Florida",
+        "Occupation": "Teacher",
+        "Outcome": "Winner"
+    },
+    {
+        "Name": "Sadie Murray",
+        "Age": "23",
+        "Hometown": "Carlsbad, California",
+        "Occupation": "Publicist",
+        "Outcome": "Week 7"
+    },
+    {
+        "Name": "Lisa Blank",
+        "Age": "25",
+        "Hometown": "Portland, Oregon",
+        "Occupation": "Marketing manager",
+        "Outcome": "Week 6"
+    },
+    {
+        "Name": "Agnese Polliza",
+        "Age": "24",
+        "Hometown": "Venice, Italy",
+        "Occupation": "Student",
+        "Outcome": "Week 5"
+    },
+    {
+        "Name": "Desiree Valentin",
+        "Age": "22",
+        "Hometown": "Salt Lake City, Utah",
+        "Occupation": "Realtor",
+        "Outcome": "Week 4"
+    },
+    {
+        "Name": "Jeanette Pawula",
+        "Age": "23",
+        "Hometown": "Bloomingdale, Illinois",
+        "Occupation": "Teacher",
+        "Outcome": ""
+    },
+    {
+        "Name": "Erica Rose",
+        "Age": "23",
+        "Hometown": "Houston, Texas",
+        "Occupation": "Attorney",
+        "Outcome": "Week 3"
+    },
+    {
+        "Name": "Gina Clark",
+        "Age": "28",
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Ultrasound technician",
+        "Outcome": ""
+    },
+    {
+        "Name": "Jami Matzke",
+        "Age": "27",
+        "Hometown": "Galveston, Texas",
+        "Occupation": "Event planner",
+        "Outcome": ""
+    },
+    {
+        "Name": "Ellen DeMaio",
+        "Age": "30",
+        "Hometown": "New Haven, Connecticut",
+        "Occupation": "Realtor",
+        "Outcome": "Week 2"
+    },
+    {
+        "Name": "Kimberly \"Kim\" Jackson",
+        "Age": "27",
+        "Hometown": "Newport Beach, California",
+        "Occupation": "Interior designer",
+        "Outcome": ""
+    },
+    {
+        "Name": "Sarah Schnare",
+        "Age": "30",
+        "Hometown": "Nelson, British Columbia",
+        "Occupation": "Journalist",
+        "Outcome": ""
+    },
+    {
+        "Name": "April Jacobs",
+        "Age": "23",
+        "Hometown": "Hyde Park, Chicago, Illinois",
+        "Occupation": "Model",
+        "Outcome": "Week 1"
+    },
+    {
+        "Name": "Andrea Shirley",
+        "Age": "28",
+        "Hometown": "Cincinnati, Ohio",
+        "Occupation": "Hotel concierge",
+        "Outcome": ""
+    },
+    {
+        "Name": "Britt Keeder",
+        "Age": "28",
+        "Hometown": "Columbus, Ohio",
+        "Occupation": "Beer chemist",
+        "Outcome": ""
+    },
+    {
+        "Name": "Carissa Ilburg",
+        "Age": "25",
+        "Hometown": "Cattaraugus, New York",
+        "Occupation": "Attorney",
+        "Outcome": ""
+    },
+    {
+        "Name": "Claudia Gismondi",
+        "Age": "22",
+        "Hometown": "Boca Raton, Florida",
+        "Occupation": "Restaurateur",
+        "Outcome": ""
+    },
+    {
+        "Name": "Cosetta Blanca",
+        "Age": "",
+        "Hometown": "Italy",
+        "Occupation": "Dancer",
+        "Outcome": ""
+    },
+    {
+        "Name": "Elyse Hammer",
+        "Age": "27",
+        "Hometown": "Meadow Vista, California",
+        "Occupation": "Physician",
+        "Outcome": ""
+    },
+    {
+        "Name": "Heather Sneed",
+        "Age": "34",
+        "Hometown": "Aliquippa, Pennsylvania",
+        "Occupation": "Registered nurse",
+        "Outcome": ""
+    },
+    {
+        "Name": "Jessica Horner",
+        "Age": "25",
+        "Hometown": "Charlotte, North Carolina",
+        "Occupation": "Assistant buyer",
+        "Outcome": ""
+    },
+    {
+        "Name": "Laura Morgan",
+        "Age": "29",
+        "Hometown": "Spring Valley, California",
+        "Occupation": "Dolphin trainer",
+        "Outcome": ""
+    },
+    {
+        "Name": "Meryl \"Meri\" Barr",
+        "Age": "27",
+        "Hometown": "Biloxi, Mississippi",
+        "Occupation": "Attorney",
+        "Outcome": ""
+    },
+    {
+        "Name": "Renée Snell",
+        "Age": "30",
+        "Hometown": "Baltimore, Maryland",
+        "Occupation": "Broadcast marketer",
+        "Outcome": ""
+    },
+    {
+        "Name": "Rita Ghazal",
+        "Age": "29",
+        "Hometown": "Richmond, Virginia",
+        "Occupation": "Policy advisor",
+        "Outcome": ""
+    },
+    {
+        "Name": "Rosella Fratto",
+        "Age": "27",
+        "Hometown": "Homer Glen, Illinois",
+        "Occupation": "Make-up artist",
+        "Outcome": ""
+    },
+    {
+        "Name": "Tara Durr",
+        "Age": "24",
+        "Hometown": "St. Augustine, Florida",
+        "Occupation": "Realtor",
+        "Outcome": ""
+    }
+]
