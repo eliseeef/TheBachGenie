@@ -1,272 +1,242 @@
 [
-    {
-        "Name": "Whitney Bischoff",
-        "Age": "29",
-        "Hometown": "Louisville, Kentucky",
-        "Occupation": "Fertility Nurse",
-        "Outcome": "Winner",
-        "Place": "1",
-        "Ref": ""
-    },
-    {
-        "Name": "Becca Tilley",
-        "Age": "25",
-        "Hometown": "Shreveport, Louisiana",
-        "Occupation": "Chiropractic Assistant",
-        "Outcome": "Runner-up",
-        "Place": "2",
-        "Ref": ""
-    },
-    {
-        "Name": "Kaitlyn Bristowe",
-        "Age": "29",
-        "Hometown": "Leduc, Alberta",
-        "Occupation": "Dance Instructor",
-        "Outcome": "Week 9",
-        "Place": "3",
-        "Ref": ""
-    },
-    {
-        "Name": "Jade Roper",
-        "Age": "28",
-        "Hometown": "Gering, Nebraska",
-        "Occupation": "Cosmetics Developer",
-        "Outcome": "Week 8",
-        "Place": "4",
-        "Ref": ""
-    },
-    {
-        "Name": "Carly Waddell",
-        "Age": "29",
-        "Hometown": "Arlington, Texas",
-        "Occupation": "Cruise Ship Singer",
-        "Outcome": "Week 7",
-        "Place": "5",
-        "Ref": ""
-    },
-    {
-        "Name": "Britt Nilsson",
-        "Age": "27",
-        "Hometown": "Wolcott Mills, Michigan",
-        "Occupation": "Waitress",
-        "Outcome": "6",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Megan Bell",
-        "Age": "24",
-        "Hometown": "Brentwood, Tennessee",
-        "Occupation": "Make-Up Artist",
-        "Outcome": "Week 6",
-        "Place": "7 (quit)",
-        "Ref": ""
-    },
-    {
-        "Name": "Kelsey Poe",
-        "Age": "28",
-        "Hometown": "Hudsonville, Michigan",
-        "Occupation": "Guidance Counselor",
-        "Outcome": "8",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Ashley Iaconetti",
-        "Age": "26",
-        "Hometown": "Great Falls, Virginia",
-        "Occupation": "Journalist",
-        "Outcome": "9",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Mackenzie Deonigi",
-        "Age": "21",
-        "Hometown": "Maple Valley, Washington",
-        "Occupation": "Dental Assistant",
-        "Outcome": "Week 5",
-        "Place": "10–11",
-        "Ref": ""
-    },
-    {
-        "Name": "Samantha Steffen",
-        "Age": "27",
-        "Hometown": "Indianapolis, Indiana",
-        "Occupation": "Fashion Designer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Ashley Salter",
-        "Age": "24",
-        "Hometown": "Vinings, Georgia",
-        "Occupation": "Hair Stylist",
-        "Outcome": "Week 4",
-        "Place": "12–14",
-        "Ref": ""
-    },
-    {
-        "Name": "Juelia Kinney",
-        "Age": "30",
-        "Hometown": "Beaverton, Oregon",
-        "Occupation": "Esthetician",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Nikki Delventhal",
-        "Age": "26",
-        "Hometown": "Hasbrouck Heights, New Jersey",
-        "Occupation": "Former NFL Cheerleader",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jillian Anderson",
-        "Age": "25",
-        "Hometown": "Howland, Ohio",
-        "Occupation": "News Producer",
-        "Outcome": "15",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Amber James",
-        "Age": "29",
-        "Hometown": "Kankakee, Illinois",
-        "Occupation": "Bartender",
-        "Outcome": "Week 3",
-        "Place": "16–18",
-        "Ref": ""
-    },
-    {
-        "Name": "Tracy Darakis",
-        "Age": "29",
-        "Hometown": "Wellington, Florida",
-        "Occupation": "Fourth Grade Teacher",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Trina Scherenberg",
-        "Age": "33",
-        "Hometown": "Algonquin, Illinois",
-        "Occupation": "Special Education Teacher",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alissa Giambrone",
-        "Age": "24",
-        "Hometown": "Hamilton, New Jersey",
-        "Occupation": "Flight Attendant",
-        "Outcome": "Week 2",
-        "Place": "19–23",
-        "Ref": ""
-    },
-    {
-        "Name": "Jordan Branch",
-        "Age": "24",
-        "Hometown": "Windsor, Colorado",
-        "Occupation": "Student",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kimberly Sherbach",
-        "Age": "28",
-        "Hometown": "Wantagh, New York",
-        "Occupation": "Yoga Instructor",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Tandra Steiner",
-        "Age": "30",
-        "Hometown": "Sandy, Utah",
-        "Occupation": "Executive Assistant",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Tara Eddings",
-        "Age": "26",
-        "Hometown": "Fort Lauderdale, Florida",
-        "Occupation": "Sport Fishing Enthusiast",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Amanda Goerlitz",
-        "Age": "24",
-        "Hometown": "Lake in the Hills, Illinois",
-        "Occupation": "Ballet Teacher",
-        "Outcome": "Week 1",
-        "Place": "24–30",
-        "Ref": ""
-    },
-    {
-        "Name": "Bo Stanley",
-        "Age": "25",
-        "Hometown": "Carpinteria, California",
-        "Occupation": "Plus-Size Model",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Brittany Fetkin",
-        "Age": "26",
-        "Hometown": "Temecula, California",
-        "Occupation": "WWE Diva-in-Training",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kara Wilson",
-        "Age": "25",
-        "Hometown": "Brownsville, Kentucky",
-        "Occupation": "High School Soccer Coach",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Michelle Davis",
-        "Age": "25",
-        "Hometown": "Provo, Utah",
-        "Occupation": "Wedding Cake Baker",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Nicole Meacham",
-        "Age": "31",
-        "Hometown": "Scottsdale, Arizona",
-        "Occupation": "Real Estate Agent",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Reegan Cornwell",
-        "Age": "28",
-        "Hometown": "Manhattan Beach, California",
-        "Occupation": "Cadaver Tissue Saleswoman",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    }
+  {
+    "Name": "Whitney Bischoff",
+    "Age": "29",
+    "Hometown": "Louisville, Kentucky",
+    "Occupation": "Fertility Nurse",
+    "Outcome": "Winner",
+    "Place": "1"
+  },
+  {
+    "Name": "Becca Tilley",
+    "Age": "25",
+    "Hometown": "Shreveport, Louisiana",
+    "Occupation": "Chiropractic Assistant",
+    "Outcome": "Runner-up",
+    "Place": "2"
+  },
+  {
+    "Name": "Kaitlyn Bristowe",
+    "Age": "29",
+    "Hometown": "Leduc, Alberta",
+    "Occupation": "Dance Instructor",
+    "Outcome": "Week 9",
+    "Place": "3"
+  },
+  {
+    "Name": "Jade Roper",
+    "Age": "28",
+    "Hometown": "Gering, Nebraska",
+    "Occupation": "Cosmetics Developer",
+    "Outcome": "Week 8",
+    "Place": "4"
+  },
+  {
+    "Name": "Carly Waddell",
+    "Age": "29",
+    "Hometown": "Arlington, Texas",
+    "Occupation": "Cruise Ship Singer",
+    "Outcome": "Week 7",
+    "Place": "5"
+  },
+  {
+    "Name": "Britt Nilsson",
+    "Age": "27",
+    "Hometown": "Wolcott Mills, Michigan",
+    "Occupation": "Waitress",
+    "Outcome": "6",
+    "Place": ""
+  },
+  {
+    "Name": "Megan Bell",
+    "Age": "24",
+    "Hometown": "Brentwood, Tennessee",
+    "Occupation": "Make-Up Artist",
+    "Outcome": "Week 6",
+    "Place": "7 (quit)"
+  },
+  {
+    "Name": "Kelsey Poe",
+    "Age": "28",
+    "Hometown": "Hudsonville, Michigan",
+    "Occupation": "Guidance Counselor",
+    "Outcome": "8",
+    "Place": ""
+  },
+  {
+    "Name": "Ashley Iaconetti",
+    "Age": "26",
+    "Hometown": "Great Falls, Virginia",
+    "Occupation": "Journalist",
+    "Outcome": "9",
+    "Place": ""
+  },
+  {
+    "Name": "Mackenzie Deonigi",
+    "Age": "21",
+    "Hometown": "Maple Valley, Washington",
+    "Occupation": "Dental Assistant",
+    "Outcome": "Week 5",
+    "Place": "10–11"
+  },
+  {
+    "Name": "Samantha Steffen",
+    "Age": "27",
+    "Hometown": "Indianapolis, Indiana",
+    "Occupation": "Fashion Designer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Ashley Salter",
+    "Age": "24",
+    "Hometown": "Vinings, Georgia",
+    "Occupation": "Hair Stylist",
+    "Outcome": "Week 4",
+    "Place": "12–14"
+  },
+  {
+    "Name": "Juelia Kinney",
+    "Age": "30",
+    "Hometown": "Beaverton, Oregon",
+    "Occupation": "Esthetician",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Nikki Delventhal",
+    "Age": "26",
+    "Hometown": "Hasbrouck Heights, New Jersey",
+    "Occupation": "Former NFL Cheerleader",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Jillian Anderson",
+    "Age": "25",
+    "Hometown": "Howland, Ohio",
+    "Occupation": "News Producer",
+    "Outcome": "15",
+    "Place": ""
+  },
+  {
+    "Name": "Amber James",
+    "Age": "29",
+    "Hometown": "Kankakee, Illinois",
+    "Occupation": "Bartender",
+    "Outcome": "Week 3",
+    "Place": "16–18"
+  },
+  {
+    "Name": "Tracy Darakis",
+    "Age": "29",
+    "Hometown": "Wellington, Florida",
+    "Occupation": "Fourth Grade Teacher",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Trina Scherenberg",
+    "Age": "33",
+    "Hometown": "Algonquin, Illinois",
+    "Occupation": "Special Education Teacher",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Alissa Giambrone",
+    "Age": "24",
+    "Hometown": "Hamilton, New Jersey",
+    "Occupation": "Flight Attendant",
+    "Outcome": "Week 2",
+    "Place": "19–23"
+  },
+  {
+    "Name": "Jordan Branch",
+    "Age": "24",
+    "Hometown": "Windsor, Colorado",
+    "Occupation": "Student",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kimberly Sherbach",
+    "Age": "28",
+    "Hometown": "Wantagh, New York",
+    "Occupation": "Yoga Instructor",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Tandra Steiner",
+    "Age": "30",
+    "Hometown": "Sandy, Utah",
+    "Occupation": "Executive Assistant",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Tara Eddings",
+    "Age": "26",
+    "Hometown": "Fort Lauderdale, Florida",
+    "Occupation": "Sport Fishing Enthusiast",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Amanda Goerlitz",
+    "Age": "24",
+    "Hometown": "Lake in the Hills, Illinois",
+    "Occupation": "Ballet Teacher",
+    "Outcome": "Week 1",
+    "Place": "24–30"
+  },
+  {
+    "Name": "Bo Stanley",
+    "Age": "25",
+    "Hometown": "Carpinteria, California",
+    "Occupation": "Plus-Size Model",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Brittany Fetkin",
+    "Age": "26",
+    "Hometown": "Temecula, California",
+    "Occupation": "WWE Diva-in-Training",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kara Wilson",
+    "Age": "25",
+    "Hometown": "Brownsville, Kentucky",
+    "Occupation": "High School Soccer Coach",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Michelle Davis",
+    "Age": "25",
+    "Hometown": "Provo, Utah",
+    "Occupation": "Wedding Cake Baker",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Nicole Meacham",
+    "Age": "31",
+    "Hometown": "Scottsdale, Arizona",
+    "Occupation": "Real Estate Agent",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Reegan Cornwell",
+    "Age": "28",
+    "Hometown": "Manhattan Beach, California",
+    "Occupation": "Cadaver Tissue Saleswoman",
+    "Outcome": "",
+    "Place": ""
+  }
 ]

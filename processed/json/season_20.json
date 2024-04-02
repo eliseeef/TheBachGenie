@@ -1,254 +1,226 @@
 [
-    {
-        "Name": "Lauren Bushnell",
-        "Age": "25",
-        "Hometown": "West Linn, Oregon",
-        "Occupation": "Flight Attendant",
-        "Outcome": "Winner",
-        "Place": "1",
-        "Ref": ""
-    },
-    {
-        "Name": "Joelle  Fletcher",
-        "Age": "24",
-        "Hometown": "Dallas, Texas",
-        "Occupation": "Real Estate Developer",
-        "Outcome": "Runner-up",
-        "Place": "2",
-        "Ref": ""
-    },
-    {
-        "Name": "Caila Quinn",
-        "Age": "24",
-        "Hometown": "Hudson, Ohio",
-        "Occupation": "Software Sales Representative",
-        "Outcome": "Week 9",
-        "Place": "3",
-        "Ref": ""
-    },
-    {
-        "Name": "Amanda Stanton",
-        "Age": "25",
-        "Hometown": "Laguna Beach, California",
-        "Occupation": "Esthetician",
-        "Outcome": "Week 8",
-        "Place": "4",
-        "Ref": ""
-    },
-    {
-        "Name": "Becca Tilley",
-        "Age": "26",
-        "Hometown": "Shreveport, Louisiana",
-        "Occupation": "Chiropractic Assistant",
-        "Outcome": "Week 7",
-        "Place": "5",
-        "Ref": ""
-    },
-    {
-        "Name": "Emily Ferguson",
-        "Age": "23",
-        "Hometown": "Las Vegas, Nevada",
-        "Occupation": "Waitress",
-        "Outcome": "6",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Himle",
-        "Age": "25",
-        "Hometown": "Dexter, Michigan",
-        "Occupation": "Kindergarten Teacher",
-        "Outcome": "Week 6",
-        "Place": "7",
-        "Ref": ""
-    },
-    {
-        "Name": "Olivia Caridi",
-        "Age": "23",
-        "Hometown": "Austin, Texas",
-        "Occupation": "Former News Anchor",
-        "Outcome": "8",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Leah Block",
-        "Age": "25",
-        "Hometown": "Greenwood Village, Colorado",
-        "Occupation": "Event Planner",
-        "Outcome": "9",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jennifer Saviano",
-        "Age": "25",
-        "Hometown": "Davie, Florida",
-        "Occupation": "Small Business Owner",
-        "Outcome": "Week 5",
-        "Place": "10",
-        "Ref": ""
-    },
-    {
-        "Name": "Jubilee Sharpe",
-        "Age": "24",
-        "Hometown": "Fort Lauderdale, Florida",
-        "Occupation": "War Veteran",
-        "Outcome": "11",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Amber James",
-        "Age": "30",
-        "Hometown": "Kankakee, Illinois",
-        "Occupation": "Bartender",
-        "Outcome": "Week 4",
-        "Place": "12–13",
-        "Ref": ""
-    },
-    {
-        "Name": "Rachel Tchen",
-        "Age": "23",
-        "Hometown": "Little Rock, Arkansas",
-        "Occupation": "Unemployed",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Haley Ferguson",
-        "Age": "23",
-        "Hometown": "Las Vegas, Nevada",
-        "Occupation": "Waitress",
-        "Outcome": "14",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jami Letain",
-        "Age": "23",
-        "Hometown": "St. Albert, Alberta",
-        "Occupation": "Bartender",
-        "Outcome": "Week 3",
-        "Place": "15–16",
-        "Ref": ""
-    },
-    {
-        "Name": "Shushanna Mkrtychyan",
-        "Age": "27",
-        "Hometown": "Salt Lake City, Utah",
-        "Occupation": "Property Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lace Morris",
-        "Age": "25",
-        "Hometown": "Denver, Colorado",
-        "Occupation": "Real Estate Agent",
-        "Outcome": "17 (quit)",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Amanda  Kremer",
-        "Age": "28",
-        "Hometown": "Portland, Oregon",
-        "Occupation": "Dentist",
-        "Outcome": "Week 2",
-        "Place": "18–20",
-        "Ref": ""
-    },
-    {
-        "Name": "Jacqueline  Dion",
-        "Age": "23",
-        "Hometown": "Newport Beach, California",
-        "Occupation": "Gerontologist",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Samantha Passmore",
-        "Age": "26",
-        "Hometown": "New Smyrna Beach, Florida",
-        "Occupation": "Attorney",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren  Barr",
-        "Age": "23",
-        "Hometown": "Stillwater, Oklahoma",
-        "Occupation": "Fashion Buyer",
-        "Outcome": "21 (quit)",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Breanne Rice",
-        "Age": "30",
-        "Hometown": "Seattle, Washington",
-        "Occupation": "Nutritional Therapist",
-        "Outcome": "Week 1",
-        "Place": "22–28",
-        "Ref": ""
-    },
-    {
-        "Name": "Isabel  Goodkind",
-        "Age": "24",
-        "Hometown": "Branford, Connecticut",
-        "Occupation": "Graphic Designer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jessica Moser",
-        "Age": "23",
-        "Hometown": "Boca Raton, Florida",
-        "Occupation": "Accountant",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Laura Esselman",
-        "Age": "24",
-        "Hometown": "Louisville, Kentucky",
-        "Occupation": "Account Executive",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Russell",
-        "Age": "26",
-        "Hometown": "Houston, Texas",
-        "Occupation": "Math Teacher",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Maegan Miller",
-        "Age": "30",
-        "Hometown": "Visalia, California",
-        "Occupation": "Cowgirl",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Tiara Soleim",
-        "Age": "27",
-        "Hometown": "Redmond, Washington",
-        "Occupation": "Chicken Enthusiast",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    }
+  {
+    "Name": "Lauren Bushnell",
+    "Age": "25",
+    "Hometown": "West Linn, Oregon",
+    "Occupation": "Flight Attendant",
+    "Outcome": "Winner",
+    "Place": "1"
+  },
+  {
+    "Name": "Joelle  Fletcher",
+    "Age": "24",
+    "Hometown": "Dallas, Texas",
+    "Occupation": "Real Estate Developer",
+    "Outcome": "Runner-up",
+    "Place": "2"
+  },
+  {
+    "Name": "Caila Quinn",
+    "Age": "24",
+    "Hometown": "Hudson, Ohio",
+    "Occupation": "Software Sales Representative",
+    "Outcome": "Week 9",
+    "Place": "3"
+  },
+  {
+    "Name": "Amanda Stanton",
+    "Age": "25",
+    "Hometown": "Laguna Beach, California",
+    "Occupation": "Esthetician",
+    "Outcome": "Week 8",
+    "Place": "4"
+  },
+  {
+    "Name": "Becca Tilley",
+    "Age": "26",
+    "Hometown": "Shreveport, Louisiana",
+    "Occupation": "Chiropractic Assistant",
+    "Outcome": "Week 7",
+    "Place": "5"
+  },
+  {
+    "Name": "Emily Ferguson",
+    "Age": "23",
+    "Hometown": "Las Vegas, Nevada",
+    "Occupation": "Waitress",
+    "Outcome": "6",
+    "Place": ""
+  },
+  {
+    "Name": "Lauren Himle",
+    "Age": "25",
+    "Hometown": "Dexter, Michigan",
+    "Occupation": "Kindergarten Teacher",
+    "Outcome": "Week 6",
+    "Place": "7"
+  },
+  {
+    "Name": "Olivia Caridi",
+    "Age": "23",
+    "Hometown": "Austin, Texas",
+    "Occupation": "Former News Anchor",
+    "Outcome": "8",
+    "Place": ""
+  },
+  {
+    "Name": "Leah Block",
+    "Age": "25",
+    "Hometown": "Greenwood Village, Colorado",
+    "Occupation": "Event Planner",
+    "Outcome": "9",
+    "Place": ""
+  },
+  {
+    "Name": "Jennifer Saviano",
+    "Age": "25",
+    "Hometown": "Davie, Florida",
+    "Occupation": "Small Business Owner",
+    "Outcome": "Week 5",
+    "Place": "10"
+  },
+  {
+    "Name": "Jubilee Sharpe",
+    "Age": "24",
+    "Hometown": "Fort Lauderdale, Florida",
+    "Occupation": "War Veteran",
+    "Outcome": "11",
+    "Place": ""
+  },
+  {
+    "Name": "Amber James",
+    "Age": "30",
+    "Hometown": "Kankakee, Illinois",
+    "Occupation": "Bartender",
+    "Outcome": "Week 4",
+    "Place": "12–13"
+  },
+  {
+    "Name": "Rachel Tchen",
+    "Age": "23",
+    "Hometown": "Little Rock, Arkansas",
+    "Occupation": "Unemployed",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Haley Ferguson",
+    "Age": "23",
+    "Hometown": "Las Vegas, Nevada",
+    "Occupation": "Waitress",
+    "Outcome": "14",
+    "Place": ""
+  },
+  {
+    "Name": "Jami Letain",
+    "Age": "23",
+    "Hometown": "St. Albert, Alberta",
+    "Occupation": "Bartender",
+    "Outcome": "Week 3",
+    "Place": "15–16"
+  },
+  {
+    "Name": "Shushanna Mkrtychyan",
+    "Age": "27",
+    "Hometown": "Salt Lake City, Utah",
+    "Occupation": "Property Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Lace Morris",
+    "Age": "25",
+    "Hometown": "Denver, Colorado",
+    "Occupation": "Real Estate Agent",
+    "Outcome": "17 (quit)",
+    "Place": ""
+  },
+  {
+    "Name": "Amanda  Kremer",
+    "Age": "28",
+    "Hometown": "Portland, Oregon",
+    "Occupation": "Dentist",
+    "Outcome": "Week 2",
+    "Place": "18–20"
+  },
+  {
+    "Name": "Jacqueline  Dion",
+    "Age": "23",
+    "Hometown": "Newport Beach, California",
+    "Occupation": "Gerontologist",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Samantha Passmore",
+    "Age": "26",
+    "Hometown": "New Smyrna Beach, Florida",
+    "Occupation": "Attorney",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Lauren  Barr",
+    "Age": "23",
+    "Hometown": "Stillwater, Oklahoma",
+    "Occupation": "Fashion Buyer",
+    "Outcome": "21 (quit)",
+    "Place": ""
+  },
+  {
+    "Name": "Breanne Rice",
+    "Age": "30",
+    "Hometown": "Seattle, Washington",
+    "Occupation": "Nutritional Therapist",
+    "Outcome": "Week 1",
+    "Place": "22–28"
+  },
+  {
+    "Name": "Isabel  Goodkind",
+    "Age": "24",
+    "Hometown": "Branford, Connecticut",
+    "Occupation": "Graphic Designer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Jessica Moser",
+    "Age": "23",
+    "Hometown": "Boca Raton, Florida",
+    "Occupation": "Accountant",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Laura Esselman",
+    "Age": "24",
+    "Hometown": "Louisville, Kentucky",
+    "Occupation": "Account Executive",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Lauren Russell",
+    "Age": "26",
+    "Hometown": "Houston, Texas",
+    "Occupation": "Math Teacher",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Maegan Miller",
+    "Age": "30",
+    "Hometown": "Visalia, California",
+    "Occupation": "Cowgirl",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Tiara Soleim",
+    "Age": "27",
+    "Hometown": "Redmond, Washington",
+    "Occupation": "Chicken Enthusiast",
+    "Outcome": "",
+    "Place": ""
+  }
 ]

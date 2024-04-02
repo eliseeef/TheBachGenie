@@ -1,272 +1,242 @@
 [
-    {
-        "Name": "Kaitlyn  Biggar",
-        "Age": "27",
-        "Hometown": "Kingston, Ontario",
-        "Occupation": "Travel Nurse",
-        "Outcome": "Winner",
-        "Place": "1",
-        "Ref": ""
-    },
-    {
-        "Name": "Gabriella  Elnicki",
-        "Age": "25",
-        "Hometown": "Pittsford, Vermont",
-        "Occupation": "Senior Account Executive",
-        "Outcome": "Runner-Up",
-        "Place": "2",
-        "Ref": ""
-    },
-    {
-        "Name": "Ariel Frenkel",
-        "Age": "28",
-        "Hometown": "Manhattan, New York",
-        "Occupation": "Marketing Executive",
-        "Outcome": "Week 9",
-        "Place": "3",
-        "Ref": ""
-    },
-    {
-        "Name": "Charity Lawson",
-        "Age": "26",
-        "Hometown": "Columbus, Georgia",
-        "Occupation": "Child and Family Therapist",
-        "Outcome": "Week 8",
-        "Place": "4",
-        "Ref": ""
-    },
-    {
-        "Name": "Katherine Izzo",
-        "Age": "26",
-        "Hometown": "Tampa, Florida",
-        "Occupation": "Registered Nurse",
-        "Outcome": "Week 7",
-        "Place": "5",
-        "Ref": ""
-    },
-    {
-        "Name": "Brooklyn Willie",
-        "Age": "25",
-        "Hometown": "Mineola, Texas",
-        "Occupation": "Rodeo Racer",
-        "Outcome": "6",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Greer Blitzer",
-        "Age": "24",
-        "Hometown": "Bellaire, Texas",
-        "Occupation": "Medical Sales Representative",
-        "Outcome": "7",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alyssa  Jacobs",
-        "Age": "26",
-        "Hometown": "Smyrna, Georgia",
-        "Occupation": "Healthcare Strategist",
-        "Outcome": "Week 6",
-        "Place": "8",
-        "Ref": ""
-    },
-    {
-        "Name": "Jessica  Girod",
-        "Age": "23",
-        "Hometown": "Winter Springs, Florida",
-        "Occupation": "E-Commerce Coordinator",
-        "Outcome": "9",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kylee Russell",
-        "Age": "25",
-        "Hometown": "Charlotte, North Carolina",
-        "Occupation": "Postpartum Nurse",
-        "Outcome": "Week 5",
-        "Place": "10-11",
-        "Ref": ""
-    },
-    {
-        "Name": "Mercedes Northup",
-        "Age": "24",
-        "Hometown": "Bloomfield, Iowa",
-        "Occupation": "Nonprofit Case Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Davia Bunch",
-        "Age": "25",
-        "Hometown": "Roebuck, South Carolina",
-        "Occupation": "Marketing Manager",
-        "Outcome": "Week 4",
-        "Place": "12–13",
-        "Ref": ""
-    },
-    {
-        "Name": "Genevie Mayo",
-        "Age": "26",
-        "Hometown": "Joppa, Maryland",
-        "Occupation": "Neonatal Nurse",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Anastasia Keramidas",
-        "Age": "30",
-        "Hometown": "Baltimore, Maryland",
-        "Occupation": "Content Marketing Manager",
-        "Outcome": "14",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Christina Mandrell",
-        "Age": "26",
-        "Hometown": "Hendersonville, Tennessee",
-        "Occupation": "Content Creator",
-        "Outcome": "Week 3",
-        "Place": "15",
-        "Ref": ""
-    },
-    {
-        "Name": "Brianna Thorbourne",
-        "Age": "24",
-        "Hometown": "Jersey City, New Jersey",
-        "Occupation": "Entrepreneur",
-        "Outcome": "16 (quit)",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Bailey Brown",
-        "Age": "27",
-        "Hometown": "Brentwood, Tennessee",
-        "Occupation": "Executive Recruiter",
-        "Outcome": "17",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Catherine  Wong",
-        "Age": "26",
-        "Hometown": "Bushwick, New York",
-        "Occupation": "Professional Dancer",
-        "Outcome": "Week 2",
-        "Place": "18–20",
-        "Ref": ""
-    },
-    {
-        "Name": "Kimberly Gutierrez",
-        "Age": "30",
-        "Hometown": "Stroudsburg, Pennsylvania",
-        "Occupation": "Hospitality Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Victoria Jameson",
-        "Age": "30",
-        "Hometown": "Keller, Texas",
-        "Occupation": "Professional Makeup Artist",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Becca Serrano",
-        "Age": "25",
-        "Hometown": "Burbank, California",
-        "Occupation": "Nursing Student",
-        "Outcome": "Week 1",
-        "Place": "21–29",
-        "Ref": ""
-    },
-    {
-        "Name": "Cara Ammon",
-        "Age": "27",
-        "Hometown": "McCandless, Pennsylvania",
-        "Occupation": "Corporate Recruiter",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Holland Parsons",
-        "Age": "24",
-        "Hometown": "Boca Raton, Florida",
-        "Occupation": "Insurance Marketer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lekha Ravi",
-        "Age": "29",
-        "Hometown": "Miami, Florida",
-        "Occupation": "Financial Advisor",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Olivia Lewis",
-        "Age": "24",
-        "Hometown": "Churchville, New York",
-        "Occupation": "Patient Care Technician",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Olivia Miller",
-        "Age": "25",
-        "Hometown": "Delphos, Ohio",
-        "Occupation": "Stylist",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Sonia Sharma",
-        "Age": "29",
-        "Hometown": "Jericho, New York",
-        "Occupation": "Project Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Vanessa Dinh",
-        "Age": "23",
-        "Hometown": "Farmington Hills, Michigan",
-        "Occupation": "Restaurant Marketer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Viktoria Eichner",
-        "Age": "29",
-        "Hometown": "Vienna, Austria",
-        "Occupation": "Nanny",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Madison Johnson",
-        "Age": "26",
-        "Hometown": "Fargo, North Dakota",
-        "Occupation": "Business Owner",
-        "Outcome": "30",
-        "Place": "",
-        "Ref": ""
-    }
+  {
+    "Name": "Kaitlyn  Biggar",
+    "Age": "27",
+    "Hometown": "Kingston, Ontario",
+    "Occupation": "Travel Nurse",
+    "Outcome": "Winner",
+    "Place": "1"
+  },
+  {
+    "Name": "Gabriella  Elnicki",
+    "Age": "25",
+    "Hometown": "Pittsford, Vermont",
+    "Occupation": "Senior Account Executive",
+    "Outcome": "Runner-Up",
+    "Place": "2"
+  },
+  {
+    "Name": "Ariel Frenkel",
+    "Age": "28",
+    "Hometown": "Manhattan, New York",
+    "Occupation": "Marketing Executive",
+    "Outcome": "Week 9",
+    "Place": "3"
+  },
+  {
+    "Name": "Charity Lawson",
+    "Age": "26",
+    "Hometown": "Columbus, Georgia",
+    "Occupation": "Child and Family Therapist",
+    "Outcome": "Week 8",
+    "Place": "4"
+  },
+  {
+    "Name": "Katherine Izzo",
+    "Age": "26",
+    "Hometown": "Tampa, Florida",
+    "Occupation": "Registered Nurse",
+    "Outcome": "Week 7",
+    "Place": "5"
+  },
+  {
+    "Name": "Brooklyn Willie",
+    "Age": "25",
+    "Hometown": "Mineola, Texas",
+    "Occupation": "Rodeo Racer",
+    "Outcome": "6",
+    "Place": ""
+  },
+  {
+    "Name": "Greer Blitzer",
+    "Age": "24",
+    "Hometown": "Bellaire, Texas",
+    "Occupation": "Medical Sales Representative",
+    "Outcome": "7",
+    "Place": ""
+  },
+  {
+    "Name": "Alyssa  Jacobs",
+    "Age": "26",
+    "Hometown": "Smyrna, Georgia",
+    "Occupation": "Healthcare Strategist",
+    "Outcome": "Week 6",
+    "Place": "8"
+  },
+  {
+    "Name": "Jessica  Girod",
+    "Age": "23",
+    "Hometown": "Winter Springs, Florida",
+    "Occupation": "E-Commerce Coordinator",
+    "Outcome": "9",
+    "Place": ""
+  },
+  {
+    "Name": "Kylee Russell",
+    "Age": "25",
+    "Hometown": "Charlotte, North Carolina",
+    "Occupation": "Postpartum Nurse",
+    "Outcome": "Week 5",
+    "Place": "10-11"
+  },
+  {
+    "Name": "Mercedes Northup",
+    "Age": "24",
+    "Hometown": "Bloomfield, Iowa",
+    "Occupation": "Nonprofit Case Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Davia Bunch",
+    "Age": "25",
+    "Hometown": "Roebuck, South Carolina",
+    "Occupation": "Marketing Manager",
+    "Outcome": "Week 4",
+    "Place": "12–13"
+  },
+  {
+    "Name": "Genevie Mayo",
+    "Age": "26",
+    "Hometown": "Joppa, Maryland",
+    "Occupation": "Neonatal Nurse",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Anastasia Keramidas",
+    "Age": "30",
+    "Hometown": "Baltimore, Maryland",
+    "Occupation": "Content Marketing Manager",
+    "Outcome": "14",
+    "Place": ""
+  },
+  {
+    "Name": "Christina Mandrell",
+    "Age": "26",
+    "Hometown": "Hendersonville, Tennessee",
+    "Occupation": "Content Creator",
+    "Outcome": "Week 3",
+    "Place": "15"
+  },
+  {
+    "Name": "Brianna Thorbourne",
+    "Age": "24",
+    "Hometown": "Jersey City, New Jersey",
+    "Occupation": "Entrepreneur",
+    "Outcome": "16 (quit)",
+    "Place": ""
+  },
+  {
+    "Name": "Bailey Brown",
+    "Age": "27",
+    "Hometown": "Brentwood, Tennessee",
+    "Occupation": "Executive Recruiter",
+    "Outcome": "17",
+    "Place": ""
+  },
+  {
+    "Name": "Catherine  Wong",
+    "Age": "26",
+    "Hometown": "Bushwick, New York",
+    "Occupation": "Professional Dancer",
+    "Outcome": "Week 2",
+    "Place": "18–20"
+  },
+  {
+    "Name": "Kimberly Gutierrez",
+    "Age": "30",
+    "Hometown": "Stroudsburg, Pennsylvania",
+    "Occupation": "Hospitality Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Victoria Jameson",
+    "Age": "30",
+    "Hometown": "Keller, Texas",
+    "Occupation": "Professional Makeup Artist",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Becca Serrano",
+    "Age": "25",
+    "Hometown": "Burbank, California",
+    "Occupation": "Nursing Student",
+    "Outcome": "Week 1",
+    "Place": "21–29"
+  },
+  {
+    "Name": "Cara Ammon",
+    "Age": "27",
+    "Hometown": "McCandless, Pennsylvania",
+    "Occupation": "Corporate Recruiter",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Holland Parsons",
+    "Age": "24",
+    "Hometown": "Boca Raton, Florida",
+    "Occupation": "Insurance Marketer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Lekha Ravi",
+    "Age": "29",
+    "Hometown": "Miami, Florida",
+    "Occupation": "Financial Advisor",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Olivia Lewis",
+    "Age": "24",
+    "Hometown": "Churchville, New York",
+    "Occupation": "Patient Care Technician",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Olivia Miller",
+    "Age": "25",
+    "Hometown": "Delphos, Ohio",
+    "Occupation": "Stylist",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Sonia Sharma",
+    "Age": "29",
+    "Hometown": "Jericho, New York",
+    "Occupation": "Project Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Vanessa Dinh",
+    "Age": "23",
+    "Hometown": "Farmington Hills, Michigan",
+    "Occupation": "Restaurant Marketer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Viktoria Eichner",
+    "Age": "29",
+    "Hometown": "Vienna, Austria",
+    "Occupation": "Nanny",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Madison Johnson",
+    "Age": "26",
+    "Hometown": "Fargo, North Dakota",
+    "Occupation": "Business Owner",
+    "Outcome": "30",
+    "Place": ""
+  }
 ]

@@ -1,281 +1,250 @@
 [
-    {
-        "Name": "Susie Evans",
-        "Age": "28",
-        "Hometown": "Poquoson, Virginia",
-        "Occupation": "Wedding Videographer",
-        "Outcome": "Winner",
-        "Place": "1",
-        "Ref": ""
-    },
-    {
-        "Name": "Gabriela  Windey",
-        "Age": "30",
-        "Hometown": "O'Fallon, Illinois",
-        "Occupation": "ICU Nurse",
-        "Outcome": "Runner-Up(Week 10)",
-        "Place": "2–3",
-        "Ref": ""
-    },
-    {
-        "Name": "Rachel Recchia",
-        "Age": "25",
-        "Hometown": "Clermont, Florida",
-        "Occupation": "Flight Instructor",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Susie Evans",
-        "Age": "(Returned to competition)",
-        "Hometown": "Week 9",
-        "Occupation": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Serene Russell",
-        "Age": "26",
-        "Hometown": "Oklahoma City, Oklahoma",
-        "Occupation": "Elementary School Teacher",
-        "Outcome": "Week 8",
-        "Place": "4",
-        "Ref": ""
-    },
-    {
-        "Name": "Teddi Wright",
-        "Age": "24",
-        "Hometown": "Redlands, California",
-        "Occupation": "Surgical Unit Nurse",
-        "Outcome": "Week 7",
-        "Place": "5",
-        "Ref": ""
-    },
-    {
-        "Name": "Sarah Hamrick",
-        "Age": "23",
-        "Hometown": "Spartanburg, South Carolina",
-        "Occupation": "Wealth Management Advisor",
-        "Outcome": "6",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Genevieve Parisi",
-        "Age": "26",
-        "Hometown": "Rehoboth, Massachusetts",
-        "Occupation": "Bartender",
-        "Outcome": "7",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Eliza Isichei",
-        "Age": "25",
-        "Hometown": "Tampa, Florida",
-        "Occupation": "Marketing Manager",
-        "Outcome": "Week 6",
-        "Place": "8–9",
-        "Ref": ""
-    },
-    {
-        "Name": "Mara Agrait",
-        "Age": "32",
-        "Hometown": "Collingswood, New Jersey",
-        "Occupation": "Entrepreneur",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Hunter Haag",
-        "Age": "28",
-        "Hometown": "Lake Wylie, South Carolina",
-        "Occupation": "Human Resources Specialist",
-        "Outcome": "Week 5",
-        "Place": "10–11",
-        "Ref": ""
-    },
-    {
-        "Name": "Marlena Wesh",
-        "Age": "30",
-        "Hometown": "Virginia Beach, Virginia",
-        "Occupation": "Former Olympian",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Shanae Ankney",
-        "Age": "29",
-        "Hometown": "Sycamore, Ohio",
-        "Occupation": "Recruiter",
-        "Outcome": "12",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jillian  Chin",
-        "Age": "26",
-        "Hometown": "Scituate, Rhode Island",
-        "Occupation": "Architectural Historian",
-        "Outcome": "Week 4",
-        "Place": "13–15",
-        "Ref": ""
-    },
-    {
-        "Name": "Lyndsey Windham",
-        "Age": "28",
-        "Hometown": "Orange, Texas",
-        "Occupation": "Industrial Sales Representative",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Sierra Jackson",
-        "Age": "26",
-        "Hometown": "Oklahoma City, Oklahoma",
-        "Occupation": "Yoga Instructor",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Elizabeth Corrigan",
-        "Age": "32",
-        "Hometown": "Highlands Ranch, Colorado",
-        "Occupation": "Real Estate Advisor",
-        "Outcome": "Week 3",
-        "Place": "16–18",
-        "Ref": ""
-    },
-    {
-        "Name": "Kira Mengistu",
-        "Age": "32",
-        "Hometown": "Greensboro, North Carolina",
-        "Occupation": "Physician",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Melina Nasab",
-        "Age": "27",
-        "Hometown": "West Hollywood, California",
-        "Occupation": "Personal Trainer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Ency Abedin",
-        "Age": "28",
-        "Hometown": "Burbank, California",
-        "Occupation": "Sales Manager",
-        "Outcome": "Week 2",
-        "Place": "19–21",
-        "Ref": ""
-    },
-    {
-        "Name": "Kate Gallivan",
-        "Age": "32",
-        "Hometown": "Clarksville, Tennessee",
-        "Occupation": "Real Estate Agent",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Tessa Tookes",
-        "Age": "26",
-        "Hometown": "Stamford, Connecticut",
-        "Occupation": "Human Resources Specialist",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Cassidy Timbrooks",
-        "Age": "26",
-        "Hometown": "Cave Creek, Arizona",
-        "Occupation": "Executive Recruiter",
-        "Outcome": "22",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Daria Rose",
-        "Age": "24",
-        "Hometown": "Baldwin, New York",
-        "Occupation": "Law Student",
-        "Outcome": "Week 1",
-        "Place": "23–28",
-        "Ref": ""
-    },
-    {
-        "Name": "Hailey Malles",
-        "Age": "26",
-        "Hometown": "Orlando, Florida",
-        "Occupation": "Pediatric Nurse",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Ivana Noble",
-        "Age": "31",
-        "Hometown": "Snellville, Georgia",
-        "Occupation": "Bar Mitzvah Dancer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jane Paik",
-        "Age": "33",
-        "Hometown": "Santa Monica, California",
-        "Occupation": "Social Media Director",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lindsay Dobbs",
-        "Age": "27",
-        "Hometown": "Warner Robins, Georgia",
-        "Occupation": "Neonatal Nurse",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Rianna Hockaday",
-        "Age": "26",
-        "Hometown": "Mount Pleasant, Texas",
-        "Occupation": "Registered Nurse",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Samantha Jeffries",
-        "Age": "26",
-        "Hometown": "Dayton, Ohio",
-        "Occupation": "Occupational Therapist",
-        "Outcome": "29 (quit)",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Claire Heilig",
-        "Age": "28",
-        "Hometown": "Virginia Beach, Virginia",
-        "Occupation": "Spray Tanner",
-        "Outcome": "30",
-        "Place": "",
-        "Ref": ""
-    }
+  {
+    "Name": "Susie Evans",
+    "Age": "28",
+    "Hometown": "Poquoson, Virginia",
+    "Occupation": "Wedding Videographer",
+    "Outcome": "Winner",
+    "Place": "1"
+  },
+  {
+    "Name": "Gabriela  Windey",
+    "Age": "30",
+    "Hometown": "O'Fallon, Illinois",
+    "Occupation": "ICU Nurse",
+    "Outcome": "Runner-Up(Week 10)",
+    "Place": "2–3"
+  },
+  {
+    "Name": "Rachel Recchia",
+    "Age": "25",
+    "Hometown": "Clermont, Florida",
+    "Occupation": "Flight Instructor",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Susie Evans",
+    "Age": "(Returned to competition)",
+    "Hometown": "Week 9",
+    "Occupation": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Serene Russell",
+    "Age": "26",
+    "Hometown": "Oklahoma City, Oklahoma",
+    "Occupation": "Elementary School Teacher",
+    "Outcome": "Week 8",
+    "Place": "4"
+  },
+  {
+    "Name": "Teddi Wright",
+    "Age": "24",
+    "Hometown": "Redlands, California",
+    "Occupation": "Surgical Unit Nurse",
+    "Outcome": "Week 7",
+    "Place": "5"
+  },
+  {
+    "Name": "Sarah Hamrick",
+    "Age": "23",
+    "Hometown": "Spartanburg, South Carolina",
+    "Occupation": "Wealth Management Advisor",
+    "Outcome": "6",
+    "Place": ""
+  },
+  {
+    "Name": "Genevieve Parisi",
+    "Age": "26",
+    "Hometown": "Rehoboth, Massachusetts",
+    "Occupation": "Bartender",
+    "Outcome": "7",
+    "Place": ""
+  },
+  {
+    "Name": "Eliza Isichei",
+    "Age": "25",
+    "Hometown": "Tampa, Florida",
+    "Occupation": "Marketing Manager",
+    "Outcome": "Week 6",
+    "Place": "8–9"
+  },
+  {
+    "Name": "Mara Agrait",
+    "Age": "32",
+    "Hometown": "Collingswood, New Jersey",
+    "Occupation": "Entrepreneur",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Hunter Haag",
+    "Age": "28",
+    "Hometown": "Lake Wylie, South Carolina",
+    "Occupation": "Human Resources Specialist",
+    "Outcome": "Week 5",
+    "Place": "10–11"
+  },
+  {
+    "Name": "Marlena Wesh",
+    "Age": "30",
+    "Hometown": "Virginia Beach, Virginia",
+    "Occupation": "Former Olympian",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Shanae Ankney",
+    "Age": "29",
+    "Hometown": "Sycamore, Ohio",
+    "Occupation": "Recruiter",
+    "Outcome": "12",
+    "Place": ""
+  },
+  {
+    "Name": "Jillian  Chin",
+    "Age": "26",
+    "Hometown": "Scituate, Rhode Island",
+    "Occupation": "Architectural Historian",
+    "Outcome": "Week 4",
+    "Place": "13–15"
+  },
+  {
+    "Name": "Lyndsey Windham",
+    "Age": "28",
+    "Hometown": "Orange, Texas",
+    "Occupation": "Industrial Sales Representative",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Sierra Jackson",
+    "Age": "26",
+    "Hometown": "Oklahoma City, Oklahoma",
+    "Occupation": "Yoga Instructor",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Elizabeth Corrigan",
+    "Age": "32",
+    "Hometown": "Highlands Ranch, Colorado",
+    "Occupation": "Real Estate Advisor",
+    "Outcome": "Week 3",
+    "Place": "16–18"
+  },
+  {
+    "Name": "Kira Mengistu",
+    "Age": "32",
+    "Hometown": "Greensboro, North Carolina",
+    "Occupation": "Physician",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Melina Nasab",
+    "Age": "27",
+    "Hometown": "West Hollywood, California",
+    "Occupation": "Personal Trainer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Ency Abedin",
+    "Age": "28",
+    "Hometown": "Burbank, California",
+    "Occupation": "Sales Manager",
+    "Outcome": "Week 2",
+    "Place": "19–21"
+  },
+  {
+    "Name": "Kate Gallivan",
+    "Age": "32",
+    "Hometown": "Clarksville, Tennessee",
+    "Occupation": "Real Estate Agent",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Tessa Tookes",
+    "Age": "26",
+    "Hometown": "Stamford, Connecticut",
+    "Occupation": "Human Resources Specialist",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Cassidy Timbrooks",
+    "Age": "26",
+    "Hometown": "Cave Creek, Arizona",
+    "Occupation": "Executive Recruiter",
+    "Outcome": "22",
+    "Place": ""
+  },
+  {
+    "Name": "Daria Rose",
+    "Age": "24",
+    "Hometown": "Baldwin, New York",
+    "Occupation": "Law Student",
+    "Outcome": "Week 1",
+    "Place": "23–28"
+  },
+  {
+    "Name": "Hailey Malles",
+    "Age": "26",
+    "Hometown": "Orlando, Florida",
+    "Occupation": "Pediatric Nurse",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Ivana Noble",
+    "Age": "31",
+    "Hometown": "Snellville, Georgia",
+    "Occupation": "Bar Mitzvah Dancer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Jane Paik",
+    "Age": "33",
+    "Hometown": "Santa Monica, California",
+    "Occupation": "Social Media Director",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Lindsay Dobbs",
+    "Age": "27",
+    "Hometown": "Warner Robins, Georgia",
+    "Occupation": "Neonatal Nurse",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Rianna Hockaday",
+    "Age": "26",
+    "Hometown": "Mount Pleasant, Texas",
+    "Occupation": "Registered Nurse",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Samantha Jeffries",
+    "Age": "26",
+    "Hometown": "Dayton, Ohio",
+    "Occupation": "Occupational Therapist",
+    "Outcome": "29 (quit)",
+    "Place": ""
+  },
+  {
+    "Name": "Claire Heilig",
+    "Age": "28",
+    "Hometown": "Virginia Beach, Virginia",
+    "Occupation": "Spray Tanner",
+    "Outcome": "30",
+    "Place": ""
+  }
 ]

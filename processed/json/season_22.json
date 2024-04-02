@@ -1,272 +1,242 @@
 [
-    {
-        "Name": "Becca Kufrin",
-        "Age": "27",
-        "Hometown": "Prior Lake, Minnesota",
-        "Occupation": "Publicist",
-        "Outcome": "Winner",
-        "Place": "1",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Burnham",
-        "Age": "25",
-        "Hometown": "Virginia Beach, Virginia",
-        "Occupation": "Technology Salesperson",
-        "Outcome": "Runner-up",
-        "Place": "2",
-        "Ref": ""
-    },
-    {
-        "Name": "Kendall Long",
-        "Age": "26",
-        "Hometown": "Santa Clarita, California",
-        "Occupation": "Creative Director",
-        "Outcome": "Week 9",
-        "Place": "3",
-        "Ref": ""
-    },
-    {
-        "Name": "Tia Booth",
-        "Age": "26",
-        "Hometown": "Weiner, Arkansas",
-        "Occupation": "Physical Therapist",
-        "Outcome": "Week 8",
-        "Place": "4",
-        "Ref": ""
-    },
-    {
-        "Name": "Bekah Martinez",
-        "Age": "22",
-        "Hometown": "Clovis, California",
-        "Occupation": "Nanny",
-        "Outcome": "Week 7",
-        "Place": "5",
-        "Ref": ""
-    },
-    {
-        "Name": "Seinne Fleming",
-        "Age": "27",
-        "Hometown": "Long Beach, California",
-        "Occupation": "Commercial Real Estate Agent",
-        "Outcome": "6",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jacqueline Trumbull",
-        "Age": "26",
-        "Hometown": "Morgantown, West Virginia",
-        "Occupation": "Research Coordinator",
-        "Outcome": "7 (quit)",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Chelsea Roy",
-        "Age": "29",
-        "Hometown": "South Portland, Maine",
-        "Occupation": "Real Estate Executive Assistant",
-        "Outcome": "Week 6",
-        "Place": "8–9",
-        "Ref": ""
-    },
-    {
-        "Name": "Jenna Cooper",
-        "Age": "28",
-        "Hometown": "Upland, Indiana",
-        "Occupation": "Social Media Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Krystal Nielson",
-        "Age": "29",
-        "Hometown": "Missoula, Montana",
-        "Occupation": "Fitness Coach",
-        "Outcome": "10",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Ashley Luebke",
-        "Age": "25",
-        "Hometown": "West Palm Beach, Florida",
-        "Occupation": "Real Estate Agent",
-        "Outcome": "Week 5",
-        "Place": "11–13",
-        "Ref": ""
-    },
-    {
-        "Name": "Maquel Cooper",
-        "Age": "23",
-        "Hometown": "American Fork, Utah",
-        "Occupation": "Photographer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Marikh Mathias",
-        "Age": "27",
-        "Hometown": "Salt Lake City, Utah",
-        "Occupation": "Restaurant Owner",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Brittany Taylor",
-        "Age": "30",
-        "Hometown": "Belton, South Carolina",
-        "Occupation": "Tech Recruiter",
-        "Outcome": "Week 4",
-        "Place": "14–15",
-        "Ref": ""
-    },
-    {
-        "Name": "Caroline Lunny",
-        "Age": "26",
-        "Hometown": "Holliston, Massachusetts",
-        "Occupation": "Realtor",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Maquel Cooper",
-        "Age": "(Returned to competition)",
-        "Hometown": "",
-        "Occupation": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Bibiana Julian",
-        "Age": "30",
-        "Hometown": "Miami, Florida",
-        "Occupation": "Executive Assistant",
-        "Outcome": "Week 3",
-        "Place": "16",
-        "Ref": ""
-    },
-    {
-        "Name": "Annaliese Puccini",
-        "Age": "32",
-        "Hometown": "San Mateo, California",
-        "Occupation": "Event Designer",
-        "Outcome": "17",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Schleyer",
-        "Age": "31",
-        "Hometown": "Dallas, Texas",
-        "Occupation": "Social Media Manager",
-        "Outcome": "18",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jennifer  Delaney",
-        "Age": "25",
-        "Hometown": "Northbrook, Illinois",
-        "Occupation": "Graphic Designer",
-        "Outcome": "Week 2",
-        "Place": "19–21",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Griffin",
-        "Age": "26",
-        "Hometown": "Indianapolis, Indiana",
-        "Occupation": "Executive Recruiter",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Valerie Biles",
-        "Age": "26",
-        "Hometown": "Nashville, Tennessee",
-        "Occupation": "Server",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alison  Harrington",
-        "Age": "27",
-        "Hometown": "Lawton, Oklahoma",
-        "Occupation": "Personal Stylist",
-        "Outcome": "Week 1",
-        "Place": "22–29",
-        "Ref": ""
-    },
-    {
-        "Name": "Amber Wilkerson",
-        "Age": "29",
-        "Hometown": "Denver, Colorado",
-        "Occupation": "Business Owner",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Brianna  Amaranthus",
-        "Age": "25",
-        "Hometown": "Grants Pass, Oregon",
-        "Occupation": "Sports Reporter",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Brittane Johnson",
-        "Age": "27",
-        "Hometown": "San Diego, California",
-        "Occupation": "Marketing Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jessica Carroll",
-        "Age": "26",
-        "Hometown": "Calgary, Alberta",
-        "Occupation": "Television Host",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Jarreau",
-        "Age": "33",
-        "Hometown": "New Roads, Louisiana",
-        "Occupation": "Recent Master's Graduate",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "D'Nysha  Norris",
-        "Age": "30",
-        "Hometown": "Anderson, South Carolina",
-        "Occupation": "Orthopedic Nurse",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Olivia Goethals",
-        "Age": "23",
-        "Hometown": "Geneseo, Illinois",
-        "Occupation": "Marketing Associate",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    }
+  {
+    "Name": "Becca Kufrin",
+    "Age": "27",
+    "Hometown": "Prior Lake, Minnesota",
+    "Occupation": "Publicist",
+    "Outcome": "Winner",
+    "Place": "1"
+  },
+  {
+    "Name": "Lauren Burnham",
+    "Age": "25",
+    "Hometown": "Virginia Beach, Virginia",
+    "Occupation": "Technology Salesperson",
+    "Outcome": "Runner-up",
+    "Place": "2"
+  },
+  {
+    "Name": "Kendall Long",
+    "Age": "26",
+    "Hometown": "Santa Clarita, California",
+    "Occupation": "Creative Director",
+    "Outcome": "Week 9",
+    "Place": "3"
+  },
+  {
+    "Name": "Tia Booth",
+    "Age": "26",
+    "Hometown": "Weiner, Arkansas",
+    "Occupation": "Physical Therapist",
+    "Outcome": "Week 8",
+    "Place": "4"
+  },
+  {
+    "Name": "Bekah Martinez",
+    "Age": "22",
+    "Hometown": "Clovis, California",
+    "Occupation": "Nanny",
+    "Outcome": "Week 7",
+    "Place": "5"
+  },
+  {
+    "Name": "Seinne Fleming",
+    "Age": "27",
+    "Hometown": "Long Beach, California",
+    "Occupation": "Commercial Real Estate Agent",
+    "Outcome": "6",
+    "Place": ""
+  },
+  {
+    "Name": "Jacqueline Trumbull",
+    "Age": "26",
+    "Hometown": "Morgantown, West Virginia",
+    "Occupation": "Research Coordinator",
+    "Outcome": "7 (quit)",
+    "Place": ""
+  },
+  {
+    "Name": "Chelsea Roy",
+    "Age": "29",
+    "Hometown": "South Portland, Maine",
+    "Occupation": "Real Estate Executive Assistant",
+    "Outcome": "Week 6",
+    "Place": "8–9"
+  },
+  {
+    "Name": "Jenna Cooper",
+    "Age": "28",
+    "Hometown": "Upland, Indiana",
+    "Occupation": "Social Media Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Krystal Nielson",
+    "Age": "29",
+    "Hometown": "Missoula, Montana",
+    "Occupation": "Fitness Coach",
+    "Outcome": "10",
+    "Place": ""
+  },
+  {
+    "Name": "Ashley Luebke",
+    "Age": "25",
+    "Hometown": "West Palm Beach, Florida",
+    "Occupation": "Real Estate Agent",
+    "Outcome": "Week 5",
+    "Place": "11–13"
+  },
+  {
+    "Name": "Maquel Cooper",
+    "Age": "23",
+    "Hometown": "American Fork, Utah",
+    "Occupation": "Photographer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Marikh Mathias",
+    "Age": "27",
+    "Hometown": "Salt Lake City, Utah",
+    "Occupation": "Restaurant Owner",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Brittany Taylor",
+    "Age": "30",
+    "Hometown": "Belton, South Carolina",
+    "Occupation": "Tech Recruiter",
+    "Outcome": "Week 4",
+    "Place": "14–15"
+  },
+  {
+    "Name": "Caroline Lunny",
+    "Age": "26",
+    "Hometown": "Holliston, Massachusetts",
+    "Occupation": "Realtor",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Maquel Cooper",
+    "Age": "(Returned to competition)",
+    "Hometown": "",
+    "Occupation": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Bibiana Julian",
+    "Age": "30",
+    "Hometown": "Miami, Florida",
+    "Occupation": "Executive Assistant",
+    "Outcome": "Week 3",
+    "Place": "16"
+  },
+  {
+    "Name": "Annaliese Puccini",
+    "Age": "32",
+    "Hometown": "San Mateo, California",
+    "Occupation": "Event Designer",
+    "Outcome": "17",
+    "Place": ""
+  },
+  {
+    "Name": "Lauren Schleyer",
+    "Age": "31",
+    "Hometown": "Dallas, Texas",
+    "Occupation": "Social Media Manager",
+    "Outcome": "18",
+    "Place": ""
+  },
+  {
+    "Name": "Jennifer  Delaney",
+    "Age": "25",
+    "Hometown": "Northbrook, Illinois",
+    "Occupation": "Graphic Designer",
+    "Outcome": "Week 2",
+    "Place": "19–21"
+  },
+  {
+    "Name": "Lauren Griffin",
+    "Age": "26",
+    "Hometown": "Indianapolis, Indiana",
+    "Occupation": "Executive Recruiter",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Valerie Biles",
+    "Age": "26",
+    "Hometown": "Nashville, Tennessee",
+    "Occupation": "Server",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Alison  Harrington",
+    "Age": "27",
+    "Hometown": "Lawton, Oklahoma",
+    "Occupation": "Personal Stylist",
+    "Outcome": "Week 1",
+    "Place": "22–29"
+  },
+  {
+    "Name": "Amber Wilkerson",
+    "Age": "29",
+    "Hometown": "Denver, Colorado",
+    "Occupation": "Business Owner",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Brianna  Amaranthus",
+    "Age": "25",
+    "Hometown": "Grants Pass, Oregon",
+    "Occupation": "Sports Reporter",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Brittane Johnson",
+    "Age": "27",
+    "Hometown": "San Diego, California",
+    "Occupation": "Marketing Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Jessica Carroll",
+    "Age": "26",
+    "Hometown": "Calgary, Alberta",
+    "Occupation": "Television Host",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Lauren Jarreau",
+    "Age": "33",
+    "Hometown": "New Roads, Louisiana",
+    "Occupation": "Recent Master's Graduate",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "D'Nysha  Norris",
+    "Age": "30",
+    "Hometown": "Anderson, South Carolina",
+    "Occupation": "Orthopedic Nurse",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Olivia Goethals",
+    "Age": "23",
+    "Hometown": "Geneseo, Illinois",
+    "Occupation": "Marketing Associate",
+    "Outcome": "",
+    "Place": ""
+  }
 ]

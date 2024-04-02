@@ -1,372 +1,335 @@
 [
-    {
-        "Name": "Rachael Kirkconnell",
-        "Age": "24",
-        "Hometown": "Cumming, Georgia",
-        "Occupation": "Graphic Designer",
-        "Arrived": "Week 1",
-        "Outcome": "Winner",
-        "Place": "1",
-        "Ref": ""
-    },
-    {
-        "Name": "Michelle Young",
-        "Age": "27",
-        "Hometown": "Woodbury, Minnesota",
-        "Occupation": "Teacher",
-        "Arrived": "Week 3",
-        "Outcome": "Runner-Up",
-        "Place": "2",
-        "Ref": ""
-    },
-    {
-        "Name": "Briana  Springs",
-        "Age": "24",
-        "Hometown": "San Antonio, Texas",
-        "Occupation": "Communications Manager",
-        "Arrived": "Week 1",
-        "Outcome": "Week 9",
-        "Place": "3",
-        "Ref": ""
-    },
-    {
-        "Name": "Serena Pitt",
-        "Age": "23",
-        "Hometown": "Markham, Ontario",
-        "Occupation": "Publicist",
-        "Arrived": "Week 8",
-        "Outcome": "4 (quit)",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Pieper James",
-        "Age": "23",
-        "Hometown": "Happy Valley, Oregon",
-        "Occupation": "Graduate Student",
-        "Arrived": "Week 7",
-        "Outcome": "5",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jessenia Cruz",
-        "Age": "27",
-        "Hometown": "El Paso, Texas",
-        "Occupation": "Social Media Marketer",
-        "Arrived": "6",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kit Keenan",
-        "Age": "21",
-        "Hometown": "Manhattan, New York",
-        "Occupation": "Fashion Entrepreneur",
-        "Arrived": "7 (quit)",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Abigail Heringer",
-        "Age": "25",
-        "Hometown": "Salem, Oregon",
-        "Occupation": "Client Financial Manager",
-        "Arrived": "8",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Chelsea Vaughn",
-        "Age": "29",
-        "Hometown": "Marietta, Georgia",
-        "Occupation": "Runway Model",
-        "Arrived": "Week 6",
-        "Outcome": "9–10",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Serena Chew",
-        "Age": "24",
-        "Hometown": "San Bruno, California",
-        "Occupation": "Flight Attendant",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Katie Thurston",
-        "Age": "29",
-        "Hometown": "Lynnwood, Washington",
-        "Occupation": "Bank Marketing Manager",
-        "Arrived": "11",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Brittany Galvin",
-        "Age": "23",
-        "Hometown": "Hinsdale, Illinois",
-        "Occupation": "Model",
-        "Arrived": "Week 3",
-        "Outcome": "Week 5",
-        "Place": "12–14",
-        "Ref": ""
-    },
-    {
-        "Name": "Mearg  Tareke",
-        "Age": "32",
-        "Hometown": "Adwa, Ethiopia",
-        "Occupation": "Pharmacist",
-        "Arrived": "Week 1",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Ryan Claytor",
-        "Age": "26",
-        "Hometown": "Mechanicsville, Virginia",
-        "Occupation": "Dancer/Choreographer",
-        "Arrived": "Week 3",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Meredith  Snyder",
-        "Age": "23",
-        "Hometown": "Hudson, Ohio",
-        "Occupation": "Hairstylist",
-        "Arrived": "Week 1",
-        "Outcome": "15",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Catalina Morales",
-        "Age": "29",
-        "Hometown": "Caguas, Puerto Rico",
-        "Occupation": "Former Miss Universe Puerto Rico",
-        "Arrived": "Week 3",
-        "Outcome": "Week 4",
-        "Place": "16–19",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Maddox",
-        "Age": "29",
-        "Hometown": "Miami, Florida",
-        "Occupation": "Corporate Attorney",
-        "Arrived": "Week 1",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Mariela  Pepin",
-        "Age": "24",
-        "Hometown": "Severn, Maryland",
-        "Occupation": "Marketing Director",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Victoria Larson",
-        "Age": "27",
-        "Hometown": "Los Angeles, California",
-        "Occupation": "Queen",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Anna Redman",
-        "Age": "24",
-        "Hometown": "Owatonna, Minnesota",
-        "Occupation": "Copywriter",
-        "Arrived": "20",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kaili Anderson",
-        "Age": "26",
-        "Hometown": "San Diego, California",
-        "Occupation": "Hostess",
-        "Arrived": "Week 3",
-        "Outcome": "21–23",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Khaylah Epps",
-        "Age": "28",
-        "Hometown": "Durham, North Carolina",
-        "Occupation": "Healthcare Advocate",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kimberly  Li",
-        "Age": "28",
-        "Hometown": "Cypress, California",
-        "Occupation": "ICU Nurse",
-        "Arrived": "Week 3",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Sarah Trott",
-        "Age": "24",
-        "Hometown": "Scripps Ranch, California",
-        "Occupation": "Broadcast Journalist",
-        "Arrived": "Week 1",
-        "Outcome": "24 (quit)",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alana Milne",
-        "Age": "26",
-        "Hometown": "San Antonio, Texas",
-        "Occupation": "Photographer",
-        "Arrived": "Week 2",
-        "Outcome": "25–29",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Illeana Pennetto",
-        "Age": "25",
-        "Hometown": "South Salem, New York",
-        "Occupation": "Health Food Developer",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kristin Hopkins",
-        "Age": "27",
-        "Hometown": "Virginia Beach, Virginia",
-        "Occupation": "Attorney",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Marylynn Sienna",
-        "Age": "28",
-        "Hometown": "Huntington Beach, California",
-        "Occupation": "Event Coordinator",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Sydney Johnson",
-        "Age": "28",
-        "Hometown": "Franklin, Tennessee",
-        "Occupation": "Marketing Specialist",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alicia Holloway",
-        "Age": "24",
-        "Hometown": "Morgantown, West Virginia",
-        "Occupation": "Professional Ballerina",
-        "Arrived": "Week 1",
-        "Outcome": "30–37",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Amber Andrews",
-        "Age": "30",
-        "Hometown": "Rialto, California",
-        "Occupation": "Nursing Student",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Carolyn Vallejo",
-        "Age": "30",
-        "Hometown": "Newburyport, Massachusetts",
-        "Occupation": "Journalist",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Casandra Suarez",
-        "Age": "25",
-        "Hometown": "Lodi, California",
-        "Occupation": "Social Worker",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Corrinne Jones",
-        "Age": "22",
-        "Hometown": "Pomfret, Connecticut",
-        "Occupation": "Marketing Manager",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Emani Curl",
-        "Age": "25",
-        "Hometown": "Albuquerque, New Mexico",
-        "Occupation": "Realtor",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kimberly Courneya",
-        "Age": "28",
-        "Hometown": "Lake Tapps, Washington",
-        "Occupation": "Airline Recruiter",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Saneh Ste. Claire",
-        "Age": "25",
-        "Hometown": "Vilano Beach, Florida",
-        "Occupation": "IT Consultant",
-        "Arrived": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    }
+  {
+    "Name": "Rachael Kirkconnell",
+    "Age": "24",
+    "Hometown": "Cumming, Georgia",
+    "Occupation": "Graphic Designer",
+    "Arrived": "Week 1",
+    "Outcome": "Winner",
+    "Place": "1"
+  },
+  {
+    "Name": "Michelle Young",
+    "Age": "27",
+    "Hometown": "Woodbury, Minnesota",
+    "Occupation": "Teacher",
+    "Arrived": "Week 3",
+    "Outcome": "Runner-Up",
+    "Place": "2"
+  },
+  {
+    "Name": "Briana  Springs",
+    "Age": "24",
+    "Hometown": "San Antonio, Texas",
+    "Occupation": "Communications Manager",
+    "Arrived": "Week 1",
+    "Outcome": "Week 9",
+    "Place": "3"
+  },
+  {
+    "Name": "Serena Pitt",
+    "Age": "23",
+    "Hometown": "Markham, Ontario",
+    "Occupation": "Publicist",
+    "Arrived": "Week 8",
+    "Outcome": "4 (quit)",
+    "Place": ""
+  },
+  {
+    "Name": "Pieper James",
+    "Age": "23",
+    "Hometown": "Happy Valley, Oregon",
+    "Occupation": "Graduate Student",
+    "Arrived": "Week 7",
+    "Outcome": "5",
+    "Place": ""
+  },
+  {
+    "Name": "Jessenia Cruz",
+    "Age": "27",
+    "Hometown": "El Paso, Texas",
+    "Occupation": "Social Media Marketer",
+    "Arrived": "6",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kit Keenan",
+    "Age": "21",
+    "Hometown": "Manhattan, New York",
+    "Occupation": "Fashion Entrepreneur",
+    "Arrived": "7 (quit)",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Abigail Heringer",
+    "Age": "25",
+    "Hometown": "Salem, Oregon",
+    "Occupation": "Client Financial Manager",
+    "Arrived": "8",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Chelsea Vaughn",
+    "Age": "29",
+    "Hometown": "Marietta, Georgia",
+    "Occupation": "Runway Model",
+    "Arrived": "Week 6",
+    "Outcome": "9–10",
+    "Place": ""
+  },
+  {
+    "Name": "Serena Chew",
+    "Age": "24",
+    "Hometown": "San Bruno, California",
+    "Occupation": "Flight Attendant",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Katie Thurston",
+    "Age": "29",
+    "Hometown": "Lynnwood, Washington",
+    "Occupation": "Bank Marketing Manager",
+    "Arrived": "11",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Brittany Galvin",
+    "Age": "23",
+    "Hometown": "Hinsdale, Illinois",
+    "Occupation": "Model",
+    "Arrived": "Week 3",
+    "Outcome": "Week 5",
+    "Place": "12–14"
+  },
+  {
+    "Name": "Mearg  Tareke",
+    "Age": "32",
+    "Hometown": "Adwa, Ethiopia",
+    "Occupation": "Pharmacist",
+    "Arrived": "Week 1",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Ryan Claytor",
+    "Age": "26",
+    "Hometown": "Mechanicsville, Virginia",
+    "Occupation": "Dancer/Choreographer",
+    "Arrived": "Week 3",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Meredith  Snyder",
+    "Age": "23",
+    "Hometown": "Hudson, Ohio",
+    "Occupation": "Hairstylist",
+    "Arrived": "Week 1",
+    "Outcome": "15",
+    "Place": ""
+  },
+  {
+    "Name": "Catalina Morales",
+    "Age": "29",
+    "Hometown": "Caguas, Puerto Rico",
+    "Occupation": "Former Miss Universe Puerto Rico",
+    "Arrived": "Week 3",
+    "Outcome": "Week 4",
+    "Place": "16–19"
+  },
+  {
+    "Name": "Lauren Maddox",
+    "Age": "29",
+    "Hometown": "Miami, Florida",
+    "Occupation": "Corporate Attorney",
+    "Arrived": "Week 1",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Mariela  Pepin",
+    "Age": "24",
+    "Hometown": "Severn, Maryland",
+    "Occupation": "Marketing Director",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Victoria Larson",
+    "Age": "27",
+    "Hometown": "Los Angeles, California",
+    "Occupation": "Queen",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Anna Redman",
+    "Age": "24",
+    "Hometown": "Owatonna, Minnesota",
+    "Occupation": "Copywriter",
+    "Arrived": "20",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kaili Anderson",
+    "Age": "26",
+    "Hometown": "San Diego, California",
+    "Occupation": "Hostess",
+    "Arrived": "Week 3",
+    "Outcome": "21–23",
+    "Place": ""
+  },
+  {
+    "Name": "Khaylah Epps",
+    "Age": "28",
+    "Hometown": "Durham, North Carolina",
+    "Occupation": "Healthcare Advocate",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kimberly  Li",
+    "Age": "28",
+    "Hometown": "Cypress, California",
+    "Occupation": "ICU Nurse",
+    "Arrived": "Week 3",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Sarah Trott",
+    "Age": "24",
+    "Hometown": "Scripps Ranch, California",
+    "Occupation": "Broadcast Journalist",
+    "Arrived": "Week 1",
+    "Outcome": "24 (quit)",
+    "Place": ""
+  },
+  {
+    "Name": "Alana Milne",
+    "Age": "26",
+    "Hometown": "San Antonio, Texas",
+    "Occupation": "Photographer",
+    "Arrived": "Week 2",
+    "Outcome": "25–29",
+    "Place": ""
+  },
+  {
+    "Name": "Illeana Pennetto",
+    "Age": "25",
+    "Hometown": "South Salem, New York",
+    "Occupation": "Health Food Developer",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kristin Hopkins",
+    "Age": "27",
+    "Hometown": "Virginia Beach, Virginia",
+    "Occupation": "Attorney",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Marylynn Sienna",
+    "Age": "28",
+    "Hometown": "Huntington Beach, California",
+    "Occupation": "Event Coordinator",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Sydney Johnson",
+    "Age": "28",
+    "Hometown": "Franklin, Tennessee",
+    "Occupation": "Marketing Specialist",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Alicia Holloway",
+    "Age": "24",
+    "Hometown": "Morgantown, West Virginia",
+    "Occupation": "Professional Ballerina",
+    "Arrived": "Week 1",
+    "Outcome": "30–37",
+    "Place": ""
+  },
+  {
+    "Name": "Amber Andrews",
+    "Age": "30",
+    "Hometown": "Rialto, California",
+    "Occupation": "Nursing Student",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Carolyn Vallejo",
+    "Age": "30",
+    "Hometown": "Newburyport, Massachusetts",
+    "Occupation": "Journalist",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Casandra Suarez",
+    "Age": "25",
+    "Hometown": "Lodi, California",
+    "Occupation": "Social Worker",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Corrinne Jones",
+    "Age": "22",
+    "Hometown": "Pomfret, Connecticut",
+    "Occupation": "Marketing Manager",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Emani Curl",
+    "Age": "25",
+    "Hometown": "Albuquerque, New Mexico",
+    "Occupation": "Realtor",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kimberly Courneya",
+    "Age": "28",
+    "Hometown": "Lake Tapps, Washington",
+    "Occupation": "Airline Recruiter",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Saneh Ste. Claire",
+    "Age": "25",
+    "Hometown": "Vilano Beach, Florida",
+    "Occupation": "IT Consultant",
+    "Arrived": "",
+    "Outcome": "",
+    "Place": ""
+  }
 ]

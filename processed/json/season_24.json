@@ -1,281 +1,250 @@
 [
-    {
-        "Name": "Hannah Ann Sluss",
-        "Age": "23",
-        "Hometown": "Powell, Tennessee",
-        "Occupation": "Model",
-        "Outcome": "Winner",
-        "Place": "1",
-        "Ref": ""
-    },
-    {
-        "Name": "Madison Prewett",
-        "Age": "23",
-        "Hometown": "Auburn, Alabama",
-        "Occupation": "Foster Parent Recruiter",
-        "Outcome": "Runner-up",
-        "Place": "2 (quit)",
-        "Ref": ""
-    },
-    {
-        "Name": "Victoria Fuller",
-        "Age": "26",
-        "Hometown": "Virginia Beach, Virginia",
-        "Occupation": "Medical Sales Rep",
-        "Outcome": "Week 9",
-        "Place": "3",
-        "Ref": ""
-    },
-    {
-        "Name": "Kelsey Weier",
-        "Age": "28",
-        "Hometown": "Urbandale, Iowa",
-        "Occupation": "Professional Clothier",
-        "Outcome": "Week 8",
-        "Place": "4",
-        "Ref": ""
-    },
-    {
-        "Name": "Kelley Flanagan",
-        "Age": "27",
-        "Hometown": "North Barrington, Illinois",
-        "Occupation": "Attorney",
-        "Outcome": "Week 7",
-        "Place": "5",
-        "Ref": ""
-    },
-    {
-        "Name": "Natasha Parker",
-        "Age": "31",
-        "Hometown": "Manhattan, New York",
-        "Occupation": "Event Planner",
-        "Outcome": "6",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Mykenna Dorn",
-        "Age": "22",
-        "Hometown": "Langley, British Columbia",
-        "Occupation": "Fashion Blogger",
-        "Outcome": "Week 6",
-        "Place": "7–8",
-        "Ref": ""
-    },
-    {
-        "Name": "Sydney Hightower",
-        "Age": "24",
-        "Hometown": "Northport, Alabama",
-        "Occupation": "Retail Marketing Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Tammy Ly",
-        "Age": "24",
-        "Hometown": "Syracuse, New York",
-        "Occupation": "House Flipper",
-        "Outcome": "9",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Victoria Paul",
-        "Age": "27",
-        "Hometown": "Alexandria, Louisiana",
-        "Occupation": "Nurse",
-        "Outcome": "10",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Lexi Buchanan",
-        "Age": "26",
-        "Hometown": "Jacksonville, Florida",
-        "Occupation": "Marketing Coordinator",
-        "Outcome": "Week 5",
-        "Place": "11–12",
-        "Ref": ""
-    },
-    {
-        "Name": "Shiann Lewis",
-        "Age": "27",
-        "Hometown": "Las Vegas, Nevada",
-        "Occupation": "Administrative Assistant",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Deandra Kanu",
-        "Age": "23",
-        "Hometown": "Bar Harbor, Maine",
-        "Occupation": "Home Care Coordinator",
-        "Outcome": "Week 4",
-        "Place": "13–15",
-        "Ref": ""
-    },
-    {
-        "Name": "Kiarra Norman",
-        "Age": "23",
-        "Hometown": "Kennesaw, Georgia",
-        "Occupation": "Nanny",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Savannah Mullins",
-        "Age": "27",
-        "Hometown": "Houston, Texas",
-        "Occupation": "Realtor",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alayah Benavidez",
-        "Age": "24",
-        "Hometown": "Helotes, Texas",
-        "Occupation": "Orthodontist Assistant",
-        "Outcome": "16",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alayah Benavidez",
-        "Age": "(Returned to competition)",
-        "Hometown": "Week 3",
-        "Occupation": "",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Alexa Caves",
-        "Age": "27",
-        "Hometown": "Springfield, Illinois",
-        "Occupation": "Esthetician",
-        "Outcome": "17–19",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jasmine Nguyen",
-        "Age": "25",
-        "Hometown": "Houston, Texas",
-        "Occupation": "Client Relations Manager",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Sarah Coffin",
-        "Age": "24",
-        "Hometown": "Knoxville, Tennessee",
-        "Occupation": "Medical Radiographer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Courtney Perry",
-        "Age": "26",
-        "Hometown": "Venice, Florida",
-        "Occupation": "Cosmetologist",
-        "Outcome": "Week 2",
-        "Place": "20–22",
-        "Ref": ""
-    },
-    {
-        "Name": "Lauren Jones",
-        "Age": "26",
-        "Hometown": "Glendale, California",
-        "Occupation": "Marketing Executive",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Payton Moran",
-        "Age": "24",
-        "Hometown": "Wellesley, Massachusetts",
-        "Occupation": "Business Development Rep",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Avonlea Elkins",
-        "Age": "27",
-        "Hometown": "Fort Worth, Texas",
-        "Occupation": "Cattle Rancher",
-        "Outcome": "Week 1",
-        "Place": "23–30",
-        "Ref": ""
-    },
-    {
-        "Name": "Eunice Cho",
-        "Age": "23",
-        "Hometown": "Chicago, Illinois",
-        "Occupation": "Flight Attendant",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jade Gilliland",
-        "Age": "26",
-        "Hometown": "Mesa, Arizona",
-        "Occupation": "Media Buyer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Jenna Serrano",
-        "Age": "22",
-        "Hometown": "New Lenox, Illinois",
-        "Occupation": "Nursing Student",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Katrina Badowski",
-        "Age": "28",
-        "Hometown": "St. Charles, Illinois",
-        "Occupation": "Pro NBA Dancer",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Kylie Ramos",
-        "Age": "26",
-        "Hometown": "Davis, California",
-        "Occupation": "Entertainment Sales Associate",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Maurissa Gunn",
-        "Age": "23",
-        "Hometown": "Laurel, Montana",
-        "Occupation": "Patient Care Coordinator",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    },
-    {
-        "Name": "Megan Hops",
-        "Age": "26",
-        "Hometown": "San Bruno, California",
-        "Occupation": "Flight Attendant",
-        "Outcome": "",
-        "Place": "",
-        "Ref": ""
-    }
+  {
+    "Name": "Hannah Ann Sluss",
+    "Age": "23",
+    "Hometown": "Powell, Tennessee",
+    "Occupation": "Model",
+    "Outcome": "Winner",
+    "Place": "1"
+  },
+  {
+    "Name": "Madison Prewett",
+    "Age": "23",
+    "Hometown": "Auburn, Alabama",
+    "Occupation": "Foster Parent Recruiter",
+    "Outcome": "Runner-up",
+    "Place": "2 (quit)"
+  },
+  {
+    "Name": "Victoria Fuller",
+    "Age": "26",
+    "Hometown": "Virginia Beach, Virginia",
+    "Occupation": "Medical Sales Rep",
+    "Outcome": "Week 9",
+    "Place": "3"
+  },
+  {
+    "Name": "Kelsey Weier",
+    "Age": "28",
+    "Hometown": "Urbandale, Iowa",
+    "Occupation": "Professional Clothier",
+    "Outcome": "Week 8",
+    "Place": "4"
+  },
+  {
+    "Name": "Kelley Flanagan",
+    "Age": "27",
+    "Hometown": "North Barrington, Illinois",
+    "Occupation": "Attorney",
+    "Outcome": "Week 7",
+    "Place": "5"
+  },
+  {
+    "Name": "Natasha Parker",
+    "Age": "31",
+    "Hometown": "Manhattan, New York",
+    "Occupation": "Event Planner",
+    "Outcome": "6",
+    "Place": ""
+  },
+  {
+    "Name": "Mykenna Dorn",
+    "Age": "22",
+    "Hometown": "Langley, British Columbia",
+    "Occupation": "Fashion Blogger",
+    "Outcome": "Week 6",
+    "Place": "7–8"
+  },
+  {
+    "Name": "Sydney Hightower",
+    "Age": "24",
+    "Hometown": "Northport, Alabama",
+    "Occupation": "Retail Marketing Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Tammy Ly",
+    "Age": "24",
+    "Hometown": "Syracuse, New York",
+    "Occupation": "House Flipper",
+    "Outcome": "9",
+    "Place": ""
+  },
+  {
+    "Name": "Victoria Paul",
+    "Age": "27",
+    "Hometown": "Alexandria, Louisiana",
+    "Occupation": "Nurse",
+    "Outcome": "10",
+    "Place": ""
+  },
+  {
+    "Name": "Lexi Buchanan",
+    "Age": "26",
+    "Hometown": "Jacksonville, Florida",
+    "Occupation": "Marketing Coordinator",
+    "Outcome": "Week 5",
+    "Place": "11–12"
+  },
+  {
+    "Name": "Shiann Lewis",
+    "Age": "27",
+    "Hometown": "Las Vegas, Nevada",
+    "Occupation": "Administrative Assistant",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Deandra Kanu",
+    "Age": "23",
+    "Hometown": "Bar Harbor, Maine",
+    "Occupation": "Home Care Coordinator",
+    "Outcome": "Week 4",
+    "Place": "13–15"
+  },
+  {
+    "Name": "Kiarra Norman",
+    "Age": "23",
+    "Hometown": "Kennesaw, Georgia",
+    "Occupation": "Nanny",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Savannah Mullins",
+    "Age": "27",
+    "Hometown": "Houston, Texas",
+    "Occupation": "Realtor",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Alayah Benavidez",
+    "Age": "24",
+    "Hometown": "Helotes, Texas",
+    "Occupation": "Orthodontist Assistant",
+    "Outcome": "16",
+    "Place": ""
+  },
+  {
+    "Name": "Alayah Benavidez",
+    "Age": "(Returned to competition)",
+    "Hometown": "Week 3",
+    "Occupation": "",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Alexa Caves",
+    "Age": "27",
+    "Hometown": "Springfield, Illinois",
+    "Occupation": "Esthetician",
+    "Outcome": "17–19",
+    "Place": ""
+  },
+  {
+    "Name": "Jasmine Nguyen",
+    "Age": "25",
+    "Hometown": "Houston, Texas",
+    "Occupation": "Client Relations Manager",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Sarah Coffin",
+    "Age": "24",
+    "Hometown": "Knoxville, Tennessee",
+    "Occupation": "Medical Radiographer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Courtney Perry",
+    "Age": "26",
+    "Hometown": "Venice, Florida",
+    "Occupation": "Cosmetologist",
+    "Outcome": "Week 2",
+    "Place": "20–22"
+  },
+  {
+    "Name": "Lauren Jones",
+    "Age": "26",
+    "Hometown": "Glendale, California",
+    "Occupation": "Marketing Executive",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Payton Moran",
+    "Age": "24",
+    "Hometown": "Wellesley, Massachusetts",
+    "Occupation": "Business Development Rep",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Avonlea Elkins",
+    "Age": "27",
+    "Hometown": "Fort Worth, Texas",
+    "Occupation": "Cattle Rancher",
+    "Outcome": "Week 1",
+    "Place": "23–30"
+  },
+  {
+    "Name": "Eunice Cho",
+    "Age": "23",
+    "Hometown": "Chicago, Illinois",
+    "Occupation": "Flight Attendant",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Jade Gilliland",
+    "Age": "26",
+    "Hometown": "Mesa, Arizona",
+    "Occupation": "Media Buyer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Jenna Serrano",
+    "Age": "22",
+    "Hometown": "New Lenox, Illinois",
+    "Occupation": "Nursing Student",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Katrina Badowski",
+    "Age": "28",
+    "Hometown": "St. Charles, Illinois",
+    "Occupation": "Pro NBA Dancer",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Kylie Ramos",
+    "Age": "26",
+    "Hometown": "Davis, California",
+    "Occupation": "Entertainment Sales Associate",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Maurissa Gunn",
+    "Age": "23",
+    "Hometown": "Laurel, Montana",
+    "Occupation": "Patient Care Coordinator",
+    "Outcome": "",
+    "Place": ""
+  },
+  {
+    "Name": "Megan Hops",
+    "Age": "26",
+    "Hometown": "San Bruno, California",
+    "Occupation": "Flight Attendant",
+    "Outcome": "",
+    "Place": ""
+  }
 ]
