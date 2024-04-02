@@ -1,0 +1,5855 @@
+[
+    {
+        "Name": "Amanda Marsh",
+        "Age": 23,
+        "Hometown": "Chanute, Kansas",
+        "Job": "Event Planner",
+        "Eliminated": "Winner",
+        "season": "01"
+    },
+    {
+        "Name": "Trista Rehn",
+        "Age": 29,
+        "Hometown": "St. Louis, Missouri",
+        "Job": "Miami Heat Dancer",
+        "Eliminated": "Runner-up",
+        "season": "01"
+    },
+    {
+        "Name": "Shannon Oliver",
+        "Age": 24,
+        "Hometown": "Dallas, Texas",
+        "Job": "Financial Management Consultant",
+        "Eliminated": "Week 5",
+        "season": "01"
+    },
+    {
+        "Name": "Kimberly Karels",
+        "Age": 24,
+        "Hometown": "Tempe, Arizona",
+        "Job": "Nanny",
+        "Eliminated": "Week 4",
+        "season": "01"
+    },
+    {
+        "Name": "Cathy Grimes",
+        "Age": 22,
+        "Hometown": "Terre Haute, Indiana",
+        "Job": "Graduate Student",
+        "Eliminated": "Week 3",
+        "season": "01"
+    },
+    {
+        "Name": "Christina Stencil",
+        "Age": 28,
+        "Hometown": "Bonita, California",
+        "Job": "Attorney",
+        "Eliminated": "Week 3",
+        "season": "01"
+    },
+    {
+        "Name": "LaNease Adams",
+        "Age": 23,
+        "Hometown": "Playa Del Rey, California",
+        "Job": "Actress",
+        "Eliminated": "Week 3",
+        "season": "01"
+    },
+    {
+        "Name": "Rhonda Rittenhouse",
+        "Age": 28,
+        "Hometown": "Woodward, Oklahoma",
+        "Job": "Commercial Real Estate Agent",
+        "Eliminated": "Week 3",
+        "season": "01"
+    },
+    {
+        "Name": "Alexa Jurgielewicz",
+        "Age": 27,
+        "Hometown": "Beverly Hills, California",
+        "Job": "Special Ed. Teacher",
+        "Eliminated": "Week 2",
+        "season": "01"
+    },
+    {
+        "Name": "Amy Anzel",
+        "Age": 28,
+        "Hometown": "Yonkers, New York",
+        "Job": "Production Coordinator",
+        "Eliminated": "Week 2",
+        "season": "01"
+    },
+    {
+        "Name": "Angela Lowery",
+        "Age": 25,
+        "Hometown": "Avondale, Arizona",
+        "Job": "Hooters Waitress",
+        "Eliminated": "Week 2",
+        "season": "01"
+    },
+    {
+        "Name": "Angelique Madrid",
+        "Age": 27,
+        "Hometown": "Burbank, California",
+        "Job": "Actress",
+        "Eliminated": "Week 2",
+        "season": "01"
+    },
+    {
+        "Name": "Katie Sapienza",
+        "Age": 23,
+        "Hometown": "Malden, Massachusetts",
+        "Job": "Power Tool Sales Rep.",
+        "Eliminated": "Week 2",
+        "season": "01"
+    },
+    {
+        "Name": "Melissa Reese",
+        "Age": 25,
+        "Hometown": "Tempe, Arizona",
+        "Job": "Photographer",
+        "Eliminated": "Week 2",
+        "season": "01"
+    },
+    {
+        "Name": "Tina Chen",
+        "Age": 27,
+        "Hometown": "Plano, Texas",
+        "Job": "Graduate Student",
+        "Eliminated": "Week 2",
+        "season": "01"
+    },
+    {
+        "Name": "Amber Johnson",
+        "Age": 29,
+        "Hometown": "Los Angeles, California",
+        "Job": "Business Development Director",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Daniela Ferdico",
+        "Age": 30,
+        "Hometown": "Seattle, Washington",
+        "Job": "Neuropsychologist",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Denise Kellaher",
+        "Age": 30,
+        "Hometown": "Honolulu, Hawaii",
+        "Job": "Doctor",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Jackie Hucko",
+        "Age": 22,
+        "Hometown": "Pittsburgh, Pennsylvania",
+        "Job": "Bar Manager",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Jill Gosser",
+        "Age": 31,
+        "Hometown": "Chicago, Illinois",
+        "Job": "Retail Manager",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Kristina Jenkins",
+        "Age": 27,
+        "Hometown": "Chelsea, New York",
+        "Job": "Advertising Executive",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Lisa Gold",
+        "Age": 29,
+        "Hometown": "Dallas, Texas",
+        "Job": "Attorney",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Paula Oliveira",
+        "Age": 24,
+        "Hometown": "Swansea, Massachusetts",
+        "Job": "Insurance Representative",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Rachel Lanzilotto",
+        "Age": 29,
+        "Hometown": "Eastchester, New York",
+        "Job": "6th Grade Teacher",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Wendi Plotnik",
+        "Age": 26,
+        "Hometown": "Dallas, Texas",
+        "Job": "Technology Specialist",
+        "Eliminated": "Week 1",
+        "season": "01"
+    },
+    {
+        "Name": "Helene Eksterowicz",
+        "Age": 27,
+        "Hometown": "Gloucester, New Jersey",
+        "Job": "School Psychologist",
+        "Eliminated": "Winner",
+        "season": "02"
+    },
+    {
+        "Name": "Brooke Smith",
+        "Age": 22,
+        "Hometown": "Albertville, Alabama",
+        "Job": "College Student",
+        "Eliminated": "Runner-up",
+        "season": "02"
+    },
+    {
+        "Name": "Gwen Gioia",
+        "Age": 31,
+        "Hometown": "Philadelphia, Pennsylvania",
+        "Job": "Executive Recruiter",
+        "Eliminated": "Week 6",
+        "season": "02"
+    },
+    {
+        "Name": "Angela Vaught",
+        "Age": 27,
+        "Hometown": "Kansas City, Missouri",
+        "Job": "Registered Nurse",
+        "Eliminated": "Week 5",
+        "season": "02"
+    },
+    {
+        "Name": "Hayley Crittenden",
+        "Age": 28,
+        "Hometown": "Lake Oswego, Oregon",
+        "Job": "Retail Manager",
+        "Eliminated": "Week 4",
+        "season": "02"
+    },
+    {
+        "Name": "Heather Cranford",
+        "Age": 30,
+        "Hometown": "Dallas, Texas",
+        "Job": "Flight Attendant",
+        "Eliminated": "Week 4",
+        "season": "02"
+    },
+    {
+        "Name": "Christi Weible",
+        "Age": 23,
+        "Hometown": "Boise, Idaho",
+        "Job": "Assistant Financial Advisor",
+        "Eliminated": "Week 3",
+        "season": "02"
+    },
+    {
+        "Name": "Heather Campion",
+        "Age": 24,
+        "Hometown": "Walnut Creek, California",
+        "Job": "Marriage Therapy Trainee",
+        "Eliminated": "Week 3",
+        "season": "02"
+    },
+    {
+        "Name": "Kyla Dickerson",
+        "Age": 22,
+        "Hometown": "Midvale, Utah",
+        "Job": "Airline Supervisor",
+        "Eliminated": "Week 3",
+        "season": "02"
+    },
+    {
+        "Name": "Shannon Fries",
+        "Age": 26,
+        "Hometown": "North Lindenhurst, New York",
+        "Job": "Graphic Artist",
+        "Eliminated": "Week 3",
+        "season": "02"
+    },
+    {
+        "Name": "Dana Norris",
+        "Age": 24,
+        "Hometown": "Beverly Hills, California",
+        "Job": "Radio Sales",
+        "Eliminated": "Week 2",
+        "season": "02"
+    },
+    {
+        "Name": "Erin Lulevitch",
+        "Age": 25,
+        "Hometown": "West Chester, Pennsylvania",
+        "Job": "Publications Quality Control",
+        "Eliminated": "Week 2",
+        "season": "02"
+    },
+    {
+        "Name": "Suzanne Freeman",
+        "Age": 33,
+        "Hometown": "Redondo Beach, California",
+        "Job": "Flight Attendant",
+        "Eliminated": "Week 2",
+        "season": "02"
+    },
+    {
+        "Name": "Frances Dinglasan",
+        "Age": 30,
+        "Hometown": "San Francisco, California",
+        "Job": "Strategic Planning Analyst",
+        "Eliminated": "Week 2 (Quit)",
+        "season": "02"
+    },
+    {
+        "Name": "Anindita Dutta",
+        "Age": 27,
+        "Hometown": "Brooklyn, New York",
+        "Job": "Attorney",
+        "Eliminated": "Week 2 (Quit)",
+        "season": "02"
+    },
+    {
+        "Name": "Amber West",
+        "Age": 26,
+        "Hometown": "Chapel Hill, North Carolina",
+        "Job": "Psychologist",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Camille Langfield",
+        "Age": 29,
+        "Hometown": "Sherman Oaks, California",
+        "Job": "Actress",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Cari",
+        "Age": 29,
+        "Hometown": "Granite City, Illinois",
+        "Job": "3rd Grade Teacher",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Christy",
+        "Age": 24,
+        "Hometown": "Avondale, Arizona",
+        "Job": "Radiological Technologist",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Erin A.",
+        "Age": 24,
+        "Hometown": "Houston, Texas",
+        "Job": "Interior Designer",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Fatima Rivas",
+        "Age": 22,
+        "Hometown": "Long Beach, California",
+        "Job": "College Student",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Liangy Fernandez",
+        "Age": 30,
+        "Hometown": "Coral Gables, Florida",
+        "Job": "Paralegal",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Lori Todd",
+        "Age": 26,
+        "Hometown": "Dallas, Texas",
+        "Job": "Former NBA Cheerleader",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Merrilee Donohue",
+        "Age": 28,
+        "Hometown": "Forked River, New Jersey",
+        "Job": "1st Grade Teacher",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Suzi Reid",
+        "Age": 28,
+        "Hometown": "Richmond, Virginia",
+        "Job": "Communications Specialist",
+        "Eliminated": "Week 1",
+        "season": "02"
+    },
+    {
+        "Name": "Jennifer Schefft",
+        "Age": 25,
+        "Hometown": "Mentor, Ohio",
+        "Occupation": "Publicist",
+        "Eliminated": "Winner",
+        "season": "03"
+    },
+    {
+        "Name": "Kirsten Buschbacher",
+        "Age": 23,
+        "Hometown": "Valrico, Florida",
+        "Occupation": "E-Commerce Merchant",
+        "Eliminated": "Runner-up",
+        "season": "03"
+    },
+    {
+        "Name": "Tina WI",
+        "Age": null,
+        "Hometown": "Wisconsin",
+        "Occupation": null,
+        "Eliminated": "Week 6",
+        "season": "03"
+    },
+    {
+        "Name": "Christina FL",
+        "Age": null,
+        "Hometown": "Florida",
+        "Occupation": null,
+        "Eliminated": "Week 5",
+        "season": "03"
+    },
+    {
+        "Name": "Anne-Michelle",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 4",
+        "season": "03"
+    },
+    {
+        "Name": "Liz",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 4",
+        "season": "03"
+    },
+    {
+        "Name": "Amber",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 3",
+        "season": "03"
+    },
+    {
+        "Name": "Aubree",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 3",
+        "season": "03"
+    },
+    {
+        "Name": "Heather",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 3",
+        "season": "03"
+    },
+    {
+        "Name": "Tina TN",
+        "Age": null,
+        "Hometown": "Tennessee",
+        "Occupation": null,
+        "Eliminated": "Week 3",
+        "season": "03"
+    },
+    {
+        "Name": "Amy SC",
+        "Age": null,
+        "Hometown": "South Carolina",
+        "Occupation": null,
+        "Eliminated": "Week 2",
+        "season": "03"
+    },
+    {
+        "Name": "Christina NJ",
+        "Age": null,
+        "Hometown": "New Jersey",
+        "Occupation": null,
+        "Eliminated": "Week 2",
+        "season": "03"
+    },
+    {
+        "Name": "Elizabeth",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 2",
+        "season": "03"
+    },
+    {
+        "Name": "Rachel",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 2",
+        "season": "03"
+    },
+    {
+        "Name": "Shannon",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 2",
+        "season": "03"
+    },
+    {
+        "Name": "Amy",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Angela",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Brooke",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Courtney",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Ginny",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Jennifer",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Kerri",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Kristen",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Stephanie",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Tiffany",
+        "Age": null,
+        "Hometown": null,
+        "Occupation": null,
+        "Eliminated": "Week 1",
+        "season": "03"
+    },
+    {
+        "Name": "Jessica Bowlin",
+        "Age": 22,
+        "Hometown": "Huntington Beach, California",
+        "Occupation": "Student",
+        "Eliminated": "Winner",
+        "season": "05"
+    },
+    {
+        "Name": "Tara Huckeby",
+        "Age": 23,
+        "Hometown": "Shawnee, Oklahoma",
+        "Occupation": "General Contractor",
+        "Eliminated": "Week 7",
+        "season": "05"
+    },
+    {
+        "Name": "Mandy Jaye Jeffreys",
+        "Age": 26,
+        "Hometown": "Midland, Texas",
+        "Occupation": "Architect Designer",
+        "Eliminated": "Week 6",
+        "season": "05"
+    },
+    {
+        "Name": "Trish Schneider",
+        "Age": 28,
+        "Hometown": "Atlanta, Georgia",
+        "Occupation": "Model",
+        "Eliminated": "Week 5",
+        "season": "05"
+    },
+    {
+        "Name": "Karen Lindsay",
+        "Age": 28,
+        "Hometown": "Pleasant Grove, Utah",
+        "Occupation": "Pharmaceutical Salesperson",
+        "Eliminated": "Week 4",
+        "season": "05"
+    },
+    {
+        "Name": "Suzie Williams",
+        "Age": 23,
+        "Hometown": "Ann Arbor, Michigan",
+        "Occupation": "Prosthetic Technician",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Jenny De Schiralli",
+        "Age": 26,
+        "Hometown": "Carrboro, North Carolina",
+        "Occupation": "Swim Instructor",
+        "Eliminated": "Week 3",
+        "season": "05"
+    },
+    {
+        "Name": "Jessica Holcomb",
+        "Age": 25,
+        "Hometown": "Pearsall, Texas",
+        "Occupation": "Attorney",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Julie Durda",
+        "Age": 24,
+        "Hometown": "Sacramento, California",
+        "Occupation": "Professional Cheerleader",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Katie Gehart",
+        "Age": 22,
+        "Hometown": "Scottsdale, Arizona",
+        "Occupation": "LASIK Eye & Skin Center Manager",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Amber LaRoux",
+        "Age": 27,
+        "Hometown": "Sunriver, Oregon",
+        "Occupation": "Consultant",
+        "Eliminated": "Week 2",
+        "season": "05"
+    },
+    {
+        "Name": "Anne-Catherine Labbé",
+        "Age": 27,
+        "Hometown": "Quebec City, Quebec",
+        "Occupation": "Model",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Celeste Creel",
+        "Age": 24,
+        "Hometown": "Ithaca, New York",
+        "Occupation": "Executive Assistant",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Debbie Merkett",
+        "Age": 27,
+        "Hometown": "Pinetops, North Carolina",
+        "Occupation": "Massage Therapist",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Jean-Marie Callahan",
+        "Age": 26,
+        "Hometown": "Gibson, North Carolina",
+        "Occupation": "Hairstylist",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Jenny Matthews",
+        "Age": 24,
+        "Hometown": "Canton, Michigan",
+        "Occupation": "Retail Manager",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Kristy Romero",
+        "Age": 25,
+        "Hometown": "Dearborn, Michigan",
+        "Occupation": "Student",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Mandy Clemens",
+        "Age": 25,
+        "Hometown": "San Diego, California",
+        "Occupation": "Professional Soccer Player",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "DeShaun Warner",
+        "Age": 25,
+        "Hometown": "Phillipsburg, New Jersey",
+        "Occupation": "Account Manager",
+        "Eliminated": "Week 1",
+        "season": "05"
+    },
+    {
+        "Name": "Dolores Farburg",
+        "Age": 26,
+        "Hometown": "Madison, New Jersey",
+        "Occupation": "Account Manager",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Francine Jones",
+        "Age": 25,
+        "Hometown": "Houston, Texas",
+        "Occupation": "Retail Manager",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Holly Reeder",
+        "Age": 26,
+        "Hometown": "Tulsa, Oklahoma",
+        "Occupation": "Bank Representative",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Jessica Kyron",
+        "Age": 21,
+        "Hometown": "Cincinnati, Ohio",
+        "Occupation": "Student",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Kristin Clearwater",
+        "Age": 25,
+        "Hometown": "Sausalito, California",
+        "Occupation": "Singer",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Rachel Clementi",
+        "Age": 26,
+        "Hometown": "Buffalo, New York",
+        "Occupation": "Fashion PR Manager",
+        "Eliminated": null,
+        "season": "05"
+    },
+    {
+        "Name": "Jennifer Wilson",
+        "Age": 24,
+        "Hometown": "Pembroke Pines, Florida",
+        "Occupation": "Teacher",
+        "Eliminated": "Winner",
+        "season": "09"
+    },
+    {
+        "Name": "Sadie Murray",
+        "Age": 23,
+        "Hometown": "Carlsbad, California",
+        "Occupation": "Publicist",
+        "Eliminated": "Week 7",
+        "season": "09"
+    },
+    {
+        "Name": "Lisa Blank",
+        "Age": 25,
+        "Hometown": "Portland, Oregon",
+        "Occupation": "Marketing manager",
+        "Eliminated": "Week 6",
+        "season": "09"
+    },
+    {
+        "Name": "Agnese Polliza",
+        "Age": 24,
+        "Hometown": "Venice, Italy",
+        "Occupation": "Student",
+        "Eliminated": "Week 5",
+        "season": "09"
+    },
+    {
+        "Name": "Desiree Valentin",
+        "Age": 22,
+        "Hometown": "Salt Lake City, Utah",
+        "Occupation": "Realtor",
+        "Eliminated": "Week 4",
+        "season": "09"
+    },
+    {
+        "Name": "Jeanette Pawula",
+        "Age": 23,
+        "Hometown": "Bloomingdale, Illinois",
+        "Occupation": "Teacher",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Erica Rose",
+        "Age": 23,
+        "Hometown": "Houston, Texas",
+        "Occupation": "Attorney",
+        "Eliminated": "Week 3",
+        "season": "09"
+    },
+    {
+        "Name": "Gina Clark",
+        "Age": 28,
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Ultrasound technician",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Jami Matzke",
+        "Age": 27,
+        "Hometown": "Galveston, Texas",
+        "Occupation": "Event planner",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Ellen DeMaio",
+        "Age": 30,
+        "Hometown": "New Haven, Connecticut",
+        "Occupation": "Realtor",
+        "Eliminated": "Week 2",
+        "season": "09"
+    },
+    {
+        "Name": "Kimberly  Jackson",
+        "Age": 27,
+        "Hometown": "Newport Beach, California",
+        "Occupation": "Interior designer",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Sarah Schnare",
+        "Age": 30,
+        "Hometown": "Nelson, British Columbia",
+        "Occupation": "Journalist",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "April Jacobs",
+        "Age": 23,
+        "Hometown": "Hyde Park, Chicago, Illinois",
+        "Occupation": "Model",
+        "Eliminated": "Week 1",
+        "season": "09"
+    },
+    {
+        "Name": "Andrea Shirley",
+        "Age": 28,
+        "Hometown": "Cincinnati, Ohio",
+        "Occupation": "Hotel concierge",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Britt Keeder",
+        "Age": 28,
+        "Hometown": "Columbus, Ohio",
+        "Occupation": "Beer chemist",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Carissa Ilburg",
+        "Age": 25,
+        "Hometown": "Cattaraugus, New York",
+        "Occupation": "Attorney",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Claudia Gismondi",
+        "Age": 22,
+        "Hometown": "Boca Raton, Florida",
+        "Occupation": "Restaurateur",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Cosetta Blanca",
+        "Age": null,
+        "Hometown": "Italy",
+        "Occupation": "Dancer",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Elyse Hammer",
+        "Age": 27,
+        "Hometown": "Meadow Vista, California",
+        "Occupation": "Physician",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Heather Sneed",
+        "Age": 34,
+        "Hometown": "Aliquippa, Pennsylvania",
+        "Occupation": "Registered nurse",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Jessica Horner",
+        "Age": 25,
+        "Hometown": "Charlotte, North Carolina",
+        "Occupation": "Assistant buyer",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Laura Morgan",
+        "Age": 29,
+        "Hometown": "Spring Valley, California",
+        "Occupation": "Dolphin trainer",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Meryl  Barr",
+        "Age": 27,
+        "Hometown": "Biloxi, Mississippi",
+        "Occupation": "Attorney",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Renée Snell",
+        "Age": 30,
+        "Hometown": "Baltimore, Maryland",
+        "Occupation": "Broadcast marketer",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Rita Ghazal",
+        "Age": 29,
+        "Hometown": "Richmond, Virginia",
+        "Occupation": "Policy advisor",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Rosella Fratto",
+        "Age": 27,
+        "Hometown": "Homer Glen, Illinois",
+        "Occupation": "Make-up artist",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Tara Durr",
+        "Age": 24,
+        "Hometown": "St. Augustine, Florida",
+        "Occupation": "Realtor",
+        "Eliminated": null,
+        "season": "09"
+    },
+    {
+        "Name": "Tessa Horst",
+        "Age": 26,
+        "Hometown": "San Francisco, California",
+        "Occupation": "Social Worker",
+        "Eliminated": "Winner",
+        "season": "10"
+    },
+    {
+        "Name": "Bevin Nicole Powers",
+        "Age": 28,
+        "Hometown": "Palo Alto, California",
+        "Occupation": "Assistant",
+        "Eliminated": "Week 8",
+        "season": "10"
+    },
+    {
+        "Name": "Danielle Imwalle",
+        "Age": 25,
+        "Hometown": "Bethel, Connecticut",
+        "Occupation": "Graphic Designer",
+        "Eliminated": "Week 7",
+        "season": "10"
+    },
+    {
+        "Name": "Amber Alchalabi",
+        "Age": 23,
+        "Hometown": "Sugar Land, Texas",
+        "Occupation": "Teacher",
+        "Eliminated": "Week 6",
+        "season": "10"
+    },
+    {
+        "Name": "Stephanie Wilhite",
+        "Age": 23,
+        "Hometown": "Overland Park, Kansas",
+        "Occupation": "Project Manager",
+        "Eliminated": "Week 5",
+        "season": "10"
+    },
+    {
+        "Name": "Tina Wu",
+        "Age": 26,
+        "Hometown": "Lenox Hill, New York",
+        "Occupation": "Medical student",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Kate Brockhouse",
+        "Age": 24,
+        "Hometown": "Ravenel, South Carolina",
+        "Occupation": "Boutique owner",
+        "Eliminated": "Week 4",
+        "season": "10"
+    },
+    {
+        "Name": "Nicole Clary",
+        "Age": 26,
+        "Hometown": "Charleston, South Carolina",
+        "Occupation": "Sales Manager",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Stephanie Tipper",
+        "Age": 27,
+        "Hometown": "Folly Beach, South Carolina",
+        "Occupation": "Organ donor coordinator",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Amanda Hackney",
+        "Age": 26,
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Financial analyst",
+        "Eliminated": "Week 3",
+        "season": "10"
+    },
+    {
+        "Name": "Erin Parker",
+        "Age": 24,
+        "Hometown": "Logansport, Louisiana",
+        "Occupation": "Financial analyst",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Peyton Wright",
+        "Age": 24,
+        "Hometown": "Kingsport, Tennessee",
+        "Occupation": "Sorority recruiter",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Alexis Young",
+        "Age": 26,
+        "Hometown": "Southlake, Texas",
+        "Occupation": "Attorney",
+        "Eliminated": "Week 2",
+        "season": "10"
+    },
+    {
+        "Name": "Susan Anderson",
+        "Age": 23,
+        "Hometown": "The Woodlands, Texas",
+        "Occupation": "Boutique manager",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Tiffany Warren",
+        "Age": 28,
+        "Hometown": "Boston, Massachusetts",
+        "Occupation": "Medical equipment sales rep",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Blakeney Rowe",
+        "Age": 29,
+        "Hometown": "Birmingham, Alabama",
+        "Occupation": "Radio sales",
+        "Eliminated": "Week 1",
+        "season": "10"
+    },
+    {
+        "Name": "Candice DeCost",
+        "Age": 23,
+        "Hometown": "Hilton Head Island, South Carolina",
+        "Occupation": "Waitress",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Catherine Warren",
+        "Age": 23,
+        "Hometown": "Lake Forest, Illinois",
+        "Occupation": "Former Miss Illinois",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Danielle Vallis",
+        "Age": 26,
+        "Hometown": "The Bronx, New York",
+        "Occupation": "Attorney",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Jacqueline  Topelli",
+        "Age": 23,
+        "Hometown": "Minneapolis, Minnesota",
+        "Occupation": "Executive coordinator",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Jeanette Alvarez",
+        "Age": 27,
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Health care manager",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Jessica Devallo",
+        "Age": 32,
+        "Hometown": "New York, New York",
+        "Occupation": "Hedge fund analyst",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Linda Malek",
+        "Age": 33,
+        "Hometown": "Cuyahoga Falls, Ohio",
+        "Occupation": "Attorney",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Lindsay Smith",
+        "Age": 22,
+        "Hometown": "Lawrence, Kansas",
+        "Occupation": "Student",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "Tiffany Forester",
+        "Age": 27,
+        "Hometown": "St. Louis Park, Minnesota",
+        "Occupation": "Real estate sales/development",
+        "Eliminated": null,
+        "season": "10"
+    },
+    {
+        "Name": "DeAnna Pappas",
+        "Age": 25,
+        "Hometown": "Newnan, Georgia",
+        "Occupation": "Realtor",
+        "Eliminated": "Co-runners-up",
+        "Place": "2",
+        "season": "11"
+    },
+    {
+        "Name": "Jenni Croft",
+        "Age": 27,
+        "Hometown": "Wichita, Kansas",
+        "Occupation": "Phoenix Suns Cheerleader",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Bettina Bell",
+        "Age": 27,
+        "Hometown": "Washington, D.C.",
+        "Occupation": "Realtor",
+        "Eliminated": "Week 7",
+        "Place": "3",
+        "season": "11"
+    },
+    {
+        "Name": "Sheena Stewart",
+        "Age": 23,
+        "Hometown": "Walnut Creek, California",
+        "Occupation": "Internet marketing executive",
+        "Eliminated": "Week 6",
+        "Place": "4",
+        "season": "11"
+    },
+    {
+        "Name": "Hillary Reisinger",
+        "Age": 27,
+        "Hometown": "Philadelphia, Pennsylvania",
+        "Occupation": "Registered nurse",
+        "Eliminated": "Week 5",
+        "Place": "5–6",
+        "season": "11"
+    },
+    {
+        "Name": "Kristy Katzmann",
+        "Age": 29,
+        "Hometown": "Gurnee, Illinois",
+        "Occupation": "Acupuncturist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "McCarten Delaney",
+        "Age": 26,
+        "Hometown": "Lemon Grove, California",
+        "Occupation": "Account manager",
+        "Eliminated": "Week 4",
+        "Place": "7–8",
+        "season": "11"
+    },
+    {
+        "Name": "Estefania  Leon",
+        "Age": 26,
+        "Hometown": "Atlanta, Georgia",
+        "Occupation": "Executive assistant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Jade Beazley",
+        "Age": 24,
+        "Hometown": "Nashville, Tennessee",
+        "Occupation": "Boutique sales worker",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Lindsey Hawkins",
+        "Age": 25,
+        "Hometown": "Livonia, Michigan",
+        "Occupation": "Model",
+        "Eliminated": "Week 3",
+        "Place": "10–12",
+        "season": "11"
+    },
+    {
+        "Name": "Sarah Newlon",
+        "Age": 23,
+        "Hometown": "O'Fallon, Illinois",
+        "Occupation": "Bar manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Solisa Shoop",
+        "Age": 25,
+        "Hometown": "Georgetown, Texas",
+        "Occupation": "Esthetician",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Erin Gardner",
+        "Age": 25,
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Publishing sales executive",
+        "Eliminated": "Week 2",
+        "Place": "13–15",
+        "season": "11"
+    },
+    {
+        "Name": "Mallory Simons",
+        "Age": 24,
+        "Hometown": "Honolulu, Hawaii",
+        "Occupation": "Nanny",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Michele Leavy",
+        "Age": 30,
+        "Hometown": "South Brunswick, New Jersey",
+        "Occupation": "Realtor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Jessica Kiss",
+        "Age": 27,
+        "Hometown": "Lady Lake, Florida",
+        "Occupation": "News anchor",
+        "Eliminated": "Week 1",
+        "Place": "16–25",
+        "season": "11"
+    },
+    {
+        "Name": "Julia  Gilliam",
+        "Age": 24,
+        "Hometown": "Chicago, Illinois",
+        "Occupation": "Law student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Kimberly  Orville",
+        "Age": 31,
+        "Hometown": "Woodbridge, Connecticut",
+        "Occupation": "Realtor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Lori Langley",
+        "Age": 33,
+        "Hometown": "Annapolis, Maryland",
+        "Occupation": "Biology teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Melissa Buschel",
+        "Age": 28,
+        "Hometown": "Armonk, New York",
+        "Occupation": "Event planner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Morgan Becker",
+        "Age": 24,
+        "Hometown": "Tempe, Arizona",
+        "Occupation": "Graduate student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Natalie Velasco",
+        "Age": 25,
+        "Hometown": "Duncanville, Texas",
+        "Occupation": "Law student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Regina Doringa",
+        "Age": 31,
+        "Hometown": "San Diego, California",
+        "Occupation": "Account representative",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Tauni Nessler ",
+        "Age": 31,
+        "Hometown": "St. Louis Park, Minnesota",
+        "Occupation": "Emergency room nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Susan Coolidge",
+        "Age": 35,
+        "Hometown": "St. Charles, Illinois",
+        "Occupation": "Project analyst",
+        "Eliminated": null,
+        "Place": "",
+        "season": "11"
+    },
+    {
+        "Name": "Shayne Lamas",
+        "Age": 22,
+        "Hometown": "Malibu, California",
+        "Occupation": "Actress",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "12"
+    },
+    {
+        "Name": "Chelsea Wanstrath",
+        "Age": 25,
+        "Hometown": "Durango, Colorado",
+        "Occupation": "Pharmaceutical sales rep.",
+        "Eliminated": "Runner-up",
+        "Place": "2",
+        "season": "12"
+    },
+    {
+        "Name": "Amanda Rantuccio",
+        "Age": 27,
+        "Hometown": "Niceville, Florida",
+        "Occupation": "Account Executive",
+        "Eliminated": "Week 7",
+        "Place": "3",
+        "season": "12"
+    },
+    {
+        "Name": "Noelle Drake",
+        "Age": 26,
+        "Hometown": "Loveland, Colorado",
+        "Occupation": "Photographer",
+        "Eliminated": "Week 6",
+        "Place": "4",
+        "season": "12"
+    },
+    {
+        "Name": "Marshana Ritchie",
+        "Age": 27,
+        "Hometown": "Brooklyn, New York",
+        "Occupation": "Fashion designer",
+        "Eliminated": "Week 5",
+        "Place": "5–6",
+        "season": "12"
+    },
+    {
+        "Name": "Robin Canfield",
+        "Age": 22,
+        "Hometown": "Holland, Michigan",
+        "Occupation": "Advertising coordinator",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Ashlee Williss",
+        "Age": 22,
+        "Hometown": "Jacksonville Beach, Florida",
+        "Occupation": "Singer-songwriter",
+        "Eliminated": "Week 4",
+        "Place": "7–8",
+        "season": "12"
+    },
+    {
+        "Name": "Kelly Hark",
+        "Age": 25,
+        "Hometown": "Hollywood, California",
+        "Occupation": "Medical sales representative",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Holly Durst",
+        "Age": 24,
+        "Hometown": "Suffield, Ohio",
+        "Occupation": "Children's book author",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Amy Bean",
+        "Age": 22,
+        "Hometown": "Stockton, California",
+        "Occupation": "Nanny",
+        "Eliminated": "Week 3",
+        "Place": "10–12",
+        "season": "12"
+    },
+    {
+        "Name": "Erin Storm",
+        "Age": 33,
+        "Hometown": "San Marcos, California",
+        "Occupation": "Vendor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Kristine Heffelfinger",
+        "Age": 33,
+        "Hometown": "Dillsburg, Pennsylvania",
+        "Occupation": "Personal trainer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Caroline  Perrier",
+        "Age": 25,
+        "Hometown": "Oklahoma City, Oklahoma",
+        "Occupation": "Church marketing rep.",
+        "Eliminated": "Week 2",
+        "Place": "13–15",
+        "season": "12"
+    },
+    {
+        "Name": "Erin Harper",
+        "Age": 25,
+        "Hometown": "Seattle, Washington",
+        "Occupation": "Event planner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Michelle Procopio",
+        "Age": 28,
+        "Hometown": "Syracuse, New York",
+        "Occupation": "Administrative assistant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Alyssa Johnson",
+        "Age": 24,
+        "Hometown": "Boise, Idaho",
+        "Occupation": "Biology student",
+        "Eliminated": "Week 1",
+        "Place": "16–25",
+        "season": "12"
+    },
+    {
+        "Name": "Amanda Peterman",
+        "Age": 26,
+        "Hometown": "Cape Girardeau, Missouri",
+        "Occupation": "Law student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Denise Gitsham",
+        "Age": 30,
+        "Hometown": "Washington, D.C.",
+        "Occupation": "Attorney and former White House aide",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Devon Grisham",
+        "Age": 24,
+        "Hometown": "Austin, Texas",
+        "Occupation": "Make-up artist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Lesley Geyer",
+        "Age": 23,
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Youth minister",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Michele Romero",
+        "Age": 33,
+        "Hometown": "Laguna Niguel, California",
+        "Occupation": "Interior designer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Rebecca LeBlanc",
+        "Age": 30,
+        "Hometown": "Alamo, California",
+        "Occupation": "Attorney",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Stacey Elza",
+        "Age": 26,
+        "Hometown": "Chicago, Illinois",
+        "Occupation": "Graduate student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Tamara Marco",
+        "Age": 23,
+        "Hometown": "Beverly Hills, California",
+        "Occupation": "Cocktail waitress",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Tiffany Hickenbottom",
+        "Age": 33,
+        "Hometown": "San Francisco, California",
+        "Occupation": "Real estate marketing rep.",
+        "Eliminated": null,
+        "Place": "",
+        "season": "12"
+    },
+    {
+        "Name": "Melissa Rycroft",
+        "Age": 25,
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Sales Representative",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "13"
+    },
+    {
+        "Name": "Molly Malaney",
+        "Age": 24,
+        "Hometown": "Brookfield, Wisconsin",
+        "Occupation": "Department Store Buyer",
+        "Eliminated": "Runner-Up",
+        "Place": "2",
+        "season": "13"
+    },
+    {
+        "Name": "Jillian Harris",
+        "Age": 29,
+        "Hometown": "Peace River, Alberta",
+        "Occupation": "Interior Designer",
+        "Eliminated": "Week 7",
+        "Place": "3",
+        "season": "13"
+    },
+    {
+        "Name": "Naomi Crespo",
+        "Age": 24,
+        "Hometown": "Carlsbad, California",
+        "Occupation": "Flight Attendant",
+        "Eliminated": "Week 6",
+        "Place": "4",
+        "season": "13"
+    },
+    {
+        "Name": "Stephanie Hogan",
+        "Age": 34,
+        "Hometown": "Huntsville, Alabama",
+        "Occupation": "Medical Marketing Representative",
+        "Eliminated": "Week 5",
+        "Place": "5",
+        "season": "13"
+    },
+    {
+        "Name": "Lauren Wanger",
+        "Age": 27,
+        "Hometown": "Marlboro, New Jersey",
+        "Occupation": "Teacher",
+        "Eliminated": "Week 4",
+        "Place": "6–8",
+        "season": "13"
+    },
+    {
+        "Name": "Megan Parris",
+        "Age": 25,
+        "Hometown": "Sewickley, Pennsylvania",
+        "Occupation": "Lacrosse Coach",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Shannon Bair",
+        "Age": 29,
+        "Hometown": "Marshall, Missouri",
+        "Occupation": "Dental Hygienist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Nikki Kaapke",
+        "Age": 29,
+        "Hometown": "Blue Island, Illinois",
+        "Occupation": "Administrative Assistant",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Erica DeSimone",
+        "Age": 25,
+        "Hometown": "Monroe, Connecticut",
+        "Occupation": "Account Executive",
+        "Eliminated": "Week 3",
+        "Place": "10–11",
+        "season": "13"
+    },
+    {
+        "Name": "Kari Fajen",
+        "Age": 27,
+        "Hometown": "Lee's Summit, Missouri",
+        "Occupation": "Account Executive",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Natalie Getz",
+        "Age": 27,
+        "Hometown": "Morton, Illinois",
+        "Occupation": "Human Resources Recruiter",
+        "Eliminated": "12",
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Raquel Medeiros",
+        "Age": 27,
+        "Hometown": "Recife, Pernambuco",
+        "Occupation": "Medical Student",
+        "Eliminated": "Week 2",
+        "Place": "13–14",
+        "season": "13"
+    },
+    {
+        "Name": "Sharon Staebell",
+        "Age": 32,
+        "Hometown": "Batavia, New York",
+        "Occupation": "Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Lisa Gonzalez",
+        "Age": 28,
+        "Hometown": "Boise, Idaho",
+        "Occupation": "Public Relations Associate",
+        "Eliminated": "15 (quit)",
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Ann Lueders",
+        "Age": 24,
+        "Hometown": "Phoenix, Arizona",
+        "Occupation": "Flight Attendant",
+        "Eliminated": "Week 1",
+        "Place": "16–25",
+        "season": "13"
+    },
+    {
+        "Name": "Dominique Carta",
+        "Age": 26,
+        "Hometown": "Mount Carmel, Pennsylvania",
+        "Occupation": "Medical Sales Representative",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Emily",
+        "Age": 23,
+        "Hometown": "Seattle, Washington",
+        "Occupation": "Casino Marketing Representative",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Jackie Hickley",
+        "Age": 26,
+        "Hometown": "Springfield, Massachusetts",
+        "Occupation": "Wedding Coordinator",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Julie Dermotta",
+        "Age": 26,
+        "Hometown": "Columbus, Ohio",
+        "Occupation": "Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Nicole Mah",
+        "Age": 25,
+        "Hometown": "Calgary, Alberta",
+        "Occupation": "Menswear Buyer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Renee Simlak",
+        "Age": 36,
+        "Hometown": "Southfield, Michigan",
+        "Occupation": "Jewelry Designer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Shelby Callas",
+        "Age": 23,
+        "Hometown": "Stockton, California",
+        "Occupation": "Account Executive",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Stacia Mann",
+        "Age": 24,
+        "Hometown": "Orem, Utah",
+        "Occupation": "Charity Accountant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Treasure Morgan",
+        "Age": 28,
+        "Hometown": "Salt Lake City, Utah",
+        "Occupation": "Nurse Practitioner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "13"
+    },
+    {
+        "Name": "Vienna Girardi",
+        "Age": 23,
+        "Hometown": "Geneva, Florida",
+        "Occupation": "Marketing Representative",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "14"
+    },
+    {
+        "Name": "Tenley Molzahn",
+        "Age": 25,
+        "Hometown": "Newberg, Oregon",
+        "Occupation": "College Admissions",
+        "Eliminated": "Runner-Up",
+        "Place": "2",
+        "season": "14"
+    },
+    {
+        "Name": "Gia Allemand",
+        "Age": 26,
+        "Hometown": "Manorville, New York",
+        "Occupation": "Swimsuit Model",
+        "Eliminated": "Week 7",
+        "Place": "3",
+        "season": "14"
+    },
+    {
+        "Name": "Ali Fedotowsky",
+        "Age": 25,
+        "Hometown": "Williamstown, Massachusetts",
+        "Occupation": "Advertising Account Manager",
+        "Eliminated": "Week 6",
+        "Place": "4 (quit)",
+        "season": "14"
+    },
+    {
+        "Name": "Corrie Adamson",
+        "Age": 23,
+        "Hometown": "Kissimmee, Florida",
+        "Occupation": "Wardrobe Consultant",
+        "Eliminated": "Week 5",
+        "Place": "5",
+        "season": "14"
+    },
+    {
+        "Name": "Ashleigh Hunt",
+        "Age": 25,
+        "Hometown": "North Potomac, Maryland",
+        "Occupation": "Account Manager",
+        "Eliminated": "Week 4",
+        "Place": "6–7",
+        "season": "14"
+    },
+    {
+        "Name": "Jessica  Sulidis",
+        "Age": 25,
+        "Hometown": "Oakville, Ontario",
+        "Occupation": "Cosmetic Sales Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Kathryn Sherlock",
+        "Age": 25,
+        "Hometown": "Lexington, Kentucky",
+        "Occupation": "Corporate Flight Attendant",
+        "Eliminated": "8",
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Ella Nolan",
+        "Age": 30,
+        "Hometown": "La Follette, Tennessee",
+        "Occupation": "Hair Stylist",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Elizabeth Kitt (NE)",
+        "Age": 29,
+        "Hometown": "Imperial, Nebraska",
+        "Occupation": "Nanny",
+        "Eliminated": "Week 3",
+        "Place": "10–11",
+        "season": "14"
+    },
+    {
+        "Name": "Valishia Savage",
+        "Age": 32,
+        "Hometown": "San Bernardino, California",
+        "Occupation": "Homemaker",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Michelle Kujawa",
+        "Age": 26,
+        "Hometown": "Anaheim, California",
+        "Occupation": "Office Manager",
+        "Eliminated": "12",
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Ashley Elmore",
+        "Age": 29,
+        "Hometown": "Pittsburgh, Pennsylvania",
+        "Occupation": "Teacher",
+        "Eliminated": "Week 2",
+        "Place": "13–14",
+        "season": "14"
+    },
+    {
+        "Name": "Christina McCasland",
+        "Age": 25,
+        "Hometown": "Encinitas, California",
+        "Occupation": "Restaurant Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Rozlyn Papa",
+        "Age": 28,
+        "Hometown": "Richmond, Virginia",
+        "Occupation": "Model/Make-Up Artist",
+        "Eliminated": "15 (DQ)",
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Alexa  McAllister",
+        "Age": 25,
+        "Hometown": "Galloway, Ohio",
+        "Occupation": "Entrepreneur",
+        "Eliminated": "Week 1",
+        "Place": "16–25",
+        "season": "14"
+    },
+    {
+        "Name": "Caitlyn McCabe",
+        "Age": 24,
+        "Hometown": "Winfield, Illinois",
+        "Occupation": "Spokesmodel",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Channy Choch",
+        "Age": 29,
+        "Hometown": "Santa Rosa, California",
+        "Occupation": "Mortgage Loan Officer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Elizabeth Kreft (D.C.)",
+        "Age": 29,
+        "Hometown": "Union, Kentucky",
+        "Occupation": "Captain, Air National Guard",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Emily Harkins",
+        "Age": 23,
+        "Hometown": "West Chester, Ohio",
+        "Occupation": "Fit Model",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Kimberly Sullivan",
+        "Age": 24,
+        "Hometown": "Norman, Oklahoma",
+        "Occupation": "NBA Dancer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Kirsten Pittman",
+        "Age": 25,
+        "Hometown": "Aurora, Colorado",
+        "Occupation": "Waitress",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Sheila Lidner",
+        "Age": 25,
+        "Hometown": "Scottsdale, Arizona",
+        "Occupation": "Commercial Pilot",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Stephanie Mueller",
+        "Age": 24,
+        "Hometown": "Morris, Illinois",
+        "Occupation": "Dance Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Tiana Kruzel",
+        "Age": 31,
+        "Hometown": "Calgary, Alberta",
+        "Occupation": "Medical Technician",
+        "Eliminated": null,
+        "Place": "",
+        "season": "14"
+    },
+    {
+        "Name": "Emily Maynard",
+        "Age": 24,
+        "Hometown": "Mid atlantic",
+        "Job category": "EVENT PLANNER",
+        "Race": "White",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "15"
+    },
+    {
+        "Name": "Chantal O'Brien",
+        "Age": 28,
+        "Hometown": "Mid atlantic",
+        "Job category": "ASSISTANT",
+        "Race": "White",
+        "Place": "2",
+        "season": "15"
+    },
+    {
+        "Name": "Ashley Hebert",
+        "Age": 26,
+        "Hometown": "East",
+        "Job category": "STUDENT",
+        "Race": "White",
+        "Place": "3",
+        "season": "15"
+    },
+    {
+        "Name": "Shawntel Newton",
+        "Age": 25,
+        "Hometown": "West",
+        "Job category": "FINANCE",
+        "Race": "White",
+        "Place": "4",
+        "season": "15"
+    },
+    {
+        "Name": "Michelle Money",
+        "Age": 30,
+        "Hometown": "West",
+        "Job category": "BEAUTY",
+        "Race": "White",
+        "Place": "5",
+        "season": "15"
+    },
+    {
+        "Name": "Britt Billmaier",
+        "Age": 25,
+        "Hometown": "Mid atlantic",
+        "Job category": "WRITER",
+        "Race": "White",
+        "Place": "6",
+        "season": "15"
+    },
+    {
+        "Name": "Jackie Gordon",
+        "Age": 26,
+        "Hometown": "East",
+        "Job category": "ART",
+        "Race": "White",
+        "Place": "7",
+        "season": "15"
+    },
+    {
+        "Name": "Allison \"Alli\" Travis",
+        "Age": 24,
+        "Hometown": "Midwest",
+        "Job category": "SALES",
+        "Race": "White",
+        "Place": "8",
+        "season": "15"
+    },
+    {
+        "Name": "Lisa Morrisey",
+        "Age": 24,
+        "Hometown": "Midwest",
+        "Job category": "MARKETING",
+        "Race": "White",
+        "Place": "9",
+        "season": "15"
+    },
+    {
+        "Name": "Marissa May",
+        "Age": 26,
+        "Hometown": "Southwest",
+        "Job category": "PR",
+        "Race": "White",
+        "Place": "9",
+        "season": "15"
+    },
+    {
+        "Name": "Ashley Spivey",
+        "Age": 26,
+        "Hometown": "Mid atlantic",
+        "Job category": "NANNY",
+        "Race": "White",
+        "Place": "11",
+        "season": "15"
+    },
+    {
+        "Name": "Lindsay Hill",
+        "Age": 25,
+        "Hometown": "Southwest",
+        "Job category": "TEACHER",
+        "Race": "White",
+        "Place": "12",
+        "season": "15"
+    },
+    {
+        "Name": "Meghan Merritt",
+        "Age": 30,
+        "Hometown": "East",
+        "Job category": "MARKETING",
+        "Race": "White",
+        "Place": "12",
+        "season": "15"
+    },
+    {
+        "Name": "Stacey Quirpel",
+        "Age": 26,
+        "Hometown": "East",
+        "Job category": "RESTAURANT JOB",
+        "Race": "White",
+        "Place": "12",
+        "season": "15"
+    },
+    {
+        "Name": "Kimberly Coon",
+        "Age": 27,
+        "Hometown": "South",
+        "Job category": "MARKETING",
+        "Race": "White",
+        "Place": "15",
+        "season": "15"
+    },
+    {
+        "Name": "Sarah Powell",
+        "Age": 27,
+        "Hometown": "West",
+        "Job category": "REALTOR",
+        "Race": "White",
+        "Place": "15",
+        "season": "15"
+    },
+    {
+        "Name": "Madison Garton",
+        "Age": 25,
+        "Hometown": "West",
+        "Job category": "ACTRESS/MODEL",
+        "Race": "White",
+        "Place": "15",
+        "season": "15"
+    },
+    {
+        "Name": "Keltie Busch",
+        "Age": 28,
+        "Hometown": "Canada",
+        "Job category": "DANCER",
+        "Race": "White",
+        "Place": "18",
+        "season": "15"
+    },
+    {
+        "Name": "Melissa Schreiber",
+        "Age": 32,
+        "Hometown": "East",
+        "Job category": "RESTAURANT JOB",
+        "Race": "White",
+        "Place": "18",
+        "season": "15"
+    },
+    {
+        "Name": "Raichel Goodyear",
+        "Age": 29,
+        "Hometown": "West",
+        "Job category": "ART",
+        "Race": "White",
+        "Place": "18",
+        "season": "15"
+    },
+    {
+        "Name": "Britnee Marks",
+        "Age": 25,
+        "Hometown": "Mid atlantic",
+        "Job category": "LAWYER",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Cristy Caserta",
+        "Age": 30,
+        "Hometown": "South",
+        "Job category": "LAWYER",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Jessica \"J\" Adams",
+        "Age": 26,
+        "Hometown": "Northwest",
+        "Job category": "FINANCE",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Jill Ruskowski",
+        "Age": 28,
+        "Hometown": "South",
+        "Job category": "MARKETING",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Lacey Garbelman",
+        "Age": 27,
+        "Hometown": "South",
+        "Job category": "FINANCE",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Lauren Moore",
+        "Age": 26,
+        "Hometown": "Mid atlantic",
+        "Job category": "TEACHER",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Lisa Pastrich",
+        "Age": 27,
+        "Hometown": "East",
+        "Job category": "SALES",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Rebecca",
+        "Age": 30,
+        "Hometown": "West",
+        "Job category": "BEAUTY",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Renee Halpin",
+        "Age": 28,
+        "Hometown": "Midwest",
+        "Job category": "NANNY",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Sarah Ledtke",
+        "Age": 25,
+        "Hometown": "Midwest",
+        "Job category": "ART",
+        "Race": "White",
+        "Place": "21",
+        "season": "15"
+    },
+    {
+        "Name": "Kacie Boguskie",
+        "Age": 24,
+        "Hometown": "Clarksville, Tennessee",
+        "Occupation": "Administrative Assistant",
+        "Eliminated": "Week 8",
+        "Place": 4,
+        "season": "16"
+    },
+    {
+        "Name": "Blakeley Jones",
+        "Age": 34,
+        "Hometown": "Rutherfordton, North Carolina",
+        "Occupation": "VIP Cocktail Waitress",
+        "Eliminated": "Week 6",
+        "Place": 9,
+        "season": "16"
+    },
+    {
+        "Name": "Holly Johnson",
+        "Age": 34,
+        "Hometown": "Salyersville, Kentucky",
+        "Occupation": "Pharmaceutical Sales Representative",
+        "Eliminated": "Week 1",
+        "Place": "19–25",
+        "season": "16"
+    },
+    {
+        "Name": "Monica Spannbauer",
+        "Age": 33,
+        "Hometown": "Yuba, California",
+        "Occupation": "Dental Consultant",
+        "Eliminated": "Week 4",
+        "Place": 12,
+        "season": "16"
+    },
+    {
+        "Name": "Shira Astrof",
+        "Age": 32,
+        "Hometown": "Massapequa Park, New York",
+        "Occupation": "Actress",
+        "Eliminated": "Week 1",
+        "Place": "19–25",
+        "season": "16"
+    },
+    {
+        "Name": "Dianna Martinez",
+        "Age": 30,
+        "Hometown": "San Gabriel, California",
+        "Occupation": "Nonprofit Director",
+        "Eliminated": "Week 1",
+        "Place": "19–25",
+        "season": "16"
+    },
+    {
+        "Name": "Lyndsie James",
+        "Age": 29,
+        "Hometown": "London, England",
+        "Occupation": "Internet Entrepreneur",
+        "Eliminated": "Week 1",
+        "Place": "19–25",
+        "season": "16"
+    },
+    {
+        "Name": "Courtney Robertson",
+        "Age": 28,
+        "Hometown": "Scottsdale, Arizona",
+        "Occupation": "Model",
+        "Eliminated": "Winner",
+        "Place": 1,
+        "season": "16"
+    },
+    {
+        "Name": "Jennifer Fritsch",
+        "Age": 28,
+        "Hometown": "Cache, Oklahoma",
+        "Occupation": "Accountant",
+        "Eliminated": "Week 5",
+        "Place": 10,
+        "season": "16"
+    },
+    {
+        "Name": "Shawn Reynolds",
+        "Age": 28,
+        "Hometown": "Cincinnati, Ohio",
+        "Occupation": "Financial Advisor",
+        "Eliminated": "Week 2",
+        "Place": "17–18",
+        "season": "16"
+    },
+    {
+        "Name": "Amber Tierney",
+        "Age": 28,
+        "Hometown": "Waverly, Nebraska",
+        "Occupation": "Critical Care Nurse",
+        "Eliminated": "Week 1",
+        "Place": "19–25",
+        "season": "16"
+    },
+    {
+        "Name": "Lindzi Cox",
+        "Age": 27,
+        "Hometown": "Ocala, Florida",
+        "Occupation": "Business Development Manager",
+        "Eliminated": "Runner-up",
+        "Place": 2,
+        "season": "16"
+    },
+    {
+        "Name": "Emily O'Brien",
+        "Age": 27,
+        "Hometown": "Chapel Hill, North Carolina",
+        "Occupation": "PhD Student",
+        "Eliminated": "Week 7",
+        "Place": "5–6",
+        "season": "16"
+    },
+    {
+        "Name": "Rachel Truehart",
+        "Age": 27,
+        "Hometown": "Southampton, Massachusetts",
+        "Occupation": "Fashion Sales Representative",
+        "Eliminated": "Week 7",
+        "Place": "5–6",
+        "season": "16"
+    },
+    {
+        "Name": "Jaclyn Swartz",
+        "Age": 27,
+        "Hometown": "Newton, Massachusetts",
+        "Occupation": "Advertising Account Manager",
+        "Eliminated": "Week 3",
+        "Place": "14–15",
+        "season": "16"
+    },
+    {
+        "Name": "Jenna Burke",
+        "Age": 27,
+        "Hometown": "Loveland, Ohio",
+        "Occupation": "Blogger",
+        "Eliminated": "Week 2",
+        "Place": "17–18",
+        "season": "16"
+    },
+    {
+        "Name": "Nicki Sterling",
+        "Age": 26,
+        "Hometown": "Hurst, Texas",
+        "Occupation": "Dental Hygienist",
+        "Eliminated": "Week 9",
+        "Place": 3,
+        "season": "16"
+    },
+    {
+        "Name": "Casey Shteamer",
+        "Age": 26,
+        "Hometown": "Leawood, Kansas",
+        "Occupation": "Trading Clerk",
+        "Eliminated": "Week 6",
+        "Place": "8 (DQ)",
+        "season": "16"
+    },
+    {
+        "Name": "Samantha Levey",
+        "Age": 26,
+        "Hometown": "Pittsburgh, Pennsylvania",
+        "Occupation": "Advertising Account Manager",
+        "Eliminated": "Week 4",
+        "Place": 13,
+        "season": "16"
+    },
+    {
+        "Name": "Brittney Schreiner",
+        "Age": 26,
+        "Hometown": "Colorado Springs, Colorado",
+        "Occupation": "Medical Sales Representative",
+        "Eliminated": "Week 3",
+        "Place": 16,
+        "season": "16"
+    },
+    {
+        "Name": "Jamie Otis",
+        "Age": 25,
+        "Hometown": "Dryden, New York",
+        "Occupation": "Registered Nurse",
+        "Eliminated": "Week 6",
+        "Place": 7,
+        "season": "16"
+    },
+    {
+        "Name": "Anna Snowball",
+        "Age": 25,
+        "Hometown": "Grosse Pointe, Michigan",
+        "Occupation": "Student",
+        "Eliminated": "Week 1",
+        "Place": "19–25",
+        "season": "16"
+    },
+    {
+        "Name": "Elyse Myers",
+        "Age": 24,
+        "Hometown": "Chicago, Illinois",
+        "Occupation": "Personal Trainer",
+        "Eliminated": "Week 5",
+        "Place": 11,
+        "season": "16"
+    },
+    {
+        "Name": "Erika Uhlig",
+        "Age": 23,
+        "Hometown": "Charlottesville, Virginia",
+        "Occupation": "Law Student",
+        "Eliminated": "Week 3",
+        "Place": "14–15",
+        "season": "16"
+    },
+    {
+        "Name": "Amber Bacon",
+        "Age": 23,
+        "Hometown": "Port Coquitlam, British Columbia",
+        "Occupation": "Labor and Delivery Nurse",
+        "Eliminated": "Week 1",
+        "Place": "19–25",
+        "season": "16"
+    },
+    {
+        "Name": "Catherine Giudici",
+        "Age": 26,
+        "Hometown": "Seattle, Washington",
+        "Occupation": "Graphic Designer",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "17"
+    },
+    {
+        "Name": "Lindsay Yenter",
+        "Age": 24,
+        "Hometown": "Fort Leonard Wood, Missouri",
+        "Occupation": "Substitute Teacher",
+        "Eliminated": "Runner-up",
+        "Place": "2",
+        "season": "17"
+    },
+    {
+        "Name": "AshLee Frazier",
+        "Age": 32,
+        "Hometown": "Houston, Texas",
+        "Occupation": "Personal Organizer",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "17"
+    },
+    {
+        "Name": "Desiree Hartsock",
+        "Age": 26,
+        "Hometown": "Northglenn, Colorado",
+        "Occupation": "Bridal Stylist",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "17"
+    },
+    {
+        "Name": "Lesley Murphy",
+        "Age": 25,
+        "Hometown": "Fort Smith, Arkansas",
+        "Occupation": "Political Consultant",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "17"
+    },
+    {
+        "Name": "Tierra LiCausi",
+        "Age": 24,
+        "Hometown": "Las Vegas, Nevada",
+        "Occupation": "Leasing Consultant",
+        "Eliminated": "6",
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Daniella McBride",
+        "Age": 24,
+        "Hometown": "Belmont, California",
+        "Occupation": "Commercial Casting Associate",
+        "Eliminated": "Week 6",
+        "Place": "7–8",
+        "season": "17"
+    },
+    {
+        "Name": "Selma Alameri",
+        "Age": 29,
+        "Hometown": "Borrego Springs, California",
+        "Occupation": "Real Estate Dealer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Sarah Herron",
+        "Age": 26,
+        "Hometown": "Evergreen, Colorado",
+        "Occupation": "Advertising Executive",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Robyn Howard",
+        "Age": 24,
+        "Hometown": "Topeka, Kansas",
+        "Occupation": "Oil Field Account Manager",
+        "Eliminated": "Week 5",
+        "Place": "10",
+        "season": "17"
+    },
+    {
+        "Name": "Jacqueline  Parr",
+        "Age": 25,
+        "Hometown": "Ormond Beach, Florida",
+        "Occupation": "Cosmetics Consultant",
+        "Eliminated": "11",
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Amanda Meyer",
+        "Age": 26,
+        "Hometown": "Bakersfield, California",
+        "Occupation": "Fit Model",
+        "Eliminated": "Week 4",
+        "Place": "12",
+        "season": "17"
+    },
+    {
+        "Name": "Leslie Hughes",
+        "Age": 28,
+        "Hometown": "Ruskin, Florida",
+        "Occupation": "Poker Dealer",
+        "Eliminated": "13",
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Kristina  Kaminski",
+        "Age": 25,
+        "Hometown": "Darien, Wisconsin",
+        "Occupation": "Model",
+        "Eliminated": "Week 3",
+        "Place": "14–15",
+        "season": "17"
+    },
+    {
+        "Name": "Taryn Renee Daniels",
+        "Age": 30,
+        "Hometown": "Troutdale, Oregon",
+        "Occupation": "Health Club Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Brooke Burchette",
+        "Age": 25,
+        "Hometown": "Pittsburgh, Pennsylvania",
+        "Occupation": "Community Organizer",
+        "Eliminated": "Week 2",
+        "Place": "17–18",
+        "season": "17"
+    },
+    {
+        "Name": "Diana Weeks Willardson",
+        "Age": 31,
+        "Hometown": "Sandy, Utah",
+        "Occupation": "Salon Owner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Katherine  Levans",
+        "Age": 27,
+        "Hometown": "Woodstock, Illinois",
+        "Occupation": "Yoga Instructor",
+        "Eliminated": "19 (quit)",
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Ashley Harper",
+        "Age": 25,
+        "Hometown": "Garner, North Carolina",
+        "Occupation": "Fashion Model",
+        "Eliminated": "Week 1",
+        "Place": "20–26",
+        "season": "17"
+    },
+    {
+        "Name": "Ashley Palenkas",
+        "Age": 28,
+        "Hometown": "Macomb, Michigan",
+        "Occupation": "Hair Stylist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Kelly Dutton",
+        "Age": 28,
+        "Hometown": "Chattanooga, Tennessee",
+        "Occupation": "Cruise Ship Entertainer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Keriann Miranda",
+        "Age": 29,
+        "Hometown": "Agoura Hills, California",
+        "Occupation": "Entrepreneur",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Lacey Latka",
+        "Age": 24,
+        "Hometown": "Stevenson Ranch, California",
+        "Occupation": "Graduate Student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Lauren Marchetti",
+        "Age": 27,
+        "Hometown": "Cranston, Rhode Island",
+        "Occupation": "Journalist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Paige Vigil",
+        "Age": 25,
+        "Hometown": "Minnetonka, Minnesota",
+        "Occupation": "Jumbotron Operator",
+        "Eliminated": null,
+        "Place": "",
+        "season": "17"
+    },
+    {
+        "Name": "Nikki Ferrell",
+        "Age": 26,
+        "Hometown": "Kearney, Missouri",
+        "Occupation": "Pediatric Nurse",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "18"
+    },
+    {
+        "Name": "Clare Crawley",
+        "Age": 32,
+        "Hometown": "Sacramento, California",
+        "Occupation": "Hairstylist",
+        "Eliminated": "Runner-up",
+        "Place": "2",
+        "season": "18"
+    },
+    {
+        "Name": "Andi Dorfman",
+        "Age": 26,
+        "Hometown": "Buckhead, Georgia",
+        "Occupation": "Assistant District Attorney",
+        "Eliminated": "Week 9",
+        "Place": "3 (quit)",
+        "season": "18"
+    },
+    {
+        "Name": "Renee Oteri",
+        "Age": 32,
+        "Hometown": "Martha's Vineyard, Massachusetts",
+        "Occupation": "Real Estate Agent",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "18"
+    },
+    {
+        "Name": "Chelsie Webster",
+        "Age": 24,
+        "Hometown": "Lexington, Ohio",
+        "Occupation": "Science Educator",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "18"
+    },
+    {
+        "Name": "Sharleen Joynt",
+        "Age": 29,
+        "Hometown": "Ottawa, Ontario",
+        "Occupation": "Opera Singer",
+        "Eliminated": "6 (quit)",
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Katherine  Hurd",
+        "Age": 29,
+        "Hometown": "Iowa City, Iowa",
+        "Occupation": "Medical Sales Rep",
+        "Eliminated": "Week 6",
+        "Place": "7",
+        "season": "18"
+    },
+    {
+        "Name": "Cassandra Ferguson",
+        "Age": 22,
+        "Hometown": "Rochester Hills, Michigan",
+        "Occupation": "Former NBA Dancer",
+        "Eliminated": "8",
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Allison  Restko",
+        "Age": 26,
+        "Hometown": "Orland Park, Illinois",
+        "Occupation": "Nanny",
+        "Eliminated": "Week 5",
+        "Place": "9–11",
+        "season": "18"
+    },
+    {
+        "Name": "Danielle Ronco",
+        "Age": 25,
+        "Hometown": "Litchfield, Illinois",
+        "Occupation": "Psychiatric Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Kelly Travis",
+        "Age": 27,
+        "Hometown": "Conyers, Georgia",
+        "Occupation": "Dog Lover",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Elise Mosca",
+        "Age": 27,
+        "Hometown": "Forty Fort, Pennsylvania",
+        "Occupation": "First Grade Teacher",
+        "Eliminated": "Week 4",
+        "Place": "12–13",
+        "season": "18"
+    },
+    {
+        "Name": "Lauren Solomon",
+        "Age": 26,
+        "Hometown": "Clinton, Michigan",
+        "Occupation": "Music Composer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Christy Hansen",
+        "Age": 24,
+        "Hometown": "Aurora, Illinois",
+        "Occupation": "Marketing Manager",
+        "Eliminated": "Week 3",
+        "Place": "14–15",
+        "season": "18"
+    },
+    {
+        "Name": "Lucinda  Aragon",
+        "Age": 25,
+        "Hometown": "Santa Barbara, California",
+        "Occupation": "Free Spirit",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Amy Long",
+        "Age": 27,
+        "Hometown": "Clermont, Florida",
+        "Occupation": "Local News Reporter",
+        "Eliminated": "Week 2",
+        "Place": "16–17",
+        "season": "18"
+    },
+    {
+        "Name": "Chantel Forrest",
+        "Age": 27,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Account Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Victoria Lima",
+        "Age": 24,
+        "Hometown": "Porto Alegre, Brazil",
+        "Occupation": "Legal Assistant",
+        "Eliminated": "18",
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Alexis Morgado",
+        "Age": 24,
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Communications Director",
+        "Eliminated": "Week 1",
+        "Place": "19–27",
+        "season": "18"
+    },
+    {
+        "Name": "Amy Jokinen",
+        "Age": 31,
+        "Hometown": "Apopka, Florida",
+        "Occupation": "Massage Therapist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Ashley Poe",
+        "Age": 25,
+        "Hometown": "Roanoke, Texas",
+        "Occupation": "Grade School Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Christine Llano",
+        "Age": 23,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Police Support Specialist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Kylie Lewis",
+        "Age": 23,
+        "Hometown": "Rockford, Illinois",
+        "Occupation": "Interior Designer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Lacy Faddoul",
+        "Age": 25,
+        "Hometown": "Antelope Acres, California",
+        "Occupation": "Nursing Home Owner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Lauren Higginson",
+        "Age": 25,
+        "Hometown": "Edmond, Oklahoma",
+        "Occupation": "Mineral Coordinator",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Maggie Gantt",
+        "Age": 25,
+        "Hometown": "Wagener, South Carolina",
+        "Occupation": "Personal Banker",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Valerie Eredia",
+        "Age": 26,
+        "Hometown": "Sutter, California",
+        "Occupation": "Personal Trainer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "18"
+    },
+    {
+        "Name": "Whitney Bischoff",
+        "Age": 29,
+        "Hometown": "Louisville, Kentucky",
+        "Occupation": "Fertility Nurse",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "19"
+    },
+    {
+        "Name": "Kaitlyn Bristowe",
+        "Age": 29,
+        "Hometown": "Leduc, Alberta",
+        "Occupation": "Dance Instructor",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "19"
+    },
+    {
+        "Name": "Jade Roper",
+        "Age": 28,
+        "Hometown": "Gering, Nebraska",
+        "Occupation": "Cosmetics Developer",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "19"
+    },
+    {
+        "Name": "Carly Waddell",
+        "Age": 29,
+        "Hometown": "Arlington, Texas",
+        "Occupation": "Cruise Ship Singer",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "19"
+    },
+    {
+        "Name": "Britt Nilsson",
+        "Age": 27,
+        "Hometown": "Wolcott Mills, Michigan",
+        "Occupation": "Waitress",
+        "Eliminated": "6",
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Megan Bell",
+        "Age": 24,
+        "Hometown": "Brentwood, Tennessee",
+        "Occupation": "Make-Up Artist",
+        "Eliminated": "Week 6",
+        "Place": "7 (quit)",
+        "season": "19"
+    },
+    {
+        "Name": "Kelsey Poe",
+        "Age": 28,
+        "Hometown": "Hudsonville, Michigan",
+        "Occupation": "Guidance Counselor",
+        "Eliminated": "8",
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Ashley Iaconetti",
+        "Age": 26,
+        "Hometown": "Great Falls, Virginia",
+        "Occupation": "Journalist",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Mackenzie Deonigi",
+        "Age": 21,
+        "Hometown": "Maple Valley, Washington",
+        "Occupation": "Dental Assistant",
+        "Eliminated": "Week 5",
+        "Place": "10–11",
+        "season": "19"
+    },
+    {
+        "Name": "Samantha Steffen",
+        "Age": 27,
+        "Hometown": "Indianapolis, Indiana",
+        "Occupation": "Fashion Designer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Ashley Salter",
+        "Age": 24,
+        "Hometown": "Vinings, Georgia",
+        "Occupation": "Hair Stylist",
+        "Eliminated": "Week 4",
+        "Place": "12–14",
+        "season": "19"
+    },
+    {
+        "Name": "Juelia Kinney",
+        "Age": 30,
+        "Hometown": "Beaverton, Oregon",
+        "Occupation": "Esthetician",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Nikki Delventhal",
+        "Age": 26,
+        "Hometown": "Hasbrouck Heights, New Jersey",
+        "Occupation": "Former NFL Cheerleader",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Jillian Anderson",
+        "Age": 25,
+        "Hometown": "Howland, Ohio",
+        "Occupation": "News Producer",
+        "Eliminated": "15",
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Tracy Darakis",
+        "Age": 29,
+        "Hometown": "Wellington, Florida",
+        "Occupation": "Fourth Grade Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Trina Scherenberg",
+        "Age": 33,
+        "Hometown": "Algonquin, Illinois",
+        "Occupation": "Special Education Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Alissa Giambrone",
+        "Age": 24,
+        "Hometown": "Hamilton, New Jersey",
+        "Occupation": "Flight Attendant",
+        "Eliminated": "Week 2",
+        "Place": "19–23",
+        "season": "19"
+    },
+    {
+        "Name": "Jordan Branch",
+        "Age": 24,
+        "Hometown": "Windsor, Colorado",
+        "Occupation": "Student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Kimberly Sherbach",
+        "Age": 28,
+        "Hometown": "Wantagh, New York",
+        "Occupation": "Yoga Instructor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Tandra Steiner",
+        "Age": 30,
+        "Hometown": "Sandy, Utah",
+        "Occupation": "Executive Assistant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Tara Eddings",
+        "Age": 26,
+        "Hometown": "Fort Lauderdale, Florida",
+        "Occupation": "Sport Fishing Enthusiast",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Amanda Goerlitz",
+        "Age": 24,
+        "Hometown": "Lake in the Hills, Illinois",
+        "Occupation": "Ballet Teacher",
+        "Eliminated": "Week 1",
+        "Place": "24–30",
+        "season": "19"
+    },
+    {
+        "Name": "Bo Stanley",
+        "Age": 25,
+        "Hometown": "Carpinteria, California",
+        "Occupation": "Plus-Size Model",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Brittany Fetkin",
+        "Age": 26,
+        "Hometown": "Temecula, California",
+        "Occupation": "WWE Diva-in-Training",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Kara Wilson",
+        "Age": 25,
+        "Hometown": "Brownsville, Kentucky",
+        "Occupation": "High School Soccer Coach",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Michelle Davis",
+        "Age": 25,
+        "Hometown": "Provo, Utah",
+        "Occupation": "Wedding Cake Baker",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Nicole Meacham",
+        "Age": 31,
+        "Hometown": "Scottsdale, Arizona",
+        "Occupation": "Real Estate Agent",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Reegan Cornwell",
+        "Age": 28,
+        "Hometown": "Manhattan Beach, California",
+        "Occupation": "Cadaver Tissue Saleswoman",
+        "Eliminated": null,
+        "Place": "",
+        "season": "19"
+    },
+    {
+        "Name": "Becca Tilley",
+        "Age": 26,
+        "Hometown": "Shreveport, Louisiana",
+        "Occupation": "Chiropractic Assistant",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "20"
+    },
+    {
+        "Name": "Amber James",
+        "Age": 30,
+        "Hometown": "Kankakee, Illinois",
+        "Occupation": "Bartender",
+        "Eliminated": "Week 4",
+        "Place": "12–13",
+        "season": "20"
+    },
+    {
+        "Name": "Lauren Bushnell",
+        "Age": 25,
+        "Hometown": "West Linn, Oregon",
+        "Occupation": "Flight Attendant",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "20"
+    },
+    {
+        "Name": "Joelle  Fletcher",
+        "Age": 24,
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Real Estate Developer",
+        "Eliminated": "Runner-up",
+        "Place": "2",
+        "season": "20"
+    },
+    {
+        "Name": "Caila Quinn",
+        "Age": 24,
+        "Hometown": "Hudson, Ohio",
+        "Occupation": "Software Sales Representative",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "20"
+    },
+    {
+        "Name": "Amanda Stanton",
+        "Age": 25,
+        "Hometown": "Laguna Beach, California",
+        "Occupation": "Esthetician",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "20"
+    },
+    {
+        "Name": "Emily Ferguson",
+        "Age": 23,
+        "Hometown": "Las Vegas, Nevada",
+        "Occupation": "Waitress",
+        "Eliminated": "6",
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Lauren Himle",
+        "Age": 25,
+        "Hometown": "Dexter, Michigan",
+        "Occupation": "Kindergarten Teacher",
+        "Eliminated": "Week 6",
+        "Place": "7",
+        "season": "20"
+    },
+    {
+        "Name": "Olivia Caridi",
+        "Age": 23,
+        "Hometown": "Austin, Texas",
+        "Occupation": "Former News Anchor",
+        "Eliminated": "8",
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Leah Block",
+        "Age": 25,
+        "Hometown": "Greenwood Village, Colorado",
+        "Occupation": "Event Planner",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Jennifer Saviano",
+        "Age": 25,
+        "Hometown": "Davie, Florida",
+        "Occupation": "Small Business Owner",
+        "Eliminated": "Week 5",
+        "Place": "10",
+        "season": "20"
+    },
+    {
+        "Name": "Jubilee Sharpe",
+        "Age": 24,
+        "Hometown": "Fort Lauderdale, Florida",
+        "Occupation": "War Veteran",
+        "Eliminated": "11",
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Rachel Tchen",
+        "Age": 23,
+        "Hometown": "Little Rock, Arkansas",
+        "Occupation": "Unemployed",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Haley Ferguson",
+        "Age": 23,
+        "Hometown": "Las Vegas, Nevada",
+        "Occupation": "Waitress",
+        "Eliminated": "14",
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Jami Letain",
+        "Age": 23,
+        "Hometown": "St. Albert, Alberta",
+        "Occupation": "Bartender",
+        "Eliminated": "Week 3",
+        "Place": "15–16",
+        "season": "20"
+    },
+    {
+        "Name": "Shushanna Mkrtychyan",
+        "Age": 27,
+        "Hometown": "Salt Lake City, Utah",
+        "Occupation": "Property Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Lace Morris",
+        "Age": 25,
+        "Hometown": "Denver, Colorado",
+        "Occupation": "Real Estate Agent",
+        "Eliminated": "17 (quit)",
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Amanda  Kremer",
+        "Age": 28,
+        "Hometown": "Portland, Oregon",
+        "Occupation": "Dentist",
+        "Eliminated": "Week 2",
+        "Place": "18–20",
+        "season": "20"
+    },
+    {
+        "Name": "Jacqueline  Dion",
+        "Age": 23,
+        "Hometown": "Newport Beach, California",
+        "Occupation": "Gerontologist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Samantha Passmore",
+        "Age": 26,
+        "Hometown": "New Smyrna Beach, Florida",
+        "Occupation": "Attorney",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Lauren  Barr",
+        "Age": 23,
+        "Hometown": "Stillwater, Oklahoma",
+        "Occupation": "Fashion Buyer",
+        "Eliminated": "21 (quit)",
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Breanne Rice",
+        "Age": 30,
+        "Hometown": "Seattle, Washington",
+        "Occupation": "Nutritional Therapist",
+        "Eliminated": "Week 1",
+        "Place": "22–28",
+        "season": "20"
+    },
+    {
+        "Name": "Isabel  Goodkind",
+        "Age": 24,
+        "Hometown": "Branford, Connecticut",
+        "Occupation": "Graphic Designer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Jessica Moser",
+        "Age": 23,
+        "Hometown": "Boca Raton, Florida",
+        "Occupation": "Accountant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Laura Esselman",
+        "Age": 24,
+        "Hometown": "Louisville, Kentucky",
+        "Occupation": "Account Executive",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Lauren Russell",
+        "Age": 26,
+        "Hometown": "Houston, Texas",
+        "Occupation": "Math Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Maegan Miller",
+        "Age": 30,
+        "Hometown": "Visalia, California",
+        "Occupation": "Cowgirl",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Tiara Soleim",
+        "Age": 27,
+        "Hometown": "Redmond, Washington",
+        "Occupation": "Chicken Enthusiast",
+        "Eliminated": null,
+        "Place": "",
+        "season": "20"
+    },
+    {
+        "Name": "Vanessa Grimaldi",
+        "Age": 29,
+        "Hometown": "Montreal, Quebec",
+        "Occupation": "Special Education Teacher",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "21"
+    },
+    {
+        "Name": "Raven Gates",
+        "Age": 25,
+        "Hometown": "Hoxie, Arkansas",
+        "Occupation": "Fashion Boutique Owner",
+        "Eliminated": "Runner-Up",
+        "Place": "2",
+        "season": "21"
+    },
+    {
+        "Name": "Rachel Lindsay",
+        "Age": 31,
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Attorney",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "21"
+    },
+    {
+        "Name": "Corinne Olympios",
+        "Age": 24,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Business Owner",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "21"
+    },
+    {
+        "Name": "Kristina Schulman",
+        "Age": 24,
+        "Hometown": "Lexington, Kentucky",
+        "Occupation": "Dental Hygienist",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "21"
+    },
+    {
+        "Name": "Danielle Maltby",
+        "Age": 31,
+        "Hometown": "Colgate, Wisconsin",
+        "Occupation": "Neonatal Nurse",
+        "Eliminated": "6",
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Danielle Lombard",
+        "Age": 27,
+        "Hometown": "Danville, California",
+        "Occupation": "Small Business Owner",
+        "Eliminated": "Week 6",
+        "Place": "7",
+        "season": "21"
+    },
+    {
+        "Name": "Whitney Fransway",
+        "Age": 25,
+        "Hometown": "Chanhassen, Minnesota",
+        "Occupation": "Pilates Instructor",
+        "Eliminated": "8",
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Jasmine Goode",
+        "Age": 29,
+        "Hometown": "Maplewood, New Jersey",
+        "Occupation": "Pro Basketball Dancer",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Alexis Waters",
+        "Age": 23,
+        "Hometown": "Secaucus, New Jersey",
+        "Occupation": "Aspiring Dolphin Trainer",
+        "Eliminated": "Week 5",
+        "Place": "10–12",
+        "season": "21"
+    },
+    {
+        "Name": "Jaimi King",
+        "Age": 28,
+        "Hometown": "New Orleans, Louisiana",
+        "Occupation": "Chef",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Josephine Tutman",
+        "Age": 24,
+        "Hometown": "Santa Cruz, California",
+        "Occupation": "Registered Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Taylor Nolan",
+        "Age": 23,
+        "Hometown": "Seattle, Washington",
+        "Occupation": "Mental Health Counselor",
+        "Eliminated": "13",
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Astrid Loch",
+        "Age": 26,
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Plastic Surgery Office Manager",
+        "Eliminated": "Week 4",
+        "Place": "14–15",
+        "season": "21"
+    },
+    {
+        "Name": "Sarah Vendal",
+        "Age": 26,
+        "Hometown": "Palmdale, California",
+        "Occupation": "Grade School Teacher",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Brittany Farrar",
+        "Age": 26,
+        "Hometown": "Santa Monica, California",
+        "Occupation": "Travel Nurse",
+        "Eliminated": "Week 3",
+        "Place": "16–17",
+        "season": "21"
+    },
+    {
+        "Name": "Christen Whitney",
+        "Age": 25,
+        "Hometown": "Martinsville, Indiana",
+        "Occupation": "Wedding Videographer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Dominique Alexis",
+        "Age": 25,
+        "Hometown": "Los Angeles, California",
+        "Occupation": "Restaurant Server",
+        "Eliminated": "18",
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Elizabeth Whitelaw",
+        "Age": 24,
+        "Hometown": "New Trier, Illinois",
+        "Occupation": "Marketing Manager",
+        "Eliminated": "Week 2",
+        "Place": "19–21",
+        "season": "21"
+    },
+    {
+        "Name": "Hailey Merkt",
+        "Age": 23,
+        "Hometown": "Vancouver, British Columbia",
+        "Occupation": "Photographer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Lacey Mark",
+        "Age": 25,
+        "Hometown": "Montville, New Jersey",
+        "Occupation": "Digital Marketing Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Elizabeth  Sandoz",
+        "Age": 29,
+        "Hometown": "Scottsbluff, Nebraska",
+        "Occupation": "Doula",
+        "Eliminated": "22",
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Angela Amezcua",
+        "Age": 26,
+        "Hometown": "Cumberland, Maryland",
+        "Occupation": "Model",
+        "Eliminated": "Week 1",
+        "Place": "23–30",
+        "season": "21"
+    },
+    {
+        "Name": "Briana Guertler",
+        "Age": 28,
+        "Hometown": "Salt Lake City, Utah",
+        "Occupation": "Surgical Unit Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Ida Marie DeLosSantos",
+        "Age": 23,
+        "Hometown": "Harlingen, Texas",
+        "Occupation": "Sales Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Jasmine Brown",
+        "Age": 25,
+        "Hometown": "Tacoma, Washington",
+        "Occupation": "Flight Attendant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Lauren Hussey",
+        "Age": 30,
+        "Hometown": "Naples, Florida",
+        "Occupation": "Law School Graduate",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Michelle Ramkissoon",
+        "Age": 24,
+        "Hometown": "Silver Spring, Maryland",
+        "Occupation": "Food Truck Owner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Olivia Burnette",
+        "Age": 25,
+        "Hometown": "Anchorage, Alaska",
+        "Occupation": "Apparel Sales Representative",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Susannah Milan",
+        "Age": 26,
+        "Hometown": "Jamul, California",
+        "Occupation": "Account Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "21"
+    },
+    {
+        "Name": "Becca Kufrin",
+        "Age": 27,
+        "Hometown": "Prior Lake, Minnesota",
+        "Occupation": "Publicist",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "22"
+    },
+    {
+        "Name": "Lauren Burnham",
+        "Age": 25,
+        "Hometown": "Virginia Beach, Virginia",
+        "Occupation": "Technology Salesperson",
+        "Eliminated": "Runner-up",
+        "Place": "2",
+        "season": "22"
+    },
+    {
+        "Name": "Kendall Long",
+        "Age": 26,
+        "Hometown": "Santa Clarita, California",
+        "Occupation": "Creative Director",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "22"
+    },
+    {
+        "Name": "Tia Booth",
+        "Age": 26,
+        "Hometown": "Weiner, Arkansas",
+        "Occupation": "Physical Therapist",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "22"
+    },
+    {
+        "Name": "Bekah Martinez",
+        "Age": 22,
+        "Hometown": "Clovis, California",
+        "Occupation": "Nanny",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "22"
+    },
+    {
+        "Name": "Seinne Fleming",
+        "Age": 27,
+        "Hometown": "Long Beach, California",
+        "Occupation": "Commercial Real Estate Agent",
+        "Eliminated": "6",
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Jacqueline Trumbull",
+        "Age": 26,
+        "Hometown": "Morgantown, West Virginia",
+        "Occupation": "Research Coordinator",
+        "Eliminated": "7 (quit)",
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Chelsea Roy",
+        "Age": 29,
+        "Hometown": "South Portland, Maine",
+        "Occupation": "Real Estate Executive Assistant",
+        "Eliminated": "Week 6",
+        "Place": "8–9",
+        "season": "22"
+    },
+    {
+        "Name": "Jenna Cooper",
+        "Age": 28,
+        "Hometown": "Upland, Indiana",
+        "Occupation": "Social Media Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Krystal Nielson",
+        "Age": 29,
+        "Hometown": "Missoula, Montana",
+        "Occupation": "Fitness Coach",
+        "Eliminated": "10",
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Ashley Luebke",
+        "Age": 25,
+        "Hometown": "West Palm Beach, Florida",
+        "Occupation": "Real Estate Agent",
+        "Eliminated": "Week 5",
+        "Place": "11–13",
+        "season": "22"
+    },
+    {
+        "Name": "Maquel Cooper",
+        "Age": null,
+        "Hometown": "",
+        "Occupation": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Marikh Mathias",
+        "Age": 27,
+        "Hometown": "Salt Lake City, Utah",
+        "Occupation": "Restaurant Owner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Brittany Taylor",
+        "Age": 30,
+        "Hometown": "Belton, South Carolina",
+        "Occupation": "Tech Recruiter",
+        "Eliminated": "Week 4",
+        "Place": "14–15",
+        "season": "22"
+    },
+    {
+        "Name": "Caroline Lunny",
+        "Age": 26,
+        "Hometown": "Holliston, Massachusetts",
+        "Occupation": "Realtor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Bibiana Julian",
+        "Age": 30,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Executive Assistant",
+        "Eliminated": "Week 3",
+        "Place": "16",
+        "season": "22"
+    },
+    {
+        "Name": "Annaliese Puccini",
+        "Age": 32,
+        "Hometown": "San Mateo, California",
+        "Occupation": "Event Designer",
+        "Eliminated": "17",
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Lauren Schleyer",
+        "Age": 31,
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Social Media Manager",
+        "Eliminated": "18",
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Jennifer  Delaney",
+        "Age": 25,
+        "Hometown": "Northbrook, Illinois",
+        "Occupation": "Graphic Designer",
+        "Eliminated": "Week 2",
+        "Place": "19–21",
+        "season": "22"
+    },
+    {
+        "Name": "Lauren Griffin",
+        "Age": 26,
+        "Hometown": "Indianapolis, Indiana",
+        "Occupation": "Executive Recruiter",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Valerie Biles",
+        "Age": 26,
+        "Hometown": "Nashville, Tennessee",
+        "Occupation": "Server",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Alison  Harrington",
+        "Age": 27,
+        "Hometown": "Lawton, Oklahoma",
+        "Occupation": "Personal Stylist",
+        "Eliminated": "Week 1",
+        "Place": "22–29",
+        "season": "22"
+    },
+    {
+        "Name": "Amber Wilkerson",
+        "Age": 29,
+        "Hometown": "Denver, Colorado",
+        "Occupation": "Business Owner",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Brianna  Amaranthus",
+        "Age": 25,
+        "Hometown": "Grants Pass, Oregon",
+        "Occupation": "Sports Reporter",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Brittane Johnson",
+        "Age": 27,
+        "Hometown": "San Diego, California",
+        "Occupation": "Marketing Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Jessica Carroll",
+        "Age": 26,
+        "Hometown": "Calgary, Alberta",
+        "Occupation": "Television Host",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Lauren Jarreau",
+        "Age": 33,
+        "Hometown": "New Roads, Louisiana",
+        "Occupation": "Recent Master's Graduate",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "D'Nysha  Norris",
+        "Age": 30,
+        "Hometown": "Anderson, South Carolina",
+        "Occupation": "Orthopedic Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Olivia Goethals",
+        "Age": 23,
+        "Hometown": "Geneseo, Illinois",
+        "Occupation": "Marketing Associate",
+        "Eliminated": null,
+        "Place": "",
+        "season": "22"
+    },
+    {
+        "Name": "Cassie Randolph",
+        "Age": null,
+        "Hometown": "Quit",
+        "Occupation": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Hannah Godwin",
+        "Age": 23,
+        "Hometown": "Birmingham, Alabama",
+        "Occupation": "Content Creator",
+        "Eliminated": "Week 9",
+        "Place": "2",
+        "season": "23"
+    },
+    {
+        "Name": "Tayshia Adams",
+        "Age": 28,
+        "Hometown": "Santa Ana, California",
+        "Occupation": "Phlebotomist",
+        "Eliminated": "3",
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Caelynn Miller-Keyes",
+        "Age": 23,
+        "Hometown": "Fredericksburg, Virginia",
+        "Occupation": "Miss North Carolina USA 2018",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "23"
+    },
+    {
+        "Name": "Kirpa Sudick",
+        "Age": 26,
+        "Hometown": "Whittier, California",
+        "Occupation": "Dental Hygienist",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "23"
+    },
+    {
+        "Name": "Heather Martin",
+        "Age": 23,
+        "Hometown": "Carlsbad, California",
+        "Occupation": "Assistant Program Manager",
+        "Eliminated": "6 (quit)",
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Hannah Brown",
+        "Age": 24,
+        "Hometown": "Northport, Alabama",
+        "Occupation": "Miss Alabama USA 2018",
+        "Eliminated": "7",
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Katie Morton",
+        "Age": 26,
+        "Hometown": "Oviedo, Florida",
+        "Occupation": "Medical Sales Representative",
+        "Eliminated": "Week 6",
+        "Place": "8",
+        "season": "23"
+    },
+    {
+        "Name": "Demi Burnett",
+        "Age": 23,
+        "Hometown": "Red Oak, Texas",
+        "Occupation": "Interior Designer",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Sydney Lotuaco",
+        "Age": 27,
+        "Hometown": "Virginia Beach, Virginia",
+        "Occupation": "NBA Dancer",
+        "Eliminated": "10 (quit)",
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Nicole Lopez-Alvar",
+        "Age": 25,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Social Media Coordinator",
+        "Eliminated": "Week 5",
+        "Place": "11–12",
+        "season": "23"
+    },
+    {
+        "Name": "Onyeka Ehie",
+        "Age": 24,
+        "Hometown": "Manhattan, Kansas",
+        "Occupation": "IT Risk Consultant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Elyse Dehlbom",
+        "Age": 31,
+        "Hometown": "Soldotna, Alaska",
+        "Occupation": "Makeup Artist",
+        "Eliminated": "13 (quit)",
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Courtney Curtis",
+        "Age": 23,
+        "Hometown": "McDonough, Georgia",
+        "Occupation": "Caterer",
+        "Eliminated": "Week 4",
+        "Place": "14–15",
+        "season": "23"
+    },
+    {
+        "Name": "Tracy Shapoff",
+        "Age": 31,
+        "Hometown": "Rochester, New York",
+        "Occupation": "Wardrobe Stylist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Brianna  Barnes",
+        "Age": 24,
+        "Hometown": "Chino Hills, California",
+        "Occupation": "Model",
+        "Eliminated": "Week 3",
+        "Place": "16–18",
+        "season": "23"
+    },
+    {
+        "Name": "Catherine Agro",
+        "Age": 26,
+        "Hometown": "Fort Lauderdale, Florida",
+        "Occupation": "DJ",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Nina Bartula",
+        "Age": 30,
+        "Hometown": "Raleigh, North Carolina",
+        "Occupation": "Sales Account Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Caitlin Clemmens",
+        "Age": 25,
+        "Hometown": "Toronto, Ontario",
+        "Occupation": "Realtor",
+        "Eliminated": "19",
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Alex Blumberg",
+        "Age": 29,
+        "Hometown": "Vancouver, British Columbia",
+        "Occupation": "Dog Rescuer",
+        "Eliminated": "Week 2",
+        "Place": "20–23",
+        "season": "23"
+    },
+    {
+        "Name": "Angelique Sherman",
+        "Age": 28,
+        "Hometown": "Hamilton, New Jersey",
+        "Occupation": "Marketing Salesperson",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Annie Reardon",
+        "Age": 23,
+        "Hometown": "Mequon, Wisconsin",
+        "Occupation": "Financial Associate",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Erika McNutt",
+        "Age": 25,
+        "Hometown": "Encinitas, California",
+        "Occupation": "Recruiter",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Alex Dillon",
+        "Age": 23,
+        "Hometown": "Dennis, Massachusetts",
+        "Occupation": "Sloth",
+        "Eliminated": "Week 1",
+        "Place": "24–30",
+        "season": "23"
+    },
+    {
+        "Name": "Devin Gooden",
+        "Age": 23,
+        "Hometown": "Medford, Oregon",
+        "Occupation": "Broadcast Journalist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Erin Landry",
+        "Age": 28,
+        "Hometown": "Plano, Texas",
+        "Occupation": "Cinderella",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Adrianne  Averbukh",
+        "Age": 26,
+        "Hometown": "West Hollywood, California",
+        "Occupation": "Social Worker",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Laura Pellerito",
+        "Age": 26,
+        "Hometown": "Dallas, Texas",
+        "Occupation": "Accountant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Revian Chang",
+        "Age": 24,
+        "Hometown": "Plano, Texas",
+        "Occupation": "Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Tahzjuan Hawkins",
+        "Age": 25,
+        "Hometown": "Castle Pines, Colorado",
+        "Occupation": "Business Development Associate",
+        "Eliminated": null,
+        "Place": "",
+        "season": "23"
+    },
+    {
+        "Name": "Hannah Ann Sluss",
+        "Age": 23,
+        "Hometown": "Powell, Tennessee",
+        "Occupation": "Model",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "24"
+    },
+    {
+        "Name": "Madison Prewett",
+        "Age": 23,
+        "Hometown": "Auburn, Alabama",
+        "Occupation": "Foster Parent Recruiter",
+        "Eliminated": "Runner-up",
+        "Place": "2 (quit)",
+        "season": "24"
+    },
+    {
+        "Name": "Victoria Fuller",
+        "Age": 26,
+        "Hometown": "Virginia Beach, Virginia",
+        "Occupation": "Medical Sales Rep",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "24"
+    },
+    {
+        "Name": "Kelsey Weier",
+        "Age": 28,
+        "Hometown": "Urbandale, Iowa",
+        "Occupation": "Professional Clothier",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "24"
+    },
+    {
+        "Name": "Kelley Flanagan",
+        "Age": 27,
+        "Hometown": "North Barrington, Illinois",
+        "Occupation": "Attorney",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "24"
+    },
+    {
+        "Name": "Natasha Parker",
+        "Age": 31,
+        "Hometown": "Manhattan, New York",
+        "Occupation": "Event Planner",
+        "Eliminated": "6",
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Mykenna Dorn",
+        "Age": 22,
+        "Hometown": "Langley, British Columbia",
+        "Occupation": "Fashion Blogger",
+        "Eliminated": "Week 6",
+        "Place": "7–8",
+        "season": "24"
+    },
+    {
+        "Name": "Sydney Hightower",
+        "Age": 24,
+        "Hometown": "Northport, Alabama",
+        "Occupation": "Retail Marketing Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Tammy Ly",
+        "Age": 24,
+        "Hometown": "Syracuse, New York",
+        "Occupation": "House Flipper",
+        "Eliminated": "9",
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Victoria Paul",
+        "Age": 27,
+        "Hometown": "Alexandria, Louisiana",
+        "Occupation": "Nurse",
+        "Eliminated": "10",
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Lexi Buchanan",
+        "Age": 26,
+        "Hometown": "Jacksonville, Florida",
+        "Occupation": "Marketing Coordinator",
+        "Eliminated": "Week 5",
+        "Place": "11–12",
+        "season": "24"
+    },
+    {
+        "Name": "Shiann Lewis",
+        "Age": 27,
+        "Hometown": "Las Vegas, Nevada",
+        "Occupation": "Administrative Assistant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Deandra Kanu",
+        "Age": 23,
+        "Hometown": "Bar Harbor, Maine",
+        "Occupation": "Home Care Coordinator",
+        "Eliminated": "Week 4",
+        "Place": "13–15",
+        "season": "24"
+    },
+    {
+        "Name": "Kiarra Norman",
+        "Age": 23,
+        "Hometown": "Kennesaw, Georgia",
+        "Occupation": "Nanny",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Savannah Mullins",
+        "Age": 27,
+        "Hometown": "Houston, Texas",
+        "Occupation": "Realtor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Alayah Benavidez",
+        "Age": null,
+        "Hometown": "Week 3",
+        "Occupation": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Alexa Caves",
+        "Age": 27,
+        "Hometown": "Springfield, Illinois",
+        "Occupation": "Esthetician",
+        "Eliminated": "17–19",
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Jasmine Nguyen",
+        "Age": 25,
+        "Hometown": "Houston, Texas",
+        "Occupation": "Client Relations Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Sarah Coffin",
+        "Age": 24,
+        "Hometown": "Knoxville, Tennessee",
+        "Occupation": "Medical Radiographer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Courtney Perry",
+        "Age": 26,
+        "Hometown": "Venice, Florida",
+        "Occupation": "Cosmetologist",
+        "Eliminated": "Week 2",
+        "Place": "20–22",
+        "season": "24"
+    },
+    {
+        "Name": "Lauren Jones",
+        "Age": 26,
+        "Hometown": "Glendale, California",
+        "Occupation": "Marketing Executive",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Payton Moran",
+        "Age": 24,
+        "Hometown": "Wellesley, Massachusetts",
+        "Occupation": "Business Development Rep",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Avonlea Elkins",
+        "Age": 27,
+        "Hometown": "Fort Worth, Texas",
+        "Occupation": "Cattle Rancher",
+        "Eliminated": "Week 1",
+        "Place": "23–30",
+        "season": "24"
+    },
+    {
+        "Name": "Eunice Cho",
+        "Age": 23,
+        "Hometown": "Chicago, Illinois",
+        "Occupation": "Flight Attendant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Jade Gilliland",
+        "Age": 26,
+        "Hometown": "Mesa, Arizona",
+        "Occupation": "Media Buyer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Jenna Serrano",
+        "Age": 22,
+        "Hometown": "New Lenox, Illinois",
+        "Occupation": "Nursing Student",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Katrina Badowski",
+        "Age": 28,
+        "Hometown": "St. Charles, Illinois",
+        "Occupation": "Pro NBA Dancer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Kylie Ramos",
+        "Age": 26,
+        "Hometown": "Davis, California",
+        "Occupation": "Entertainment Sales Associate",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Maurissa Gunn",
+        "Age": 23,
+        "Hometown": "Laurel, Montana",
+        "Occupation": "Patient Care Coordinator",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Megan Hops",
+        "Age": 26,
+        "Hometown": "San Bruno, California",
+        "Occupation": "Flight Attendant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "24"
+    },
+    {
+        "Name": "Rachael Kirkconnell",
+        "Age": 24,
+        "Hometown": "Cumming, Georgia",
+        "Occupation": "Graphic Designer",
+        "Arrived": "Week 1",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "25"
+    },
+    {
+        "Name": "Michelle Young",
+        "Age": 27,
+        "Hometown": "Woodbury, Minnesota",
+        "Occupation": "Teacher",
+        "Arrived": "Week 3",
+        "Eliminated": "Runner-Up",
+        "Place": "2",
+        "season": "25"
+    },
+    {
+        "Name": "Briana  Springs",
+        "Age": 24,
+        "Hometown": "San Antonio, Texas",
+        "Occupation": "Communications Manager",
+        "Arrived": "Week 1",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "25"
+    },
+    {
+        "Name": "Serena Pitt",
+        "Age": 23,
+        "Hometown": "Markham, Ontario",
+        "Occupation": "Publicist",
+        "Arrived": "Week 8",
+        "Eliminated": "4 (quit)",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Pieper James",
+        "Age": 23,
+        "Hometown": "Happy Valley, Oregon",
+        "Occupation": "Graduate Student",
+        "Arrived": "Week 7",
+        "Eliminated": "5",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Jessenia Cruz",
+        "Age": 27,
+        "Hometown": "El Paso, Texas",
+        "Occupation": "Social Media Marketer",
+        "Arrived": "6",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Kit Keenan",
+        "Age": 21,
+        "Hometown": "Manhattan, New York",
+        "Occupation": "Fashion Entrepreneur",
+        "Arrived": "7 (quit)",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Abigail Heringer",
+        "Age": 25,
+        "Hometown": "Salem, Oregon",
+        "Occupation": "Client Financial Manager",
+        "Arrived": "8",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Chelsea Vaughn",
+        "Age": 29,
+        "Hometown": "Marietta, Georgia",
+        "Occupation": "Runway Model",
+        "Arrived": "Week 6",
+        "Eliminated": "9–10",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Serena Chew",
+        "Age": 24,
+        "Hometown": "San Bruno, California",
+        "Occupation": "Flight Attendant",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Katie Thurston",
+        "Age": 29,
+        "Hometown": "Lynnwood, Washington",
+        "Occupation": "Bank Marketing Manager",
+        "Arrived": "11",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Brittany Galvin",
+        "Age": 23,
+        "Hometown": "Hinsdale, Illinois",
+        "Occupation": "Model",
+        "Arrived": "Week 3",
+        "Eliminated": "Week 5",
+        "Place": "12–14",
+        "season": "25"
+    },
+    {
+        "Name": "Mearg  Tareke",
+        "Age": 32,
+        "Hometown": "Adwa, Ethiopia",
+        "Occupation": "Pharmacist",
+        "Arrived": "Week 1",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Ryan Claytor",
+        "Age": 26,
+        "Hometown": "Mechanicsville, Virginia",
+        "Occupation": "Dancer/Choreographer",
+        "Arrived": "Week 3",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Meredith  Snyder",
+        "Age": 23,
+        "Hometown": "Hudson, Ohio",
+        "Occupation": "Hairstylist",
+        "Arrived": "Week 1",
+        "Eliminated": "15",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Catalina Morales",
+        "Age": 29,
+        "Hometown": "Caguas, Puerto Rico",
+        "Occupation": "Former Miss Universe Puerto Rico",
+        "Arrived": "Week 3",
+        "Eliminated": "Week 4",
+        "Place": "16–19",
+        "season": "25"
+    },
+    {
+        "Name": "Lauren Maddox",
+        "Age": 29,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Corporate Attorney",
+        "Arrived": "Week 1",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Mariela  Pepin",
+        "Age": 24,
+        "Hometown": "Severn, Maryland",
+        "Occupation": "Marketing Director",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Victoria Larson",
+        "Age": 27,
+        "Hometown": "Los Angeles, California",
+        "Occupation": "Queen",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Anna Redman",
+        "Age": 24,
+        "Hometown": "Owatonna, Minnesota",
+        "Occupation": "Copywriter",
+        "Arrived": "20",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Kaili Anderson",
+        "Age": 26,
+        "Hometown": "San Diego, California",
+        "Occupation": "Hostess",
+        "Arrived": "Week 3",
+        "Eliminated": "21–23",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Khaylah Epps",
+        "Age": 28,
+        "Hometown": "Durham, North Carolina",
+        "Occupation": "Healthcare Advocate",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Kimberly  Li",
+        "Age": 28,
+        "Hometown": "Cypress, California",
+        "Occupation": "ICU Nurse",
+        "Arrived": "Week 3",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Sarah Trott",
+        "Age": 24,
+        "Hometown": "Scripps Ranch, California",
+        "Occupation": "Broadcast Journalist",
+        "Arrived": "Week 1",
+        "Eliminated": "24 (quit)",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Alana Milne",
+        "Age": 26,
+        "Hometown": "San Antonio, Texas",
+        "Occupation": "Photographer",
+        "Arrived": "Week 2",
+        "Eliminated": "25–29",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Illeana Pennetto",
+        "Age": 25,
+        "Hometown": "South Salem, New York",
+        "Occupation": "Health Food Developer",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Kristin Hopkins",
+        "Age": 27,
+        "Hometown": "Virginia Beach, Virginia",
+        "Occupation": "Attorney",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Marylynn Sienna",
+        "Age": 28,
+        "Hometown": "Huntington Beach, California",
+        "Occupation": "Event Coordinator",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Sydney Johnson",
+        "Age": 28,
+        "Hometown": "Franklin, Tennessee",
+        "Occupation": "Marketing Specialist",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Alicia Holloway",
+        "Age": 24,
+        "Hometown": "Morgantown, West Virginia",
+        "Occupation": "Professional Ballerina",
+        "Arrived": "Week 1",
+        "Eliminated": "30–37",
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Amber Andrews",
+        "Age": 30,
+        "Hometown": "Rialto, California",
+        "Occupation": "Nursing Student",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Carolyn Vallejo",
+        "Age": 30,
+        "Hometown": "Newburyport, Massachusetts",
+        "Occupation": "Journalist",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Casandra Suarez",
+        "Age": 25,
+        "Hometown": "Lodi, California",
+        "Occupation": "Social Worker",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Corrinne Jones",
+        "Age": 22,
+        "Hometown": "Pomfret, Connecticut",
+        "Occupation": "Marketing Manager",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Emani Curl",
+        "Age": 25,
+        "Hometown": "Albuquerque, New Mexico",
+        "Occupation": "Realtor",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Kimberly Courneya",
+        "Age": 28,
+        "Hometown": "Lake Tapps, Washington",
+        "Occupation": "Airline Recruiter",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Saneh Ste. Claire",
+        "Age": 25,
+        "Hometown": "Vilano Beach, Florida",
+        "Occupation": "IT Consultant",
+        "Arrived": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "25"
+    },
+    {
+        "Name": "Susie Evans",
+        "Age": null,
+        "Hometown": "Week 9",
+        "Occupation": "",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Gabriela  Windey",
+        "Age": 30,
+        "Hometown": "O'Fallon, Illinois",
+        "Occupation": "ICU Nurse",
+        "Eliminated": "Runner-Up(Week 10)",
+        "Place": "2–3",
+        "season": "26"
+    },
+    {
+        "Name": "Rachel Recchia",
+        "Age": 25,
+        "Hometown": "Clermont, Florida",
+        "Occupation": "Flight Instructor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Serene Russell",
+        "Age": 26,
+        "Hometown": "Oklahoma City, Oklahoma",
+        "Occupation": "Elementary School Teacher",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "26"
+    },
+    {
+        "Name": "Teddi Wright",
+        "Age": 24,
+        "Hometown": "Redlands, California",
+        "Occupation": "Surgical Unit Nurse",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "26"
+    },
+    {
+        "Name": "Sarah Hamrick",
+        "Age": 23,
+        "Hometown": "Spartanburg, South Carolina",
+        "Occupation": "Wealth Management Advisor",
+        "Eliminated": "6",
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Genevieve Parisi",
+        "Age": 26,
+        "Hometown": "Rehoboth, Massachusetts",
+        "Occupation": "Bartender",
+        "Eliminated": "7",
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Eliza Isichei",
+        "Age": 25,
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Marketing Manager",
+        "Eliminated": "Week 6",
+        "Place": "8–9",
+        "season": "26"
+    },
+    {
+        "Name": "Mara Agrait",
+        "Age": 32,
+        "Hometown": "Collingswood, New Jersey",
+        "Occupation": "Entrepreneur",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Hunter Haag",
+        "Age": 28,
+        "Hometown": "Lake Wylie, South Carolina",
+        "Occupation": "Human Resources Specialist",
+        "Eliminated": "Week 5",
+        "Place": "10–11",
+        "season": "26"
+    },
+    {
+        "Name": "Marlena Wesh",
+        "Age": 30,
+        "Hometown": "Virginia Beach, Virginia",
+        "Occupation": "Former Olympian",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Shanae Ankney",
+        "Age": 29,
+        "Hometown": "Sycamore, Ohio",
+        "Occupation": "Recruiter",
+        "Eliminated": "12",
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Jillian  Chin",
+        "Age": 26,
+        "Hometown": "Scituate, Rhode Island",
+        "Occupation": "Architectural Historian",
+        "Eliminated": "Week 4",
+        "Place": "13–15",
+        "season": "26"
+    },
+    {
+        "Name": "Lyndsey Windham",
+        "Age": 28,
+        "Hometown": "Orange, Texas",
+        "Occupation": "Industrial Sales Representative",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Sierra Jackson",
+        "Age": 26,
+        "Hometown": "Oklahoma City, Oklahoma",
+        "Occupation": "Yoga Instructor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Elizabeth Corrigan",
+        "Age": 32,
+        "Hometown": "Highlands Ranch, Colorado",
+        "Occupation": "Real Estate Advisor",
+        "Eliminated": "Week 3",
+        "Place": "16–18",
+        "season": "26"
+    },
+    {
+        "Name": "Kira Mengistu",
+        "Age": 32,
+        "Hometown": "Greensboro, North Carolina",
+        "Occupation": "Physician",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Melina Nasab",
+        "Age": 27,
+        "Hometown": "West Hollywood, California",
+        "Occupation": "Personal Trainer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Ency Abedin",
+        "Age": 28,
+        "Hometown": "Burbank, California",
+        "Occupation": "Sales Manager",
+        "Eliminated": "Week 2",
+        "Place": "19–21",
+        "season": "26"
+    },
+    {
+        "Name": "Kate Gallivan",
+        "Age": 32,
+        "Hometown": "Clarksville, Tennessee",
+        "Occupation": "Real Estate Agent",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Tessa Tookes",
+        "Age": 26,
+        "Hometown": "Stamford, Connecticut",
+        "Occupation": "Human Resources Specialist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Cassidy Timbrooks",
+        "Age": 26,
+        "Hometown": "Cave Creek, Arizona",
+        "Occupation": "Executive Recruiter",
+        "Eliminated": "22",
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Daria Rose",
+        "Age": 24,
+        "Hometown": "Baldwin, New York",
+        "Occupation": "Law Student",
+        "Eliminated": "Week 1",
+        "Place": "23–28",
+        "season": "26"
+    },
+    {
+        "Name": "Hailey Malles",
+        "Age": 26,
+        "Hometown": "Orlando, Florida",
+        "Occupation": "Pediatric Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Ivana Noble",
+        "Age": 31,
+        "Hometown": "Snellville, Georgia",
+        "Occupation": "Bar Mitzvah Dancer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Jane Paik",
+        "Age": 33,
+        "Hometown": "Santa Monica, California",
+        "Occupation": "Social Media Director",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Lindsay Dobbs",
+        "Age": 27,
+        "Hometown": "Warner Robins, Georgia",
+        "Occupation": "Neonatal Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Rianna Hockaday",
+        "Age": 26,
+        "Hometown": "Mount Pleasant, Texas",
+        "Occupation": "Registered Nurse",
+        "Eliminated": null,
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Samantha Jeffries",
+        "Age": 26,
+        "Hometown": "Dayton, Ohio",
+        "Occupation": "Occupational Therapist",
+        "Eliminated": "29 (quit)",
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Claire Heilig",
+        "Age": 28,
+        "Hometown": "Virginia Beach, Virginia",
+        "Occupation": "Spray Tanner",
+        "Eliminated": "30",
+        "Place": "",
+        "season": "26"
+    },
+    {
+        "Name": "Kaitlyn  Biggar",
+        "Age": 27,
+        "Hometown": "Kingston, Ontario",
+        "Occupation": "Travel Nurse",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "27"
+    },
+    {
+        "Name": "Gabriella  Elnicki",
+        "Age": 25,
+        "Hometown": "Pittsford, Vermont",
+        "Occupation": "Senior Account Executive",
+        "Eliminated": "Runner-Up",
+        "Place": "2",
+        "season": "27"
+    },
+    {
+        "Name": "Ariel Frenkel",
+        "Age": 28,
+        "Hometown": "Manhattan, New York",
+        "Occupation": "Marketing Executive",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "27"
+    },
+    {
+        "Name": "Charity Lawson",
+        "Age": 26,
+        "Hometown": "Columbus, Georgia",
+        "Occupation": "Child and Family Therapist",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "27"
+    },
+    {
+        "Name": "Katherine Izzo",
+        "Age": 26,
+        "Hometown": "Tampa, Florida",
+        "Occupation": "Registered Nurse",
+        "Eliminated": "Week 7",
+        "Place": "5",
+        "season": "27"
+    },
+    {
+        "Name": "Brooklyn Willie",
+        "Age": 25,
+        "Hometown": "Mineola, Texas",
+        "Occupation": "Rodeo Racer",
+        "Eliminated": "6",
+        "Place": "6",
+        "season": "27"
+    },
+    {
+        "Name": "Greer Blitzer",
+        "Age": 24,
+        "Hometown": "Bellaire, Texas",
+        "Occupation": "Medical Sales Representative",
+        "Eliminated": "7",
+        "Place": "7",
+        "season": "27"
+    },
+    {
+        "Name": "Alyssa  Jacobs",
+        "Age": 26,
+        "Hometown": "Smyrna, Georgia",
+        "Occupation": "Healthcare Strategist",
+        "Eliminated": "Week 6",
+        "Place": "8",
+        "season": "27"
+    },
+    {
+        "Name": "Jessica  Girod",
+        "Age": 23,
+        "Hometown": "Winter Springs, Florida",
+        "Occupation": "E-Commerce Coordinator",
+        "Eliminated": "9",
+        "Place": "9",
+        "season": "27"
+    },
+    {
+        "Name": "Kylee Russell",
+        "Age": 25,
+        "Hometown": "Charlotte, North Carolina",
+        "Occupation": "Postpartum Nurse",
+        "Eliminated": "Week 5",
+        "Place": "10",
+        "season": "27"
+    },
+    {
+        "Name": "Mercedes Northup",
+        "Age": 24,
+        "Hometown": "Bloomfield, Iowa",
+        "Occupation": "Nonprofit Case Manager",
+        "Eliminated": null,
+        "Place": "10",
+        "season": "27"
+    },
+    {
+        "Name": "Davia Bunch",
+        "Age": 25,
+        "Hometown": "Roebuck, South Carolina",
+        "Occupation": "Marketing Manager",
+        "Eliminated": "Week 4",
+        "Place": "12",
+        "season": "27"
+    },
+    {
+        "Name": "Genevie Mayo",
+        "Age": 26,
+        "Hometown": "Joppa, Maryland",
+        "Occupation": "Neonatal Nurse",
+        "Eliminated": null,
+        "Place": "12",
+        "season": "27"
+    },
+    {
+        "Name": "Anastasia Keramidas",
+        "Age": 30,
+        "Hometown": "Baltimore, Maryland",
+        "Occupation": "Content Marketing Manager",
+        "Eliminated": "14",
+        "Place": "14",
+        "season": "27"
+    },
+    {
+        "Name": "Christina Mandrell",
+        "Age": 26,
+        "Hometown": "Hendersonville, Tennessee",
+        "Occupation": "Content Creator",
+        "Eliminated": "Week 3",
+        "Place": "15",
+        "season": "27"
+    },
+    {
+        "Name": "Brianna Thorbourne",
+        "Age": 24,
+        "Hometown": "Jersey City, New Jersey",
+        "Occupation": "Entrepreneur",
+        "Eliminated": "16 (quit)",
+        "Place": "16",
+        "season": "27"
+    },
+    {
+        "Name": "Bailey Brown",
+        "Age": 27,
+        "Hometown": "Brentwood, Tennessee",
+        "Occupation": "Executive Recruiter",
+        "Eliminated": "17",
+        "Place": "17",
+        "season": "27"
+    },
+    {
+        "Name": "Catherine  Wong",
+        "Age": 26,
+        "Hometown": "Bushwick, New York",
+        "Occupation": "Professional Dancer",
+        "Eliminated": "Week 2",
+        "Place": "18",
+        "season": "27"
+    },
+    {
+        "Name": "Kimberly Gutierrez",
+        "Age": 30,
+        "Hometown": "Stroudsburg, Pennsylvania",
+        "Occupation": "Hospitality Manager",
+        "Eliminated": null,
+        "Place": "18",
+        "season": "27"
+    },
+    {
+        "Name": "Victoria Jameson",
+        "Age": 30,
+        "Hometown": "Keller, Texas",
+        "Occupation": "Professional Makeup Artist",
+        "Eliminated": null,
+        "Place": "18",
+        "season": "27"
+    },
+    {
+        "Name": "Becca Serrano",
+        "Age": 25,
+        "Hometown": "Burbank, California",
+        "Occupation": "Nursing Student",
+        "Eliminated": "Week 1",
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Cara Ammon",
+        "Age": 27,
+        "Hometown": "McCandless, Pennsylvania",
+        "Occupation": "Corporate Recruiter",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Holland Parsons",
+        "Age": 24,
+        "Hometown": "Boca Raton, Florida",
+        "Occupation": "Insurance Marketer",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Lekha Ravi",
+        "Age": 29,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Financial Advisor",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Olivia Lewis",
+        "Age": 24,
+        "Hometown": "Churchville, New York",
+        "Occupation": "Patient Care Technician",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Olivia Miller",
+        "Age": 25,
+        "Hometown": "Delphos, Ohio",
+        "Occupation": "Stylist",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Sonia Sharma",
+        "Age": 29,
+        "Hometown": "Jericho, New York",
+        "Occupation": "Project Manager",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Vanessa Dinh",
+        "Age": 23,
+        "Hometown": "Farmington Hills, Michigan",
+        "Occupation": "Restaurant Marketer",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Viktoria Eichner",
+        "Age": 29,
+        "Hometown": "Vienna, Austria",
+        "Occupation": "Nanny",
+        "Eliminated": null,
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Madison Johnson",
+        "Age": 26,
+        "Hometown": "Fargo, North Dakota",
+        "Occupation": "Business Owner",
+        "Eliminated": "30",
+        "Place": "21–29",
+        "season": "27"
+    },
+    {
+        "Name": "Kelsey Anderson",
+        "Age": 25,
+        "Hometown": "Leesville, Louisiana",
+        "Occupation": "Junior Project Manager",
+        "Eliminated": "Winner",
+        "Place": "1",
+        "season": "28"
+    },
+    {
+        "Name": "Daisy Kent",
+        "Age": 25,
+        "Hometown": "Becker, Minnesota",
+        "Occupation": "Account Executive",
+        "Eliminated": "Week 10",
+        "Place": "2 (quit)",
+        "season": "28"
+    },
+    {
+        "Name": "Rachel Nance",
+        "Age": 26,
+        "Hometown": "Honolulu, Hawaii",
+        "Occupation": "ICU Nurse",
+        "Eliminated": "Week 9",
+        "Place": "3",
+        "season": "28"
+    },
+    {
+        "Name": "Maria Georgas",
+        "Age": 29,
+        "Hometown": "Kleinburg, Ontario",
+        "Occupation": "Executive Assistant",
+        "Eliminated": "Week 8",
+        "Place": "4",
+        "season": "28"
+    },
+    {
+        "Name": "Jennifer Tran",
+        "Age": 25,
+        "Hometown": "Hillsdale, New Jersey",
+        "Occupation": "PA Student",
+        "Eliminated": "Week 7",
+        "Place": "5-6",
+        "season": "28"
+    },
+    {
+        "Name": "Kelsey Toussant",
+        "Age": 31,
+        "Hometown": "Inglewood, California",
+        "Occupation": "Actress",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Katelyn DeBacker",
+        "Age": 26,
+        "Hometown": "Santa Fe, New Mexico",
+        "Occupation": "Radiochemist",
+        "Eliminated": "Week 6",
+        "Place": "7-8",
+        "season": "28"
+    },
+    {
+        "Name": "Lea Cayanan",
+        "Age": 23,
+        "Hometown": "Waipahu, Hawaii",
+        "Occupation": "Account Manager",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Lexi Young",
+        "Age": 30,
+        "Hometown": "Pataskala, Ohio",
+        "Occupation": "Digital Strategist",
+        "Eliminated": "9 (quit)",
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Jessica Edwards",
+        "Age": 24,
+        "Hometown": "Erwin, Tennessee",
+        "Occupation": "Executive Assistant",
+        "Eliminated": "10",
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Autumn Waggoner",
+        "Age": 26,
+        "Hometown": "De Soto, Missouri",
+        "Occupation": "Account Executive",
+        "Eliminated": "Week 5",
+        "Place": "11–12",
+        "season": "28"
+    },
+    {
+        "Name": "Madina Alam",
+        "Age": 31,
+        "Hometown": "Charlotte, North Carolina",
+        "Occupation": "Mental Health Therapist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Allison Hollinger",
+        "Age": 26,
+        "Hometown": "Dover, Delaware",
+        "Occupation": "Realtor",
+        "Eliminated": "Week 4",
+        "Place": "13–14",
+        "season": "28"
+    },
+    {
+        "Name": "Edwina Dorbor",
+        "Age": 25,
+        "Hometown": "Maple Grove, Minnesota",
+        "Occupation": "Entrepreneur",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Sydney Gordon",
+        "Age": 28,
+        "Hometown": "Newport, Rhode Island",
+        "Occupation": "Vintage Store Owner",
+        "Eliminated": "15",
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Chrissa Perez",
+        "Age": 26,
+        "Hometown": "Abbotsford, British Columbia",
+        "Occupation": "Marketing Director",
+        "Eliminated": "Week 3",
+        "Place": "16–18",
+        "season": "28"
+    },
+    {
+        "Name": "Evalin Clark",
+        "Age": 29,
+        "Hometown": "San Antonio, Texas",
+        "Occupation": "Nanny",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Starr Skyler",
+        "Age": 25,
+        "Hometown": "Delray Beach, Florida",
+        "Occupation": "Mental Health Counselor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Erika Cardenas",
+        "Age": 25,
+        "Hometown": "North Bergen, New Jersey",
+        "Occupation": "Leasing Agent",
+        "Eliminated": "Week 2",
+        "Place": "19–21",
+        "season": "28"
+    },
+    {
+        "Name": "Marlena Haddad",
+        "Age": 26,
+        "Hometown": "Waterbury, Connecticut",
+        "Occupation": "Finance Writer",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Taylor Wiens",
+        "Age": 23,
+        "Hometown": "Olathe, Kansas",
+        "Occupation": "Recruiter",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Lauren Hollinger",
+        "Age": 28,
+        "Hometown": "Dover, Delaware",
+        "Occupation": "Registered Nurse",
+        "Eliminated": "22 (quit)",
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Chandler Dewgard",
+        "Age": 24,
+        "Hometown": "Brooklyn, New York",
+        "Occupation": "Graphic Designer",
+        "Eliminated": "Week 1",
+        "Place": "23–32",
+        "season": "28"
+    },
+    {
+        "Name": "Kayla Rodgers",
+        "Age": 27,
+        "Hometown": "Hamilton, Ohio",
+        "Occupation": "Guidance Counselor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Kyra Brusch",
+        "Age": 26,
+        "Hometown": "Miami, Florida",
+        "Occupation": "Paralegal",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Lanie Latsios",
+        "Age": 27,
+        "Hometown": "Glen Mills, Pennsylvania",
+        "Occupation": "Realtor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Natalie Crepeau",
+        "Age": 26,
+        "Hometown": "Sudbury, Ontario",
+        "Occupation": "Nursing Professor",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Samantha Hale",
+        "Age": 31,
+        "Hometown": "Melville, New York",
+        "Occupation": "CPA",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Samantha Washington",
+        "Age": 25,
+        "Hometown": "Lincoln, Nebraska",
+        "Occupation": "Miami Dolphins Cheerleader",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Sandra Rabadi",
+        "Age": 26,
+        "Hometown": "Strongsville, Ohio",
+        "Occupation": "Cybersecurity Consultant",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Talyah Jackson",
+        "Age": 23,
+        "Hometown": "Huntington Beach, California",
+        "Occupation": "Esthetician",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    },
+    {
+        "Name": "Zoe Antona",
+        "Age": 24,
+        "Hometown": "Roswell, Georgia",
+        "Occupation": "Artist",
+        "Eliminated": null,
+        "Place": "",
+        "season": "28"
+    }
+]
