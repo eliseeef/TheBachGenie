@@ -57,87 +57,6 @@ const sortedBySeason = Object.entries.reduce((acc, [name, person]) => {
 const list = Object.values(processed).sort((a, b) =>
   a.season.localeCompare(b.season)
 );
-
-const contestants = [
-  {
-    Name: "Amanda Marsh",
-    Age: 23,
-    Hometown: "Chanute, Kansas",
-    Job: "Event Planner",
-    Eliminated: "Winner",
-    season: "01",
-  },
-  {
-    Name: "Trista Rehn",
-    Age: 29,
-    Hometown: "St. Louis, Missouri",
-    Job: "Miami Heat Dancer",
-    Eliminated: "Runner-up",
-    season: "01",
-  },
-  {
-    Name: "Shannon Oliver",
-    Age: 24,
-    Hometown: "Dallas, Texas",
-    Job: "Financial Management Consultant",
-    Eliminated: "Week 5",
-    season: "01",
-  },
-  {
-    Name: "Kimberly Karels",
-    Age: 24,
-    Hometown: "Tempe, Arizona",
-    Job: "Nanny",
-    Eliminated: "Week 4",
-    season: "01",
-  },
-  {
-    Name: "Marissa May",
-    Age: 26,
-    Hometown: "Southwest",
-    "Job category": "PR",
-    Race: "White",
-    Place: "9",
-    season: "15",
-  },
-  {
-    Name: "Ashley Spivey",
-    Age: 26,
-    Hometown: "Mid atlantic",
-    "Job category": "NANNY",
-    Race: "White",
-    Place: "11",
-    season: "15",
-  },
-  {
-    Name: "Lindsay Hill",
-    Age: 25,
-    Hometown: "Southwest",
-    "Job category": "TEACHER",
-    Race: "White",
-    Place: "12",
-    season: "15",
-  },
-  {
-    Name: "Meghan Merritt",
-    Age: 30,
-    Hometown: "East",
-    "Job category": "MARKETING",
-    Race: "White",
-    Place: "12",
-    season: "15",
-  },
-  {
-    Name: "Stacey Quirpel",
-    Age: 26,
-    Hometown: "East",
-    "Job category": "RESTAURANT JOB",
-    Race: "White",
-    Place: "12",
-    season: "15",
-  },
-];
-
 // Weeks 1 - 10
 // There are no outliers, so we'll use unsupervised descretization
 // Low Weeks 1 - 4
@@ -169,27 +88,36 @@ const turnPlaceIntoCategory = (place) => {
 };
 
 const parseWeeks = (person) => {
-  if (
-    "Eliminated" in person &&
-    person.Eliminated !== null &&
-    person.Eliminated.includes("Week")
-  ) {
-    const weeks = person.Eliminated.split(" ")[1];
-    return turnWeeksIntoCategory(weeks);
-  }
   if ("Place" in person) {
     if (person.Place === "Winner") {
       return "Winner";
     }
-    if (person.Place.includes("–")) {
+    if (person.Place === "Winner") {
+      return "Winner";
+    }
+
+    if (typeof person.Place === "string" && person.Place?.includes("–")) {
       const [low, high] = person.Place.split("–");
       return turnPlaceIntoCategory(low);
     }
     return turnPlaceIntoCategory(+person.Place);
   }
+  if ("Eliminated" in person) {
+    if (person.Eliminated !== null && person.Eliminated.includes("Week")) {
+      const weeks = person.Eliminated.split(" ")[1];
+      return turnWeeksIntoCategory(weeks);
+    } else {
+      return person.Eliminated;
+    }
+  }
 };
 
 const process = contestants.reduce((acc, person) => {
-  acc.push(person);
+  const category = parseWeeks(person);
+  acc.push({
+    ...person,
+    Outcome: category,
+  });
+
   return acc;
 }, []);

@@ -1,31 +1,31 @@
-Name,Age,Hometown,Occupation,Outcome,Place,Ref
-Whitney Bischoff[7][8],29,"Louisville, Kentucky",Fertility Nurse,Winner,1,[9]
-Becca Tilley[10][11],25,"Shreveport, Louisiana",Chiropractic Assistant,Runner-up,2,
-Kaitlyn Bristowe[12],29,"Leduc, Alberta",Dance Instructor,Week 9,3,[13]
-Jade Roper[8][14],28,"Gering, Nebraska",Cosmetics Developer,Week 8,4,[15]
-Carly Waddell[3],29,"Arlington, Texas",Cruise Ship Singer,Week 7,5,
-Britt Nilsson[8][14],27,"Wolcott Mills, Michigan",Waitress,6,,
-Megan Bell[7],24,"Brentwood, Tennessee",Make-Up Artist,Week 6,7 (quit),[16]
-Kelsey Poe[8][17],28,"Hudsonville, Michigan",Guidance Counselor,8,[18],
-Ashley Iaconetti[8][19],26,"Great Falls, Virginia",Journalist,9,,
-Mackenzie Deonigi[7],21,"Maple Valley, Washington",Dental Assistant,Week 5,10–11,
-Samantha Steffen[14][20],27,"Indianapolis, Indiana",Fashion Designer,,,
-Ashley Salter[21],24,"Vinings, Georgia",Hair Stylist,Week 4,12–14,[22]
-Juelia Kinney[7][23],30,"Beaverton, Oregon",Esthetician,,,
-Nikki Delventhal[19],26,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader,,,
-Jillian Anderson[24][25],25,"Howland, Ohio",News Producer,15,,
-Amber James[7][26],29,"Kankakee, Illinois",Bartender,Week 3,16–18,[27]
-Tracy Darakis[28],29,"Wellington, Florida",Fourth Grade Teacher,,,
-Trina Scherenberg[14][29],33,"Algonquin, Illinois",Special Education Teacher,,,
-Alissa Giambrone[19],24,"Hamilton, New Jersey",Flight Attendant,Week 2,19–23,[30]
-Jordan Branch[31],24,"Windsor, Colorado",Student,,,
-Kimberly Sherbach[32],28,"Wantagh, New York",Yoga Instructor,[30][33],,
-Tandra Steiner[7],30,"Sandy, Utah",Executive Assistant,[30],,
-Tara Eddings[7][34],26,"Fort Lauderdale, Florida",Sport Fishing Enthusiast,,,
-Amanda Goerlitz[29],24,"Lake in the Hills, Illinois",Ballet Teacher,Week 1,24–30,[33]
-Bo Stanley[35],25,"Carpinteria, California",Plus-Size Model,,,
-Brittany Fetkin[36],26,"Temecula, California",WWE Diva-in-Training,,,
-Kara Wilson[37],25,"Brownsville, Kentucky",High School Soccer Coach,,,
-Michelle Davis[7],25,"Provo, Utah",Wedding Cake Baker,,,
-Nicole Meacham[38][39],31,"Scottsdale, Arizona",Real Estate Agent,,,
-Reegan Cornwell[14],28,"Manhattan Beach, California",Cadaver Tissue Saleswoman,,,
+Name,Age,Hometown,Occupation,Outcome,Place
+Whitney Bischoff[7][8],29,"Louisville, Kentucky",Fertility Nurse,Winner
+Becca Tilley[10][11],25,"Shreveport, Louisiana",Chiropractic Assistant,Runner-up
+Kaitlyn Bristowe[12],29,"Leduc, Alberta",Dance Instructor,Week 9
+Jade Roper[8][14],28,"Gering, Nebraska",Cosmetics Developer,Week 8
+Carly Waddell[3],29,"Arlington, Texas",Cruise Ship Singer,Week 7
+Britt Nilsson[8][14],27,"Wolcott Mills, Michigan",Waitress,Week 7
+Megan Bell[7],24,"Brentwood, Tennessee",Make-Up Artist,Week 6
+Kelsey Poe[8][17],28,"Hudsonville, Michigan",Guidance Counselor,Week 6
+Ashley Iaconetti[8][19],26,"Great Falls, Virginia",Journalist,Week 6
+Mackenzie Deonigi[7],21,"Maple Valley, Washington",Dental Assistant,Week 5
+Samantha Steffen[14][20],27,"Indianapolis, Indiana",Fashion Designer,Week 5
+Ashley Salter[21],24,"Vinings, Georgia",Hair Stylist,Week 4
+Juelia Kinney[7][23],30,"Beaverton, Oregon",Esthetician,Week 4
+Nikki Delventhal[19],26,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader,Week 4
+Jillian Anderson[24][25],25,"Howland, Ohio",News Producer,Week 4
+Amber James[7][26],29,"Kankakee, Illinois",Bartender,Week 3
+Tracy Darakis[28],29,"Wellington, Florida",Fourth Grade Teacher,Week 3
+Trina Scherenberg[14][29],33,"Algonquin, Illinois",Special Education Teacher,Week 3
+Alissa Giambrone[19],24,"Hamilton, New Jersey",Flight Attendant,Week 2
+Jordan Branch[31],24,"Windsor, Colorado",Student,Week 2
+Kimberly Sherbach[32],28,"Wantagh, New York",Yoga Instructor,Week 2
+Tandra Steiner[7],30,"Sandy, Utah",Executive Assistant,Week 2
+Tara Eddings[7][34],26,"Fort Lauderdale, Florida",Sport Fishing Enthusiast,Week 2
+Amanda Goerlitz[29],24,"Lake in the Hills, Illinois",Ballet Teacher,Week 1
+Bo Stanley[35],25,"Carpinteria, California",Plus-Size Model,Week 1
+Brittany Fetkin[36],26,"Temecula, California",WWE Diva-in-Training,Week 1
+Kara Wilson[37],25,"Brownsville, Kentucky",High School Soccer Coach,Week 1
+Michelle Davis[7],25,"Provo, Utah",Wedding Cake Baker,Week 1
+Nicole Meacham[38][39],31,"Scottsdale, Arizona",Real Estate Agent,Week 1
+Reegan Cornwell[14],28,"Manhattan Beach, California",Cadaver Tissue Saleswoman,Week 1
