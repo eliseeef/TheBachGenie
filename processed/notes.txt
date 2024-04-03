@@ -28,3 +28,10 @@ Idk what "returned to competition means, just deleted them (2 or 3)
 removed nicknames
 
 \[[^\[\]]*\]
+
+
+
+Indicates whether the person was a winner, runner up, or what week they were eliminated
+winner
+runnerUp
+w1
