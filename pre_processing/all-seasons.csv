@@ -1,0 +1,587 @@
+season,name,age,hometown,job,outcome
+01,Amanda Marsh,23,"Chanute, Kansas",Event Planner,winner
+01,Trista Rehn,29,"St. Louis, Missouri",Miami Heat Dancer,runnerUp
+01,Shannon Oliver,24,"Dallas, Texas",Financial Management Consultant,5
+01,Kimberly Karels,24,"Tempe, Arizona",Nanny,4
+01,Cathy Grimes,22,"Terre Haute, Indiana",Graduate Student,3
+01,Christina Stencil,28,"Bonita, California",Attorney,3
+01,LaNease Adams,23,"Playa Del Rey, California",Actress,3
+01,Rhonda Rittenhouse,28,"Woodward, Oklahoma",Commercial Real Estate Agent,3
+01,Alexa Jurgielewicz,27,"Beverly Hills, California",Special Ed. Teacher,2
+01,Amy Anzel,28,"Yonkers, New York",Production Coordinator,2
+01,Angela Lowery,25,"Avondale, Arizona",Hooters Waitress,2
+01,Angelique Madrid,27,"Burbank, California",Actress,2
+01,Katie Sapienza,23,"Malden, Massachusetts",Power Tool Sales Rep.,2
+01,Melissa Reese,25,"Tempe, Arizona",Photographer,2
+01,Tina Chen,27,"Plano, Texas",Graduate Student,2
+01,Amber Johnson,29,"Los Angeles, California",Business Development Director,1
+01,Daniela Ferdico,30,"Seattle, Washington",Neuropsychologist,1
+01,Denise Kellaher,30,"Honolulu, Hawaii",Doctor,1
+01,Jackie Hucko,22,"Pittsburgh, Pennsylvania",Bar Manager,1
+01,Jill Gosser,31,"Chicago, Illinois",Retail Manager,1
+01,Kristina Jenkins,27,"Chelsea, New York",Advertising Executive,1
+01,Lisa Gold,29,"Dallas, Texas",Attorney,1
+01,Paula Oliveira,24,"Swansea, Massachusetts",Insurance Representative,1
+01,Rachel Lanzilotto,29,"Eastchester, New York",6th Grade Teacher,1
+01,Wendi Plotnik,26,"Dallas, Texas",Technology Specialist,1
+02,Helene Eksterowicz,27,"Gloucester, New Jersey",School Psychologist,winner
+02,Brooke Smith,22,"Albertville, Alabama",College Student,runnerUp
+02,Gwen Gioia,31,"Philadelphia, Pennsylvania",Executive Recruiter,6
+02,Angela Vaught,27,"Kansas City, Missouri",Registered Nurse,5
+02,Hayley Crittenden,28,"Lake Oswego, Oregon",Retail Manager,4
+02,Heather Cranford,30,"Dallas, Texas",Flight Attendant,4
+02,Christi Weible,23,"Boise, Idaho",Assistant Financial Advisor,3
+02,Heather Campion,24,"Walnut Creek, California",Marriage Therapy Trainee,3
+02,Kyla Dickerson,22,"Midvale, Utah",Airline Supervisor,3
+02,Shannon Fries,26,"North Lindenhurst, New York",Graphic Artist,3
+02,Dana Norris,24,"Beverly Hills, California",Radio Sales,2
+02,Erin Lulevitch,25,"West Chester, Pennsylvania",Publications Quality Control,2
+02,Suzanne Freeman,33,"Redondo Beach, California",Flight Attendant,2
+02,Frances Dinglasan,30,"San Francisco, California",Strategic Planning Analyst,2
+02,Anindita Dutta,27,"Brooklyn, New York",Attorney,2
+02,Amber West,26,"Chapel Hill, North Carolina",Psychologist,1
+02,Camille Langfield,29,"Sherman Oaks, California",Actress,1
+02,Cari,29,"Granite City, Illinois",3rd Grade Teacher,1
+02,Christy,24,"Avondale, Arizona",Radiological Technologist,1
+02,Erin A.,24,"Houston, Texas",Interior Designer,1
+02,Fatima Rivas,22,"Long Beach, California",College Student,1
+02,Liangy Fernandez,30,"Coral Gables, Florida",Paralegal,1
+02,Lori Todd,26,"Dallas, Texas",Former NBA Cheerleader,1
+02,Merrilee Donohue,28,"Forked River, New Jersey",1st Grade Teacher,1
+02,Suzi Reid,28,"Richmond, Virginia",Communications Specialist,1
+05,Jessica Bowlin,22,"Huntington Beach, California",Student,winner
+05,Tara Huckeby,23,"Shawnee, Oklahoma",General Contractor,7
+05,Mandy Jaye Jeffreys,26,"Midland, Texas",Architect Designer,6
+05,Trish Schneider,28,"Atlanta, Georgia",Model,5
+05,Karen Lindsay,28,"Pleasant Grove, Utah",Pharmaceutical Salesperson,4
+05,Suzie Williams,23,"Ann Arbor, Michigan",Prosthetic Technician,4
+05,Jenny De Schiralli,26,"Carrboro, North Carolina",Swim Instructor,3
+05,Jessica Holcomb,25,"Pearsall, Texas",Attorney,3
+05,Julie Durda,24,"Sacramento, California",Professional Cheerleader,3
+05,Katie Gehart,22,"Scottsdale, Arizona",LASIK Eye & Skin Center Manager,3
+05,Amber LaRoux,27,"Sunriver, Oregon",Consultant,2
+05,Anne-Catherine Labbé,27,"Quebec City, Quebec",Model,2
+05,Celeste Creel,24,"Ithaca, New York",Executive Assistant,2
+05,Debbie Merkett,27,"Pinetops, North Carolina",Massage Therapist,2
+05,Jean-Marie Callahan,26,"Gibson, North Carolina",Hairstylist,2
+05,Jenny Matthews,24,"Canton, Michigan",Retail Manager,2
+05,Kristy Romero,25,"Dearborn, Michigan",Student,2
+05,Mandy Clemens,25,"San Diego, California",Professional Soccer Player,2
+05,DeShaun Warner,25,"Phillipsburg, New Jersey",Account Manager,1
+05,Dolores Farburg,26,"Madison, New Jersey",Account Manager,1
+05,Francine Jones,25,"Houston, Texas",Retail Manager,1
+05,Holly Reeder,26,"Tulsa, Oklahoma",Bank Representative,1
+05,Jessica Kyron,21,"Cincinnati, Ohio",Student,1
+05,Kristin Clearwater,25,"Sausalito, California",Singer,1
+05,Rachel Clementi,26,"Buffalo, New York",Fashion PR Manager,1
+09,Jennifer Wilson,24,"Pembroke Pines, Florida",Teacher,winner
+09,Sadie Murray,23,"Carlsbad, California",Publicist,7
+09,Lisa Blank,25,"Portland, Oregon",Marketing manager,6
+09,Agnese Polliza,24,"Venice, Italy",Student,5
+09,Desiree Valentin,22,"Salt Lake City, Utah",Realtor,4
+09,Jeanette Pawula,23,"Bloomingdale, Illinois",Teacher,4
+09,Erica Rose,23,"Houston, Texas",Attorney,3
+09,Gina Clark,28,"Dallas, Texas",Ultrasound technician,3
+09,Jami Matzke,27,"Galveston, Texas",Event planner,3
+09,Ellen DeMaio,30,"New Haven, Connecticut",Realtor,2
+09,Kimberly Jackson,27,"Newport Beach, California",Interior designer,2
+09,Sarah Schnare,30,"Nelson, British Columbia",Journalist,2
+09,April Jacobs,23,"Hyde Park, Chicago, Illinois",Model,1
+09,Andrea Shirley,28,"Cincinnati, Ohio",Hotel concierge,1
+09,Britt Keeder,28,"Columbus, Ohio",Beer chemist,1
+09,Carissa Ilburg,25,"Cattaraugus, New York",Attorney,1
+09,Claudia Gismondi,22,"Boca Raton, Florida",Restaurateur,1
+09,Cosetta Blanca,,Italy,Dancer,1
+09,Elyse Hammer,27,"Meadow Vista, California",Physician,1
+09,Heather Sneed,34,"Aliquippa, Pennsylvania",Registered nurse,1
+09,Jessica Horner,25,"Charlotte, North Carolina",Assistant buyer,1
+09,Laura Morgan,29,"Spring Valley, California",Dolphin trainer,1
+09,Meryl Barr,27,"Biloxi, Mississippi",Attorney,1
+09,Renée Snell,30,"Baltimore, Maryland",Broadcast marketer,1
+09,Rita Ghazal,29,"Richmond, Virginia",Policy advisor,1
+09,Rosella Fratto,27,"Homer Glen, Illinois",Make-up artist,1
+09,Tara Durr,24,"St. Augustine, Florida",Realtor,1
+10,Tessa Horst,26,"San Francisco, California",Social Worker,winner
+10,Bevin Nicole Powers,28,"Palo Alto, California",Assistant,8
+10,Danielle Imwalle,25,"Bethel, Connecticut",Graphic Designer,7
+10,Amber Alchalabi,23,"Sugar Land, Texas",Teacher,6
+10,Stephanie Wilhite,23,"Overland Park, Kansas",Project Manager,5
+10,Tina Wu,26,"Lenox Hill, New York",Medical student,5
+10,Kate Brockhouse,24,"Ravenel, South Carolina",Boutique owner,4
+10,Nicole Clary,26,"Charleston, South Carolina",Sales Manager,4
+10,Stephanie Tipper,27,"Folly Beach, South Carolina",Organ donor coordinator,4
+10,Amanda Hackney,26,"Dallas, Texas",Financial analyst,3
+10,Erin Parker,24,"Logansport, Louisiana",Financial analyst,3
+10,Peyton Wright,24,"Kingsport, Tennessee",Sorority recruiter,3
+10,Alexis Young,26,"Southlake, Texas",Attorney,2
+10,Susan Anderson,23,"The Woodlands, Texas",Boutique manager,2
+10,Tiffany Warren,28,"Boston, Massachusetts",Medical equipment sales rep,2
+10,Blakeney Rowe,29,"Birmingham, Alabama",Radio sales,1
+10,Candice DeCost,23,"Hilton Head Island, South Carolina",Waitress,1
+10,Catherine Warren,23,"Lake Forest, Illinois",Former Miss Illinois,1
+10,Danielle Vallis,26,"The Bronx, New York",Attorney,1
+10,Jacqueline Topelli,23,"Minneapolis, Minnesota",Executive coordinator,1
+10,Jeanette Alvarez,27,"Tampa, Florida",Health care manager,1
+10,Jessica Devallo,32,"New York, New York",Hedge fund analyst,1
+10,Linda Malek,33,"Cuyahoga Falls, Ohio",Attorney,1
+10,Lindsay Smith,22,"Lawrence, Kansas",Student,1
+10,Tiffany Forester,27,"St. Louis Park, Minnesota",Real estate sales/development,1
+11,DeAnna Pappas,25,"Newnan, Georgia",Realtor,runnerUp
+11,Jenni Croft,27,"Wichita, Kansas",Phoenix Suns Cheerleader,runnerUp
+11,Bettina Bell,27,"Washington, D.C.",Realtor,7
+11,Sheena Stewart,23,"Walnut Creek, California",Internet marketing executive,6
+11,Hillary Reisinger,27,"Philadelphia, Pennsylvania",Registered nurse,5
+11,Kristy Katzmann,29,"Gurnee, Illinois",Acupuncturist,5
+11,McCarten Delaney,26,"Lemon Grove, California",Account manager,4
+11,Estefania Leon,26,"Atlanta, Georgia",Executive assistant,4
+11,Jade Beazley,24,"Nashville, Tennessee",Boutique sales worker,4
+11,Lindsey Hawkins,25,"Livonia, Michigan",Model,3
+11,Sarah Newlon,23,"O'Fallon, Illinois",Bar manager,3
+11,Solisa Shoop,25,"Georgetown, Texas",Esthetician,3
+11,Erin Gardner,25,"Tampa, Florida",Publishing sales executive,2
+11,Mallory Simons,24,"Honolulu, Hawaii",Nanny,2
+11,Michele Leavy,30,"South Brunswick, New Jersey",Realtor,2
+11,Jessica Kiss,27,"Lady Lake, Florida",News anchor,1
+11,Julia Gilliam,24,"Chicago, Illinois",Law student,1
+11,Kimberly Orville,31,"Woodbridge, Connecticut",Realtor,1
+11,Lori Langley,33,"Annapolis, Maryland",Biology teacher,1
+11,Melissa Buschel,28,"Armonk, New York",Event planner,1
+11,Morgan Becker,24,"Tempe, Arizona",Graduate student,1
+11,Natalie Velasco,25,"Duncanville, Texas",Law student,1
+11,Regina Doringa,31,"San Diego, California",Account representative,1
+11,Tauni Nessler ,31,"St. Louis Park, Minnesota",Emergency room nurse,1
+11,Susan Coolidge,35,"St. Charles, Illinois",Project analyst,1
+12,Shayne Lamas,22,"Malibu, California",Actress,winner
+12,Chelsea Wanstrath,25,"Durango, Colorado",Pharmaceutical sales rep.,runnerUp
+12,Amanda Rantuccio,27,"Niceville, Florida",Account Executive,7
+12,Noelle Drake,26,"Loveland, Colorado",Photographer,6
+12,Marshana Ritchie,27,"Brooklyn, New York",Fashion designer,5
+12,Robin Canfield,22,"Holland, Michigan",Advertising coordinator,5
+12,Ashlee Williss,22,"Jacksonville Beach, Florida",Singer-songwriter,4
+12,Kelly Hark,25,"Hollywood, California",Medical sales representative,4
+12,Holly Durst,24,"Suffield, Ohio",Children's book author,4
+12,Amy Bean,22,"Stockton, California",Nanny,3
+12,Erin Storm,33,"San Marcos, California",Vendor,3
+12,Kristine Heffelfinger,33,"Dillsburg, Pennsylvania",Personal trainer,3
+12,Caroline Carri Perrier,25,"Oklahoma City, Oklahoma",Church marketing rep.,2
+12,Erin Harper,25,"Seattle, Washington",Event planner,2
+12,Michelle Procopio,28,"Syracuse, New York",Administrative assistant,2
+12,Alyssa Johnson,24,"Boise, Idaho",Biology student,1
+12,Amanda Peterman,26,"Cape Girardeau, Missouri",Law student,1
+12,Denise Gitsham,30,"Washington, D.C.",Attorney and former White House aide,1
+12,Devon Grisham,24,"Austin, Texas",Make-up artist,1
+12,Lesley Geyer,23,"Tampa, Florida",Youth minister,1
+12,Michele Romero,33,"Laguna Niguel, California",Interior designer,1
+12,Rebecca LeBlanc,30,"Alamo, California",Attorney,1
+12,Stacey Elza,26,"Chicago, Illinois",Graduate student,1
+12,Tamara Marco,23,"Beverly Hills, California",Cocktail waitress,1
+12,Tiffany Hickenbottom,33,"San Francisco, California",Real estate marketing rep.,1
+13,Melissa Rycroft,25,"Dallas, Texas",Sales Representative,winner
+13,Molly Malaney,24,"Brookfield, Wisconsin",Department Store Buyer,runnerUp
+13,Jillian Harris,29,"Peace River, Alberta",Interior Designer,7
+13,Naomi Crespo,24,"Carlsbad, California",Flight Attendant,6
+13,Stephanie Hogan,34,"Huntsville, Alabama",Medical Marketing Representative,5
+13,Lauren Wanger,27,"Marlboro, New Jersey",Teacher,4
+13,Megan Parris,25,"Sewickley, Pennsylvania",Lacrosse Coach,4
+13,Shannon Bair,29,"Marshall, Missouri",Dental Hygienist,4
+13,Nikki Kaapke,29,"Blue Island, Illinois",Administrative Assistant,4
+13,Erica DeSimone,25,"Monroe, Connecticut",Account Executive,3
+13,Kari Fajen,27,"Lee's Summit, Missouri",Account Executive,3
+13,Natalie Getz,27,"Morton, Illinois",Human Resources Recruiter,3
+13,Raquel Medeiros,27,"Recife, Pernambuco",Medical Student,2
+13,Sharon Staebell,32,"Batavia, New York",Teacher,2
+13,Lisa Gonzalez,28,"Boise, Idaho",Public Relations Associate,2
+13,Ann Lueders,24,"Phoenix, Arizona",Flight Attendant,1
+13,Dominique Carta,26,"Mount Carmel, Pennsylvania",Medical Sales Representative,1
+13,Emily,23,"Seattle, Washington",Casino Marketing Representative,1
+13,Jackie Hickley,26,"Springfield, Massachusetts",Wedding Coordinator,1
+13,Julie Dermotta,26,"Columbus, Ohio",Teacher,1
+13,Nicole Mah,25,"Calgary, Alberta",Menswear Buyer,1
+13,Renee Simlak,36,"Southfield, Michigan",Jewelry Designer,1
+13,Shelby Callas,23,"Stockton, California",Account Executive,1
+13,Stacia Mann,24,"Orem, Utah",Charity Accountant,1
+13,Treasure Morgan,28,"Salt Lake City, Utah",Nurse Practitioner,1
+14,Vienna Girardi,23,"Geneva, Florida",Marketing Representative,winner
+14,Tenley Molzahn,25,"Newberg, Oregon",College Admissions,runnerUp
+14,Gia Allemand,26,"Manorville, New York",Swimsuit Model,7
+14,Ali Fedotowsky,25,"Williamstown, Massachusetts",Advertising Account Manager,6
+14,Corrie Adamson,23,"Kissimmee, Florida",Wardrobe Consultant,5
+14,Ashleigh Hunt,25,"North Potomac, Maryland",Account Manager,4
+14,Jessica Sulidis,25,"Oakville, Ontario",Cosmetic Sales Manager,4
+14,Kathryn Sherlock,25,"Lexington, Kentucky",Corporate Flight Attendant,4
+14,Ella Nolan,30,"La Follette, Tennessee",Hair Stylist,4
+14,Elizabeth Kitt (NE),29,"Imperial, Nebraska",Nanny,3
+14,Valishia Savage,32,"San Bernardino, California",Homemaker,3
+14,Michelle Kujawa,26,"Anaheim, California",Office Manager,3
+14,Ashley Elmore,29,"Pittsburgh, Pennsylvania",Teacher,2
+14,Christina McCasland,25,"Encinitas, California",Restaurant Manager,2
+14,Rozlyn Papa,28,"Richmond, Virginia",Model/Make-Up Artist,2
+14,Alexa McAllister,25,"Galloway, Ohio",Entrepreneur,1
+14,Caitlyn McCabe,24,"Winfield, Illinois",Spokesmodel,1
+14,Channy Choch,29,"Santa Rosa, California",Mortgage Loan Officer,1
+14,Elizabeth Kreft (D.C.),29,"Union, Kentucky","Captain, Air National Guard",1
+14,Emily Harkins,23,"West Chester, Ohio",Fit Model,1
+14,Kimberly Sullivan,24,"Norman, Oklahoma",NBA Dancer,1
+14,Kirsten Pittman,25,"Aurora, Colorado",Waitress,1
+14,Sheila Lidner,25,"Scottsdale, Arizona",Commercial Pilot,1
+14,Stephanie Mueller,24,"Morris, Illinois",Dance Teacher,1
+14,Tiana Kruzel,31,"Calgary, Alberta",Medical Technician,1
+17,Catherine Giudici,26,"Seattle, Washington",Graphic Designer,winner
+17,Lindsay Yenter,24,"Fort Leonard Wood, Missouri",Substitute Teacher,runnerUp
+17,AshLee Frazier,32,"Houston, Texas",Personal Organizer,9
+17,Desiree Hartsock,26,"Northglenn, Colorado",Bridal Stylist,8
+17,Lesley Murphy,25,"Fort Smith, Arkansas",Political Consultant,7
+17,Tierra LiCausi,24,"Las Vegas, Nevada",Leasing Consultant,7
+17,Daniella McBride,24,"Belmont, California",Commercial Casting Associate,6
+17,Selma Alameri,29,"Borrego Springs, California",Real Estate Dealer,6
+17,Sarah Herron,26,"Evergreen, Colorado",Advertising Executive,6
+17,Robyn Howard,24,"Topeka, Kansas",Oil Field Account Manager,5
+17,Jacqueline Parr,25,"Ormond Beach, Florida",Cosmetics Consultant,5
+17,Amanda Meyer,26,"Bakersfield, California",Fit Model,4
+17,Leslie Hughes,28,"Ruskin, Florida",Poker Dealer,4
+17,Kristina Kaminski,25,"Darien, Wisconsin",Model,3
+17,Taryn Renee Daniels,30,"Troutdale, Oregon",Health Club Manager,3
+17,Kacie Boguskie,25,"Clarksville, Tennessee",Administrative Assistant,3
+17,Brooke Burchette,25,"Pittsburgh, Pennsylvania",Community Organizer,2
+17,Diana Weeks Willardson,31,"Sandy, Utah",Salon Owner,2
+17,Katherine Levans,27,"Woodstock, Illinois",Yoga Instructor,2
+17,Ashley Harper,25,"Garner, North Carolina",Fashion Model,1
+17,Ashley Palenkas,28,"Macomb, Michigan",Hair Stylist,1
+17,Kelly Dutton,28,"Chattanooga, Tennessee",Cruise Ship Entertainer,1
+17,Keriann Miranda,29,"Agoura Hills, California",Entrepreneur,1
+17,Lacey Latka,24,"Stevenson Ranch, California",Graduate Student,1
+17,Lauren Marchetti,27,"Cranston, Rhode Island",Journalist,1
+17,Paige Vigil,25,"Minnetonka, Minnesota",Jumbotron Operator,1
+18,Nikki Ferrell,26,"Kearney, Missouri",Pediatric Nurse,winner
+18,Clare Crawley,32,"Sacramento, California",Hairstylist,runnerUp
+18,Andi Dorfman,26,"Buckhead, Georgia",Assistant District Attorney,9
+18,Renee Oteri,32,"Martha's Vineyard, Massachusetts",Real Estate Agent,8
+18,Chelsie Webster,24,"Lexington, Ohio",Science Educator,7
+18,Sharleen Joynt,29,"Ottawa, Ontario",Opera Singer,7
+18,Katherine Hurd,29,"Iowa City, Iowa",Medical Sales Rep,6
+18,Cassandra Ferguson,22,"Rochester Hills, Michigan",Former NBA Dancer,6
+18,Allison Restko,26,"Orland Park, Illinois",Nanny,5
+18,Danielle Ronco,25,"Litchfield, Illinois",Psychiatric Nurse,5
+18,Kelly Travis,27,"Conyers, Georgia",Dog Lover,5
+18,Elise Mosca,27,"Forty Fort, Pennsylvania",First Grade Teacher,4
+18,Lauren Solomon,26,"Clinton, Michigan",Music Composer,4
+18,Christy Hansen,24,"Aurora, Illinois",Marketing Manager,3
+18,Lucinda Aragon,25,"Santa Barbara, California",Free Spirit,3
+18,Amy Long,27,"Clermont, Florida",Local News Reporter,2
+18,Chantel Forrest,27,"Miami, Florida",Account Manager,2
+18,Victoria Lima,24,"Porto Alegre, Brazil",Legal Assistant,2
+18,Alexis Morgado,24,"Tampa, Florida",Communications Director,1
+18,Amy Jokinen,31,"Apopka, Florida",Massage Therapist,1
+18,Ashley Poe,25,"Roanoke, Texas",Grade School Teacher,1
+18,Christine Llano,23,"Miami, Florida",Police Support Specialist,1
+18,Kylie Lewis,23,"Rockford, Illinois",Interior Designer,1
+18,Lacy Faddoul,25,"Antelope Acres, California",Nursing Home Owner,1
+18,Lauren Higginson,25,"Edmond, Oklahoma",Mineral Coordinator,1
+18,Maggie Gantt,25,"Wagener, South Carolina",Personal Banker,1
+18,Valerie Eredia,26,"Sutter, California",Personal Trainer,1
+19,Whitney Bischoff,29,"Louisville, Kentucky",Fertility Nurse,winner
+19,Becca Tilley,25,"Shreveport, Louisiana",Chiropractic Assistant,runnerUp
+19,Kaitlyn Bristowe,29,"Leduc, Alberta",Dance Instructor,9
+19,Jade Roper,28,"Gering, Nebraska",Cosmetics Developer,8
+19,Carly Waddell,29,"Arlington, Texas",Cruise Ship Singer,7
+19,Britt Nilsson,27,"Wolcott Mills, Michigan",Waitress,7
+19,Megan Bell,24,"Brentwood, Tennessee",Make-Up Artist,6
+19,Kelsey Poe,28,"Hudsonville, Michigan",Guidance Counselor,6
+19,Ashley Iaconetti,26,"Great Falls, Virginia",Journalist,6
+19,Mackenzie Deonigi,21,"Maple Valley, Washington",Dental Assistant,5
+19,Samantha Steffen,27,"Indianapolis, Indiana",Fashion Designer,5
+19,Ashley Salter,24,"Vinings, Georgia",Hair Stylist,4
+19,Juelia Kinney,30,"Beaverton, Oregon",Esthetician,4
+19,Nikki Delventhal,26,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader,4
+19,Jillian Anderson,25,"Howland, Ohio",News Producer,4
+19,Amber James,29,"Kankakee, Illinois",Bartender,3
+19,Tracy Darakis,29,"Wellington, Florida",Fourth Grade Teacher,3
+19,Trina Scherenberg,33,"Algonquin, Illinois",Special Education Teacher,3
+19,Alissa Giambrone,24,"Hamilton, New Jersey",Flight Attendant,2
+19,Jordan Branch,24,"Windsor, Colorado",Student,2
+19,Kimberly Sherbach,28,"Wantagh, New York",Yoga Instructor,2
+19,Tandra Steiner,30,"Sandy, Utah",Executive Assistant,2
+19,Tara Eddings,26,"Fort Lauderdale, Florida",Sport Fishing Enthusiast,2
+19,Amanda Goerlitz,24,"Lake in the Hills, Illinois",Ballet Teacher,1
+19,Bo Stanley,25,"Carpinteria, California",Plus-Size Model,1
+19,Brittany Fetkin,26,"Temecula, California",WWE Diva-in-Training,1
+19,Kara Wilson,25,"Brownsville, Kentucky",High School Soccer Coach,1
+19,Michelle Davis,25,"Provo, Utah",Wedding Cake Baker,1
+19,Nicole Meacham,31,"Scottsdale, Arizona",Real Estate Agent,1
+19,Reegan Cornwell,28,"Manhattan Beach, California",Cadaver Tissue Saleswoman,1
+20,Lauren Bushnell,25,"West Linn, Oregon",Flight Attendant,winner
+20,Joelle Fletcher,24,"Dallas, Texas",Real Estate Developer,runnerUp
+20,Caila Quinn,24,"Hudson, Ohio",Software Sales Representative,9
+20,Amanda Stanton,25,"Laguna Beach, California",Esthetician,8
+20,Becca Tilley,26,"Shreveport, Louisiana",Chiropractic Assistant,7
+20,Emily Ferguson,23,"Las Vegas, Nevada",Waitress,6
+20,Lauren Himle,25,"Dexter, Michigan",Kindergarten Teacher,6
+20,Olivia Caridi,23,"Austin, Texas",Former News Anchor,6
+20,Leah Block,25,"Greenwood Village, Colorado",Event Planner,6
+20,Jennifer Saviano,25,"Davie, Florida",Small Business Owner,5
+20,Jubilee Sharpe,24,"Fort Lauderdale, Florida",War Veteran,5
+20,Amber James,30,"Kankakee, Illinois",Bartender,4
+20,Rachel Tchen,23,"Little Rock, Arkansas",Unemployed,4
+20,Haley Ferguson,23,"Las Vegas, Nevada",Waitress,4
+20,Jami Letain,23,"St. Albert, Alberta",Bartender,3
+20,Shushanna Mkrtychyan,27,"Salt Lake City, Utah",Property Manager,3
+20,Lace Morris,25,"Denver, Colorado",Real Estate Agent,3
+20,Amanda Kremer,28,"Portland, Oregon",Dentist,2
+20,Jacqueline Dion,23,"Newport Beach, California",Gerontologist,2
+20,Samantha Passmore,26,"New Smyrna Beach, Florida",Attorney,2
+20,Lauren Barr,23,"Stillwater, Oklahoma",Fashion Buyer,2
+20,Breanne Rice,30,"Seattle, Washington",Nutritional Therapist,1
+20,Isabel Goodkind,24,"Branford, Connecticut",Graphic Designer,1
+20,Jessica Moser,23,"Boca Raton, Florida",Accountant,1
+20,Laura Esselman,24,"Louisville, Kentucky",Account Executive,1
+20,Lauren Russell,26,"Houston, Texas",Math Teacher,1
+20,Maegan Miller,30,"Visalia, California",Cowgirl,1
+20,Tiara Soleim,27,"Redmond, Washington",Chicken Enthusiast,1
+21,Vanessa Grimaldi,29,"Montreal, Quebec",Special Education Teacher,winner
+21,Raven Gates,25,"Hoxie, Arkansas",Fashion Boutique Owner,runnerUp
+21,Rachel Lindsay,31,"Dallas, Texas",Attorney,9
+21,Corinne Olympios,24,"Miami, Florida",Business Owner,8
+21,Kristina Schulman,24,"Lexington, Kentucky",Dental Hygienist,7
+21,Danielle Maltby,31,"Colgate, Wisconsin",Neonatal Nurse,7
+21,Danielle Lombard,27,"Danville, California",Small Business Owner,6
+21,Whitney Fransway,25,"Chanhassen, Minnesota",Pilates Instructor,6
+21,Jasmine Goode,29,"Maplewood, New Jersey",Pro Basketball Dancer,6
+21,Alexis Waters,23,"Secaucus, New Jersey",Aspiring Dolphin Trainer,5
+21,Jaimi King,28,"New Orleans, Louisiana",Chef,5
+21,Josephine Tutman,24,"Santa Cruz, California",Registered Nurse,5
+21,Taylor Nolan,23,"Seattle, Washington",Mental Health Counselor,5
+21,Astrid Loch,26,"Tampa, Florida",Plastic Surgery Office Manager,4
+21,Sarah Vendal,26,"Palmdale, California",Grade School Teacher,4
+21,Brittany Farrar,26,"Santa Monica, California",Travel Nurse,3
+21,Christen Whitney,25,"Martinsville, Indiana",Wedding Videographer,3
+21,Dominique Alexis,25,"Los Angeles, California",Restaurant Server,3
+21,Elizabeth Whitelaw,24,"New Trier, Illinois",Marketing Manager,2
+21,Hailey Merkt,23,"Vancouver, British Columbia",Photographer,2
+21,Lacey Mark,25,"Montville, New Jersey",Digital Marketing Manager,2
+21,Elizabeth Sandoz,29,"Scottsbluff, Nebraska",Doula,2
+21,Angela Amezcua,26,"Cumberland, Maryland",Model,1
+21,Briana Guertler,28,"Salt Lake City, Utah",Surgical Unit Nurse,1
+21,Ida Marie DeLosSantos,23,"Harlingen, Texas",Sales Manager,1
+21,Jasmine Brown,25,"Tacoma, Washington",Flight Attendant,1
+21,Lauren Hussey,30,"Naples, Florida",Law School Graduate,1
+21,Michelle Ramkissoon,24,"Silver Spring, Maryland",Food Truck Owner,1
+21,Olivia Burnette,25,"Anchorage, Alaska",Apparel Sales Representative,1
+21,Susannah Milan,26,"Jamul, California",Account Manager,1
+22,Becca Kufrin,27,"Prior Lake, Minnesota",Publicist,winner
+22,Lauren Burnham,25,"Virginia Beach, Virginia",Technology Salesperson,runnerUp
+22,Kendall Long,26,"Santa Clarita, California",Creative Director,9
+22,Tia Booth,26,"Weiner, Arkansas",Physical Therapist,8
+22,Bekah Martinez,22,"Clovis, California",Nanny,7
+22,Seinne Fleming,27,"Long Beach, California",Commercial Real Estate Agent,7
+22,Jacqueline Trumbull,26,"Morgantown, West Virginia",Research Coordinator,7
+22,Chelsea Roy,29,"South Portland, Maine",Real Estate Executive Assistant,6
+22,Jenna Cooper,28,"Upland, Indiana",Social Media Manager,6
+22,Krystal Nielson,29,"Missoula, Montana",Fitness Coach,6
+22,Ashley Luebke,25,"West Palm Beach, Florida",Real Estate Agent,5
+22,Maquel Cooper,23,"American Fork, Utah",Photographer,5
+22,Marikh Mathias,27,"Salt Lake City, Utah",Restaurant Owner,5
+22,Brittany Taylor,30,"Belton, South Carolina",Tech Recruiter,4
+22,Caroline Lunny,26,"Holliston, Massachusetts",Realtor,4
+22,Bibiana Julian,30,"Miami, Florida",Executive Assistant,3
+22,Annaliese Puccini,32,"San Mateo, California",Event Designer,3
+22,Lauren Schleyer,31,"Dallas, Texas",Social Media Manager,3
+22,Jennifer Delaney,25,"Northbrook, Illinois",Graphic Designer,2
+22,Lauren Griffin,26,"Indianapolis, Indiana",Executive Recruiter,2
+22,Valerie Biles,26,"Nashville, Tennessee",Server,2
+22,Alison Harrington,27,"Lawton, Oklahoma",Personal Stylist,1
+22,Amber Wilkerson,29,"Denver, Colorado",Business Owner,1
+22,Brianna Amaranthus,25,"Grants Pass, Oregon",Sports Reporter,1
+22,Brittane Johnson,27,"San Diego, California",Marketing Manager,1
+22,Jessica Carroll,26,"Calgary, Alberta",Television Host,1
+22,Lauren Jarreau,33,"New Roads, Louisiana",Recent Master's Graduate,1
+22,DNysha Norris,30,"Anderson, South Carolina",Orthopedic Nurse,1
+22,Olivia Goethals,23,"Geneseo, Illinois",Marketing Associate,1
+23,Cassie Randolph,23,"Huntington Beach, California",Speech Pathologist,winner
+23,Hannah Godwin,23,"Birmingham, Alabama",Content Creator,9
+23,Tayshia Adams,28,"Santa Ana, California",Phlebotomist,9
+23,Caelynn Miller-Keyes,23,"Fredericksburg, Virginia",Miss North Carolina USA 2018,8
+23,Kirpa Sudick,26,"Whittier, California",Dental Hygienist,7
+23,Heather Martin,23,"Carlsbad, California",Assistant Program Manager,7
+23,Hannah Brown,24,"Northport, Alabama",Miss Alabama USA 2018,7
+23,Katie Morton,26,"Oviedo, Florida",Medical Sales Representative,6
+23,Demi Burnett,23,"Red Oak, Texas",Interior Designer,6
+23,Sydney Lotuaco,27,"Virginia Beach, Virginia",NBA Dancer,6
+23,Nicole Lopez-Alvar,25,"Miami, Florida",Social Media Coordinator,5
+23,Onyeka Ehie,24,"Manhattan, Kansas",IT Risk Consultant,5
+23,Elyse Dehlbom,31,"Soldotna, Alaska",Makeup Artist,5
+23,Courtney Curtis,23,"McDonough, Georgia",Caterer,4
+23,Tracy Shapoff,31,"Rochester, New York",Wardrobe Stylist,4
+23,Brianna Barnes,24,"Chino Hills, California",Model,3
+23,Catherine Agro,26,"Fort Lauderdale, Florida",DJ,3
+23,Nina Bartula,30,"Raleigh, North Carolina",Sales Account Manager,3
+23,Caitlin Clemmens,25,"Toronto, Ontario",Realtor,3
+23,Alex Blumberg,29,"Vancouver, British Columbia",Dog Rescuer,2
+23,Angelique Sherman,28,"Hamilton, New Jersey",Marketing Salesperson,2
+23,Annie Reardon,23,"Mequon, Wisconsin",Financial Associate,2
+23,Erika McNutt,25,"Encinitas, California",Recruiter,2
+23,Alex Dillon,23,"Dennis, Massachusetts",Sloth,1
+23,Devin Gooden,23,"Medford, Oregon",Broadcast Journalist,1
+23,Erin Landry,28,"Plano, Texas",Cinderella,Week1
+23,Adrianne Averbukh,26,"West Hollywood, California",Social Worker,1
+23,Laura Pellerito,26,"Dallas, Texas",Accountant,1
+23,Revian Chang,24,"Plano, Texas",Nurse,1
+23,Tahzjuan Hawkins,25,"Castle Pines, Colorado",Business Development Associate,1
+24,Hannah Ann Sluss,23,"Powell, Tennessee",Model,winner
+24,Madison Prewett,23,"Auburn, Alabama",Foster Parent Recruiter,runnerUp
+24,Victoria Fuller,26,"Virginia Beach, Virginia",Medical Sales Rep,9
+24,Kelsey Weier,28,"Urbandale, Iowa",Professional Clothier,8
+24,Kelley Flanagan,27,"North Barrington, Illinois",Attorney,7
+24,Natasha Parker,31,"Manhattan, New York",Event Planner,7
+24,Mykenna Dorn,22,"Langley, British Columbia",Fashion Blogger,6
+24,Sydney Hightower,24,"Northport, Alabama",Retail Marketing Manager,6
+24,Tammy Ly,24,"Syracuse, New York",House Flipper,6
+24,Victoria Paul,27,"Alexandria, Louisiana",Nurse,6
+24,Lexi Buchanan,26,"Jacksonville, Florida",Marketing Coordinator,5
+24,Shiann Lewis,27,"Las Vegas, Nevada",Administrative Assistant,5
+24,Deandra Kanu,23,"Bar Harbor, Maine",Home Care Coordinator,4
+24,Kiarra Norman,23,"Kennesaw, Georgia",Nanny,4
+24,Savannah Mullins,27,"Houston, Texas",Realtor,4
+24,Alayah Benavidez,24,"Helotes, Texas",Orthodontist Assistant,4
+24,Alexa Caves,27,"Springfield, Illinois",Esthetician,4
+24,Jasmine Nguyen,25,"Houston, Texas",Client Relations Manager,4
+24,Sarah Coffin,24,"Knoxville, Tennessee",Medical Radiographer,4
+24,Courtney Perry,26,"Venice, Florida",Cosmetologist,2
+24,Lauren Jones,26,"Glendale, California",Marketing Executive,2
+24,Payton Moran,24,"Wellesley, Massachusetts",Business Development Rep,2
+24,Avonlea Elkins,27,"Fort Worth, Texas",Cattle Rancher,1
+24,Eunice Cho,23,"Chicago, Illinois",Flight Attendant,1
+24,Jade Gilliland,26,"Mesa, Arizona",Media Buyer,1
+24,Jenna Serrano,22,"New Lenox, Illinois",Nursing Student,1
+24,Katrina Badowski,28,"St. Charles, Illinois",Pro NBA Dancer,1
+24,Kylie Ramos,26,"Davis, California",Entertainment Sales Associate,1
+24,Maurissa Gunn,23,"Laurel, Montana",Patient Care Coordinator,1
+24,Megan Hops,26,"San Bruno, California",Flight Attendant,1
+25,Rachael Kirkconnell,24,"Cumming, Georgia",Graphic Designer,winner
+25,Michelle Young,27,"Woodbury, Minnesota",Teacher,runnerUp
+25,Briana Springs,24,"San Antonio, Texas",Communications Manager,9
+25,Serena Pitt,23,"Markham, Ontario",Publicist,8
+25,Pieper James,23,"Happy Valley, Oregon",Graduate Student,8
+25,Jessenia Cruz,27,"El Paso, Texas",Social Media Marketer,8
+25,Kit Keenan,21,"Manhattan, New York",Fashion Entrepreneur,7
+25,Abigail Heringer,25,"Salem, Oregon",Client Financial Manager,7
+25,Chelsea Vaughn,29,"Marietta, Georgia",Runway Model,6
+25,Serena Chew,24,"San Bruno, California",Flight Attendant,6
+25,Katie Thurston,29,"Lynnwood, Washington",Bank Marketing Manager,6
+25,Brittany Galvin,23,"Hinsdale, Illinois",Model,5
+25,Mearg Tareke,32,"Adwa, Ethiopia",Pharmacist,5
+25,Ryan Claytor,26,"Mechanicsville, Virginia",Dancer/Choreographer,5
+25,Meredith Snyder,23,"Hudson, Ohio",Hairstylist,5
+25,Catalina Morales,29,"Caguas, Puerto Rico",Former Miss Universe Puerto Rico,4
+25,Lauren Maddox,29,"Miami, Florida",Corporate Attorney,4
+25,Mariela Pepin,24,"Severn, Maryland",Marketing Director,4
+25,Victoria Larson,27,"Los Angeles, California",Queen,4
+25,Anna Redman,24,"Owatonna, Minnesota",Copywriter,4
+25,Kaili Anderson,26,"San Diego, California",Hostess,3
+25,Khaylah Epps,28,"Durham, North Carolina",Healthcare Advocate,3
+25,Kimberly Li,28,"Cypress, California",ICU Nurse,3
+25,Sarah Trott,24,"Scripps Ranch, California",Broadcast Journalist,3
+25,Alana Milne,26,"San Antonio, Texas",Photographer,2
+25,Illeana Pennetto,25,"South Salem, New York",Health Food Developer,2
+25,Kristin Hopkins,27,"Virginia Beach, Virginia",Attorney,2
+25,Marylynn Sienna,28,"Huntington Beach, California",Event Coordinator,2
+25,Sydney Johnson,28,"Franklin, Tennessee",Marketing Specialist,2
+25,Alicia Holloway,24,"Morgantown, West Virginia",Professional Ballerina,1
+25,Amber Andrews,30,"Rialto, California",Nursing Student,1
+25,Carolyn Vallejo,30,"Newburyport, Massachusetts",Journalist,1
+25,Casandra Suarez,25,"Lodi, California",Social Worker,1
+25,Corrinne Jones,22,"Pomfret, Connecticut",Marketing Manager,1
+25,Emani Curl,25,"Albuquerque, New Mexico",Realtor,1
+25,Kimberly Courneya,28,"Lake Tapps, Washington",Airline Recruiter,1
+25,Saneh Ste. Claire,25,"Vilano Beach, Florida",IT Consultant,1
+26,Susie Evans,28,"Poquoson, Virginia",Wedding Videographer,winner
+26,"Gabriela ""Gabby"" Windey",30,"O'Fallon, Illinois",ICU Nurse,runnerUp
+26,Rachel Recchia,25,"Clermont, Florida",Flight Instructor,9
+26,Serene Russell,26,"Oklahoma City, Oklahoma",Elementary School Teacher,8
+26,Teddi Wright,24,"Redlands, California",Surgical Unit Nurse,7
+26,Sarah Hamrick,23,"Spartanburg, South Carolina",Wealth Management Advisor,7
+26,Genevieve Parisi,26,"Rehoboth, Massachusetts",Bartender,7
+26,Eliza Isichei,25,"Tampa, Florida",Marketing Manager,6
+26,Mara Agrait,32,"Collingswood, New Jersey",Entrepreneur,6
+26,Hunter Haag,28,"Lake Wylie, South Carolina",Human Resources Specialist,5
+26,Marlena Wesh,30,"Virginia Beach, Virginia",Former Olympian,5
+26,Shanae Ankney,29,"Sycamore, Ohio",Recruiter,5
+26,Jillian Chin,26,"Scituate, Rhode Island",Architectural Historian,4
+26,Lyndsey Windham,28,"Orange, Texas",Industrial Sales Representative,4
+26,Sierra Jackson,26,"Oklahoma City, Oklahoma",Yoga Instructor,4
+26,Elizabeth Corrigan,32,"Highlands Ranch, Colorado",Real Estate Advisor,3
+26,Kira Mengistu,32,"Greensboro, North Carolina",Physician,3
+26,Melina Nasab,27,"West Hollywood, California",Personal Trainer,3
+26,Ency Abedin,28,"Burbank, California",Sales Manager,2
+26,Kate Gallivan,32,"Clarksville, Tennessee",Real Estate Agent,2
+26,Tessa Tookes,26,"Stamford, Connecticut",Human Resources Specialist,2
+26,Cassidy Timbrooks,26,"Cave Creek, Arizona",Executive Recruiter,2
+26,Daria Rose,24,"Baldwin, New York",Law Student,1
+26,Hailey Malles,26,"Orlando, Florida",Pediatric Nurse,1
+26,Ivana Noble,31,"Snellville, Georgia",Bar Mitzvah Dancer,1
+26,Jane Paik,33,"Santa Monica, California",Social Media Director,1
+26,Lindsay Dobbs,27,"Warner Robins, Georgia",Neonatal Nurse,1
+26,Rianna Hockaday,26,"Mount Pleasant, Texas",Registered Nurse,1
+26,Samantha Jeffries,26,"Dayton, Ohio",Occupational Therapist,1
+26,Claire Heilig,28,"Virginia Beach, Virginia",Spray Tanner,1
+27,Kaitlyn Biggar,27,"Kingston, Ontario",Travel Nurse,winner
+27,Gabriella Elnicki,25,"Pittsford, Vermont",Senior Account Executive,runnerUp
+27,Ariel Frenkel,28,"Manhattan, New York",Marketing Executive,9
+27,Charity Lawson,26,"Columbus, Georgia",Child and Family Therapist,8
+27,Katherine Izzo,26,"Tampa, Florida",Registered Nurse,7
+27,Brooklyn Willie,25,"Mineola, Texas",Rodeo Racer,7
+27,Greer Blitzer,24,"Bellaire, Texas",Medical Sales Representative,7
+27,Alyssa Jacobs,26,"Smyrna, Georgia",Healthcare Strategist,6
+27,Jessica Girod,23,"Winter Springs, Florida",E-Commerce Coordinator,6
+27,Kylee Russell,25,"Charlotte, North Carolina",Postpartum Nurse,5
+27,Mercedes Northup,24,"Bloomfield, Iowa",Nonprofit Case Manager,5
+27,Davia Bunch,25,"Roebuck, South Carolina",Marketing Manager,4
+27,Genevie Mayo,26,"Joppa, Maryland",Neonatal Nurse,4
+27,Anastasia Keramidas,30,"Baltimore, Maryland",Content Marketing Manager,4
+27,Christina Mandrell,26,"Hendersonville, Tennessee",Content Creator,3
+27,Brianna Thorbourne,24,"Jersey City, New Jersey",Entrepreneur,3
+27,Bailey Brown,27,"Brentwood, Tennessee",Executive Recruiter,3
+27,Catherine Wong,26,"Bushwick, New York",Professional Dancer,2
+27,Kimberly Gutierrez,30,"Stroudsburg, Pennsylvania",Hospitality Manager,2
+27,Victoria Jameson,30,"Keller, Texas",Professional Makeup Artist,2
+27,Becca Serrano,25,"Burbank, California",Nursing Student,1
+27,Cara Ammon,27,"McCandless, Pennsylvania",Corporate Recruiter,1
+27,Holland Parsons,24,"Boca Raton, Florida",Insurance Marketer,1
+27,Lekha Ravi,29,"Miami, Florida",Financial Advisor,1
+27,Olivia Lewis,24,"Churchville, New York",Patient Care Technician,1
+27,Olivia Miller,25,"Delphos, Ohio",Stylist,1
+27,Sonia Sharma,29,"Jericho, New York",Project Manager,1
+27,Vanessa Dinh,23,"Farmington Hills, Michigan",Restaurant Marketer,1
+27,Viktoria Eichner,29,"Vienna, Austria",Nanny,1
+27,Madison Johnson,26,"Fargo, North Dakota",Business Owner,1
+28,Kelsey Anderson,25,"Leesville, Louisiana",Junior Project Manager,winner
+28,Daisy Kent,25,"Becker, Minnesota",Account Executive,runnerUp
+28,Rachel Nance,26,"Honolulu, Hawaii",ICU Nurse,9
+28,Maria Georgas,29,"Kleinburg, Ontario",Executive Assistant,8
+28,Jennifer Tran,25,"Hillsdale, New Jersey",PA Student,7
+28,Kelsey Toussant,31,"Inglewood, California",Actress,7
+28,Katelyn DeBacker,26,"Santa Fe, New Mexico",Radiochemist,6
+28,Lea Cayanan,23,"Waipahu, Hawaii",Account Manager,6
+28,Lexi Young,30,"Pataskala, Ohio",Digital Strategist,6
+28,Jessica Edwards,24,"Erwin, Tennessee",Executive Assistant,6
+28,Autumn Waggoner,26,"De Soto, Missouri",Account Executive,5
+28,Madina Alam,31,"Charlotte, North Carolina",Mental Health Therapist,5
+28,Allison Hollinger,26,"Dover, Delaware",Realtor,4
+28,Edwina Dorbor,25,"Maple Grove, Minnesota",Entrepreneur,4
+28,Sydney Gordon,28,"Newport, Rhode Island",Vintage Store Owner,4
+28,Chrissa Perez,26,"Abbotsford, British Columbia",Marketing Director,3
+28,Evalin Clark,29,"San Antonio, Texas",Nanny,3
+28,Starr Skyler,25,"Delray Beach, Florida",Mental Health Counselor,3
+28,Erika Cardenas,25,"North Bergen, New Jersey",Leasing Agent,Week2
+28,Marlena Haddad,26,"Waterbury, Connecticut",Finance Writer,2
+28,Taylor Wiens,23,"Olathe, Kansas",Recruiter,2
+28,Lauren Hollinger,28,"Dover, Delaware",Registered Nurse,2
+28,Chandler Dewgard,24,"Brooklyn, New York",Graphic Designer,1
+28,Kayla Rodgers,27,"Hamilton, Ohio",Guidance Counselor,1
+28,Kyra Brusch,26,"Miami, Florida",Paralegal,1
+28,Lanie Latsios,27,"Glen Mills, Pennsylvania",Realtor,1
+28,Natalie Crepeau,26,"Sudbury, Ontario",Nursing Professor,1
+28,Samantha Hale,31,"Melville, New York",CPA,1
+28,Samantha Washington,25,"Lincoln, Nebraska",Miami Dolphins Cheerleader,1
+28,Sandra Rabadi,26,"Strongsville, Ohio",Cybersecurity Consultant,1
+28,Talyah Jackson,23,"Huntington Beach, California",Esthetician,1
+28,Zoe Antona,24,"Roswell, Georgia",Artist,1
