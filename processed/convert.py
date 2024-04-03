@@ -2,39 +2,25 @@ import csv
 import json
 
 
-
 def combine_csv_files(csv_files, combined_csv_file):
-    # Initialize an empty list to store rows
     data = []
 
-    # Iterate over each CSV file
     for csv_file in csv_files:
-        # Open the CSV file for reading
         with open(csv_file, 'r', newline='', encoding='utf-8') as csvfile:
-            # Read the CSV file using a dictionary reader
             csvreader = csv.DictReader(csvfile)
 
-            # Iterate over each row in the CSV file
             for row in csvreader:
-                # Append the row as a dictionary to the data list
                 data.append(row)
-                # Add a column to indicate the source CSV file
                 row['source'] = csv_file
 
-    # Write the data to a combined CSV file
     with open(combined_csv_file, 'w', newline='', encoding='utf-8') as csvfile:
-        # Get the fieldnames from the first row of the data
         fieldnames = data[0].keys()
 
-        # Create a dictionary writer
         csvwriter = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        # Write the fieldnames to the CSV file
         csvwriter.writeheader()
 
-        # Iterate over each row in the data
         for row in data:
-            # Write the row to the CSV file
             csvwriter.writerow(row)
 
 
@@ -66,3 +52,12 @@ csvFiles = [
 combined_csv_file = './all-seasons.csv'
 combine_csv_files(csvFiles, combined_csv_file)
 print(f'Combination complete. CSV file saved at: {combined_csv_file}')
+
+
+def load_data_into_df():
+    import pandas as pd
+
+    df = pd.read_csv('./all-seasons.csv')
+
+    print(df.head())
+    return df
