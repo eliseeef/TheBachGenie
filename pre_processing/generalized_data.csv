@@ -1,7 +1,7 @@
 season,name,age,hometown,job,outcome
 01,Amanda Marsh,23,Midwest,Event Planning,winner
 01,Trista Rehn,29,Midwest,Entertainment,runnerUp
-01,Shannon Oliver,24,South,Finance,midSeason
+01,Shannon Oliver,24,South,Finance,midExit
 01,Kimberly Karels,24,West,Childcare,earlyExit
 01,Cathy Grimes,22,Midwest,Education,earlyExit
 01,Christina Stencil,28,West,Law,earlyExit
@@ -26,8 +26,8 @@ season,name,age,hometown,job,outcome
 01,Wendi Plotnik,26,South,Technology,earlyExit
 02,Helene Eksterowicz,27,Northeast,Education,winner
 02,Brooke Smith,22,South,Education,runnerUp
-02,Gwen Gioia,31,Northeast,Human Resources,midSeason
-02,Angela Vaught,27,Midwest,Healthcare,midSeason
+02,Gwen Gioia,31,Northeast,Human Resources,midExit
+02,Angela Vaught,27,Midwest,Healthcare,midExit
 02,Hayley Crittenden,28,West,Retail,earlyExit
 02,Heather Cranford,30,South,Hospitality,earlyExit
 02,Christi Weible,23,West,Finance,earlyExit
@@ -50,9 +50,9 @@ season,name,age,hometown,job,outcome
 02,Merrilee Donohue,28,Northeast,Education,earlyExit
 02,Suzi Reid,28,South,Communication,earlyExit
 05,Jessica Bowlin,22,West,Education,winner
-05,Tara Huckeby,23,South,Construction,midSeason
-05,Mandy Jaye Jeffreys,26,South,Architecture,midSeason
-05,Trish Schneider,28,South,Entertainment,midSeason
+05,Tara Huckeby,23,South,Construction,midExit
+05,Mandy Jaye Jeffreys,26,South,Architecture,midExit
+05,Trish Schneider,28,South,Entertainment,midExit
 05,Karen Lindsay,28,West,Sales,earlyExit
 05,Suzie Williams,23,Midwest,Healthcare,earlyExit
 05,Jenny De Schiralli,26,South,Sports,earlyExit
@@ -75,9 +75,9 @@ season,name,age,hometown,job,outcome
 05,Kristin Clearwater,25,West,Entertainment,earlyExit
 05,Rachel Clementi,26,Northeast,Fashion,earlyExit
 09,Jennifer Wilson,24,South,Education,winner
-09,Sadie Murray,23,West,Public Relations,midSeason
-09,Lisa Blank,25,West,Marketing,midSeason
-09,Agnese Polliza,24,Foreign,Education,midSeason
+09,Sadie Murray,23,West,Public Relations,midExit
+09,Lisa Blank,25,West,Marketing,midExit
+09,Agnese Polliza,24,Foreign,Education,midExit
 09,Desiree Valentin,22,West,Real Estate,earlyExit
 09,Jeanette Pawula,23,Midwest,Education,earlyExit
 09,Erica Rose,23,South,Law,earlyExit
@@ -102,11 +102,11 @@ season,name,age,hometown,job,outcome
 09,Rosella Fratto,27,Midwest,Beauty,earlyExit
 09,Tara Durr,24,South,Real Estate,earlyExit
 10,Tessa Horst,26,West,Social Services,winner
-10,Bevin Nicole Powers,28,West,Administration,midSeason
-10,Danielle Imwalle,25,Northeast,Design,midSeason
-10,Amber Alchalabi,23,South,Education,midSeason
-10,Stephanie Wilhite,23,Midwest,Management,midSeason
-10,Tina Wu,26,Northeast,Medical,midSeason
+10,Bevin Nicole Powers,28,West,Administration,midExit
+10,Danielle Imwalle,25,Northeast,Design,midExit
+10,Amber Alchalabi,23,South,Education,midExit
+10,Stephanie Wilhite,23,Midwest,Management,midExit
+10,Tina Wu,26,Northeast,Medical,midExit
 10,Kate Brockhouse,24,South,Retail,earlyExit
 10,Nicole Clary,26,South,Sales,earlyExit
 10,Stephanie Tipper,27,South,Healthcare,earlyExit
@@ -128,10 +128,10 @@ season,name,age,hometown,job,outcome
 10,Tiffany Forester,27,Midwest,Real Estate,earlyExit
 11,DeAnna Pappas,25,South,Real Estate,runnerUp
 11,Jenni Croft,27,Midwest,Athlete,runnerUp
-11,Bettina Bell,27,Foreign,Real Estate,midSeason
-11,Sheena Stewart,23,West,Marketing,midSeason
-11,Hillary Reisinger,27,Northeast,Healthcare,midSeason
-11,Kristy Katzmann,29,Midwest,Healthcare,midSeason
+11,Bettina Bell,27,Foreign,Real Estate,midExit
+11,Sheena Stewart,23,West,Marketing,midExit
+11,Hillary Reisinger,27,Northeast,Healthcare,midExit
+11,Kristy Katzmann,29,Midwest,Healthcare,midExit
 11,McCarten Delaney,26,West,Management,earlyExit
 11,Estefania Leon,26,South,Administration,earlyExit
 11,Jade Beazley,24,South,Retail,earlyExit
@@ -153,10 +153,10 @@ season,name,age,hometown,job,outcome
 11,Susan Coolidge,35,Midwest,Business,earlyExit
 12,Shayne Lamas,22,West,Entertainment,winner
 12,Chelsea Wanstrath,25,West,Sales,runnerUp
-12,Amanda Rantuccio,27,South,Management,midSeason
-12,Noelle Drake,26,West,Arts,midSeason
-12,Marshana Ritchie,27,Northeast,Fashion,midSeason
-12,Robin Canfield,22,Midwest,Marketing,midSeason
+12,Amanda Rantuccio,27,South,Management,midExit
+12,Noelle Drake,26,West,Arts,midExit
+12,Marshana Ritchie,27,Northeast,Fashion,midExit
+12,Robin Canfield,22,Midwest,Marketing,midExit
 12,Ashlee Williss,22,South,Entertainment,earlyExit
 12,Kelly Hark,25,West,Sales,earlyExit
 12,Holly Durst,24,Midwest,Writing,earlyExit
@@ -178,9 +178,9 @@ season,name,age,hometown,job,outcome
 12,Tiffany Hickenbottom,33,West,Real Estate,earlyExit
 13,Melissa Rycroft,25,South,Sales,winner
 13,Molly Malaney,24,Midwest,Retail,runnerUp
-13,Jillian Harris,29,Foreign,Design,midSeason
-13,Naomi Crespo,24,West,Hospitality,midSeason
-13,Stephanie Hogan,34,South,Marketing,midSeason
+13,Jillian Harris,29,Foreign,Design,midExit
+13,Naomi Crespo,24,West,Hospitality,midExit
+13,Stephanie Hogan,34,South,Marketing,midExit
 13,Lauren Wanger,27,Northeast,Education,earlyExit
 13,Megan Parris,25,Northeast,Sports,earlyExit
 13,Shannon Bair,29,Midwest,Healthcare,earlyExit
@@ -203,9 +203,9 @@ season,name,age,hometown,job,outcome
 13,Treasure Morgan,28,West,Healthcare,earlyExit
 14,Vienna Girardi,23,South,Marketing,winner
 14,Tenley Molzahn,25,West,Education,runnerUp
-14,Gia Allemand,26,Northeast,Entertainment,midSeason
-14,Ali Fedotowsky,25,Northeast,Management,midSeason
-14,Corrie Adamson,23,South,Consulting,midSeason
+14,Gia Allemand,26,Northeast,Entertainment,midExit
+14,Ali Fedotowsky,25,Northeast,Management,midExit
+14,Corrie Adamson,23,South,Consulting,midExit
 14,Ashleigh Hunt,25,South,Management,earlyExit
 14,Jessica Sulidis,25,Foreign,Sales,earlyExit
 14,Kathryn Sherlock,25,South,Hospitality,earlyExit
@@ -228,15 +228,15 @@ season,name,age,hometown,job,outcome
 14,Tiana Kruzel,31,Foreign,Healthcare,earlyExit
 17,Catherine Giudici,26,West,Design,winner
 17,Lindsay Yenter,24,Midwest,Education,runnerUp
-17,AshLee Frazier,32,South,Organization,endSeason
-17,Desiree Hartsock,26,West,Fashion,midSeason
-17,Lesley Murphy,25,South,Consulting,midSeason
-17,Tierra LiCausi,24,West,Consulting,midSeason
-17,Daniella McBride,24,West,Entertainment,midSeason
-17,Selma Alameri,29,West,Real Estate,midSeason
-17,Sarah Herron,26,West,Marketing,midSeason
-17,Robyn Howard,24,Midwest,Management,midSeason
-17,Jacqueline Parr,25,South,Consulting,midSeason
+17,AshLee Frazier,32,South,Organization,lateExit
+17,Desiree Hartsock,26,West,Fashion,midExit
+17,Lesley Murphy,25,South,Consulting,midExit
+17,Tierra LiCausi,24,West,Consulting,midExit
+17,Daniella McBride,24,West,Entertainment,midExit
+17,Selma Alameri,29,West,Real Estate,midExit
+17,Sarah Herron,26,West,Marketing,midExit
+17,Robyn Howard,24,Midwest,Management,midExit
+17,Jacqueline Parr,25,South,Consulting,midExit
 17,Amanda Meyer,26,West,Entertainment,earlyExit
 17,Leslie Hughes,28,South,Gaming,earlyExit
 17,Kristina Kaminski,25,Midwest,Entertainment,earlyExit
@@ -254,15 +254,15 @@ season,name,age,hometown,job,outcome
 17,Paige Vigil,25,Midwest,Entertainment,earlyExit
 18,Nikki Ferrell,26,Midwest,Healthcare,winner
 18,Clare Crawley,32,West,Beauty,runnerUp
-18,Andi Dorfman,26,South,Law,endSeason
-18,Renee Oteri,32,Northeast,Real Estate,midSeason
-18,Chelsie Webster,24,Midwest,Education,midSeason
-18,Sharleen Joynt,29,Foreign,Entertainment,midSeason
-18,Katherine Hurd,29,Midwest,Sales,midSeason
-18,Cassandra Ferguson,22,Midwest,Entertainment,midSeason
-18,Allison Restko,26,Midwest,Childcare,midSeason
-18,Danielle Ronco,25,Midwest,Healthcare,midSeason
-18,Kelly Travis,27,South,Animal Care,midSeason
+18,Andi Dorfman,26,South,Law,lateExit
+18,Renee Oteri,32,Northeast,Real Estate,midExit
+18,Chelsie Webster,24,Midwest,Education,midExit
+18,Sharleen Joynt,29,Foreign,Entertainment,midExit
+18,Katherine Hurd,29,Midwest,Sales,midExit
+18,Cassandra Ferguson,22,Midwest,Entertainment,midExit
+18,Allison Restko,26,Midwest,Childcare,midExit
+18,Danielle Ronco,25,Midwest,Healthcare,midExit
+18,Kelly Travis,27,South,Animal Care,midExit
 18,Elise Mosca,27,Northeast,Education,earlyExit
 18,Lauren Solomon,26,Midwest,Music,earlyExit
 18,Christy Hansen,24,Midwest,Marketing,earlyExit
@@ -281,15 +281,15 @@ season,name,age,hometown,job,outcome
 18,Valerie Eredia,26,West,Fitness,earlyExit
 19,Whitney Bischoff,29,South,Healthcare,winner
 19,Becca Tilley,25,South,Administration,runnerUp
-19,Kaitlyn Bristowe,29,Foreign,Education,endSeason
-19,Jade Roper,28,Midwest,Beauty,midSeason
-19,Carly Waddell,29,South,Entertainment,midSeason
-19,Britt Nilsson,27,Midwest,Hospitality,midSeason
-19,Megan Bell,24,South,Beauty,midSeason
-19,Kelsey Poe,28,Midwest,Education,midSeason
-19,Ashley Iaconetti,26,South,Media,midSeason
-19,Mackenzie Deonigi,21,West,Administration,midSeason
-19,Samantha Steffen,27,Midwest,Fashion,midSeason
+19,Kaitlyn Bristowe,29,Foreign,Education,lateExit
+19,Jade Roper,28,Midwest,Beauty,midExit
+19,Carly Waddell,29,South,Entertainment,midExit
+19,Britt Nilsson,27,Midwest,Hospitality,midExit
+19,Megan Bell,24,South,Beauty,midExit
+19,Kelsey Poe,28,Midwest,Education,midExit
+19,Ashley Iaconetti,26,South,Media,midExit
+19,Mackenzie Deonigi,21,West,Administration,midExit
+19,Samantha Steffen,27,Midwest,Fashion,midExit
 19,Ashley Salter,24,South,Beauty,earlyExit
 19,Juelia Kinney,30,West,Beauty,earlyExit
 19,Nikki Delventhal,26,Northeast,Athlete,earlyExit
@@ -311,15 +311,15 @@ season,name,age,hometown,job,outcome
 19,Reegan Cornwell,28,West,Medical,earlyExit
 20,Lauren Bushnell,25,West,Hospitality,winner
 20,Joelle Fletcher,24,South,Real Estate,runnerUp
-20,Caila Quinn,24,Midwest,Sales,endSeason
-20,Amanda Stanton,25,West,Beauty,midSeason
-20,Becca Tilley,26,South,Administration,midSeason
-20,Emily Ferguson,23,West,Hospitality,midSeason
-20,Lauren Himle,25,Midwest,Education,midSeason
-20,Olivia Caridi,23,South,Media,midSeason
-20,Leah Block,25,West,Event Planning,midSeason
-20,Jennifer Saviano,25,South,Entrepreneurship,midSeason
-20,Jubilee Sharpe,24,South,Military,midSeason
+20,Caila Quinn,24,Midwest,Sales,lateExit
+20,Amanda Stanton,25,West,Beauty,midExit
+20,Becca Tilley,26,South,Administration,midExit
+20,Emily Ferguson,23,West,Hospitality,midExit
+20,Lauren Himle,25,Midwest,Education,midExit
+20,Olivia Caridi,23,South,Media,midExit
+20,Leah Block,25,West,Event Planning,midExit
+20,Jennifer Saviano,25,South,Entrepreneurship,midExit
+20,Jubilee Sharpe,24,South,Military,midExit
 20,Amber James,30,Midwest,Hospitality,earlyExit
 20,Rachel Tchen,23,South,Unemployment,earlyExit
 20,Haley Ferguson,23,West,Hospitality,earlyExit
@@ -339,17 +339,17 @@ season,name,age,hometown,job,outcome
 20,Tiara Soleim,27,West,Agriculture,earlyExit
 21,Vanessa Grimaldi,29,Foreign,Education,winner
 21,Raven Gates,25,South,Entrepreneurship,runnerUp
-21,Rachel Lindsay,31,South,Law,endSeason
-21,Corinne Olympios,24,South,Entrepreneurship,midSeason
-21,Kristina Schulman,24,South,Healthcare,midSeason
-21,Danielle Maltby,31,Midwest,Healthcare,midSeason
-21,Danielle Lombard,27,West,Entrepreneurship,midSeason
-21,Whitney Fransway,25,Midwest,Fitness,midSeason
-21,Jasmine Goode,29,Northeast,Entertainment,midSeason
-21,Alexis Waters,23,Northeast,Animal Care,midSeason
-21,Jaimi King,28,South,Food,midSeason
-21,Josephine Tutman,24,West,Healthcare,midSeason
-21,Taylor Nolan,23,West,Therapy,midSeason
+21,Rachel Lindsay,31,South,Law,lateExit
+21,Corinne Olympios,24,South,Entrepreneurship,midExit
+21,Kristina Schulman,24,South,Healthcare,midExit
+21,Danielle Maltby,31,Midwest,Healthcare,midExit
+21,Danielle Lombard,27,West,Entrepreneurship,midExit
+21,Whitney Fransway,25,Midwest,Fitness,midExit
+21,Jasmine Goode,29,Northeast,Entertainment,midExit
+21,Alexis Waters,23,Northeast,Animal Care,midExit
+21,Jaimi King,28,South,Food,midExit
+21,Josephine Tutman,24,West,Healthcare,midExit
+21,Taylor Nolan,23,West,Therapy,midExit
 21,Astrid Loch,26,South,Administration,earlyExit
 21,Sarah Vendal,26,West,Education,earlyExit
 21,Brittany Farrar,26,West,Healthcare,earlyExit
@@ -369,17 +369,17 @@ season,name,age,hometown,job,outcome
 21,Susannah Milan,26,West,Management,earlyExit
 22,Becca Kufrin,27,Midwest,Public Relations,winner
 22,Lauren Burnham,25,South,Sales,runnerUp
-22,Kendall Long,26,West,Design,endSeason
-22,Tia Booth,26,South,Healthcare,midSeason
-22,Bekah Martinez,22,West,Childcare,midSeason
-22,Seinne Fleming,27,West,Real Estate,midSeason
-22,Jacqueline Trumbull,26,South,Research,midSeason
-22,Chelsea Roy,29,Northeast,Administration,midSeason
-22,Jenna Cooper,28,Midwest,Marketing,midSeason
-22,Krystal Nielson,29,West,Fitness,midSeason
-22,Ashley Luebke,25,South,Real Estate,midSeason
-22,Maquel Cooper,23,West,Arts,midSeason
-22,Marikh Mathias,27,West,Hospitality,midSeason
+22,Kendall Long,26,West,Design,lateExit
+22,Tia Booth,26,South,Healthcare,midExit
+22,Bekah Martinez,22,West,Childcare,midExit
+22,Seinne Fleming,27,West,Real Estate,midExit
+22,Jacqueline Trumbull,26,South,Research,midExit
+22,Chelsea Roy,29,Northeast,Administration,midExit
+22,Jenna Cooper,28,Midwest,Marketing,midExit
+22,Krystal Nielson,29,West,Fitness,midExit
+22,Ashley Luebke,25,South,Real Estate,midExit
+22,Maquel Cooper,23,West,Arts,midExit
+22,Marikh Mathias,27,West,Hospitality,midExit
 22,Brittany Taylor,30,South,Human Resources,earlyExit
 22,Caroline Lunny,26,Northeast,Real Estate,earlyExit
 22,Bibiana Julian,30,South,Administration,earlyExit
@@ -397,18 +397,18 @@ season,name,age,hometown,job,outcome
 22,DNysha Norris,30,South,Healthcare,earlyExit
 22,Olivia Goethals,23,Midwest,Marketing,earlyExit
 23,Cassie Randolph,23,West,Healthcare,winner
-23,Hannah Godwin,23,South,Media,endSeason
-23,Tayshia Adams,28,West,Healthcare,endSeason
-23,Caelynn Miller-Keyes,23,South,Beauty Pageant,midSeason
-23,Kirpa Sudick,26,West,Healthcare,midSeason
-23,Heather Martin,23,West,Administration,midSeason
-23,Hannah Brown,24,South,Beauty Pageant,midSeason
-23,Katie Morton,26,South,Sales,midSeason
-23,Demi Burnett,23,South,Design,midSeason
-23,Sydney Lotuaco,27,South,Entertainment,midSeason
-23,Nicole Lopez-Alvar,25,South,Marketing,midSeason
-23,Onyeka Ehie,24,Midwest,Consulting,midSeason
-23,Elyse Dehlbom,31,West,Beauty,midSeason
+23,Hannah Godwin,23,South,Media,lateExit
+23,Tayshia Adams,28,West,Healthcare,lateExit
+23,Caelynn Miller-Keyes,23,South,Beauty Pageant,midExit
+23,Kirpa Sudick,26,West,Healthcare,midExit
+23,Heather Martin,23,West,Administration,midExit
+23,Hannah Brown,24,South,Beauty Pageant,midExit
+23,Katie Morton,26,South,Sales,midExit
+23,Demi Burnett,23,South,Design,midExit
+23,Sydney Lotuaco,27,South,Entertainment,midExit
+23,Nicole Lopez-Alvar,25,South,Marketing,midExit
+23,Onyeka Ehie,24,Midwest,Consulting,midExit
+23,Elyse Dehlbom,31,West,Beauty,midExit
 23,Courtney Curtis,23,South,Food,earlyExit
 23,Tracy Shapoff,31,Northeast,Fashion,earlyExit
 23,Brianna Barnes,24,West,Entertainment,earlyExit
@@ -428,16 +428,16 @@ season,name,age,hometown,job,outcome
 23,Tahzjuan Hawkins,25,West,Business Development,earlyExit
 24,Hannah Ann Sluss,23,South,Entertainment,winner
 24,Madison Prewett,23,South,Human Resources,runnerUp
-24,Victoria Fuller,26,South,Sales,endSeason
-24,Kelsey Weier,28,Midwest,Fashion,midSeason
-24,Kelley Flanagan,27,Midwest,Law,midSeason
-24,Natasha Parker,31,Northeast,Event Planning,midSeason
-24,Mykenna Dorn,22,Foreign,Fashion,midSeason
-24,Sydney Hightower,24,South,Marketing,midSeason
-24,Tammy Ly,24,Northeast,Real Estate,midSeason
-24,Victoria Paul,27,South,Healthcare,midSeason
-24,Lexi Buchanan,26,South,Marketing,midSeason
-24,Shiann Lewis,27,West,Administration,midSeason
+24,Victoria Fuller,26,South,Sales,lateExit
+24,Kelsey Weier,28,Midwest,Fashion,midExit
+24,Kelley Flanagan,27,Midwest,Law,midExit
+24,Natasha Parker,31,Northeast,Event Planning,midExit
+24,Mykenna Dorn,22,Foreign,Fashion,midExit
+24,Sydney Hightower,24,South,Marketing,midExit
+24,Tammy Ly,24,Northeast,Real Estate,midExit
+24,Victoria Paul,27,South,Healthcare,midExit
+24,Lexi Buchanan,26,South,Marketing,midExit
+24,Shiann Lewis,27,West,Administration,midExit
 24,Deandra Kanu,23,Northeast,Healthcare,earlyExit
 24,Kiarra Norman,23,South,Childcare,earlyExit
 24,Savannah Mullins,27,South,Real Estate,earlyExit
@@ -458,19 +458,19 @@ season,name,age,hometown,job,outcome
 24,Megan Hops,26,West,Hospitality,earlyExit
 25,Rachael Kirkconnell,24,South,Design,winner
 25,Michelle Young,27,Midwest,Education,runnerUp
-25,Briana Springs,24,South,Management,endSeason
-25,Serena Pitt,23,Foreign,Public Relations,midSeason
-25,Pieper James,23,West,Education,midSeason
-25,Jessenia Cruz,27,South,Marketing,midSeason
-25,Kit Keenan,21,Northeast,Entrepreneurship,midSeason
-25,Abigail Heringer,25,West,Finance,midSeason
-25,Chelsea Vaughn,29,South,Entertainment,midSeason
-25,Serena Chew,24,West,Hospitality,midSeason
-25,Katie Thurston,29,West,Marketing,midSeason
-25,Brittany Galvin,23,Midwest,Entertainment,midSeason
-25,Mearg Tareke,32,Foreign,Healthcare,midSeason
-25,Ryan Claytor,26,South,Entertainment,midSeason
-25,Meredith Snyder,23,Midwest,Beauty,midSeason
+25,Briana Springs,24,South,Management,lateExit
+25,Serena Pitt,23,Foreign,Public Relations,midExit
+25,Pieper James,23,West,Education,midExit
+25,Jessenia Cruz,27,South,Marketing,midExit
+25,Kit Keenan,21,Northeast,Entrepreneurship,midExit
+25,Abigail Heringer,25,West,Finance,midExit
+25,Chelsea Vaughn,29,South,Entertainment,midExit
+25,Serena Chew,24,West,Hospitality,midExit
+25,Katie Thurston,29,West,Marketing,midExit
+25,Brittany Galvin,23,Midwest,Entertainment,midExit
+25,Mearg Tareke,32,Foreign,Healthcare,midExit
+25,Ryan Claytor,26,South,Entertainment,midExit
+25,Meredith Snyder,23,Midwest,Beauty,midExit
 25,Catalina Morales,29,Foreign,Entertainment,earlyExit
 25,Lauren Maddox,29,South,Law,earlyExit
 25,Mariela Pepin,24,South,Marketing,earlyExit
@@ -495,16 +495,16 @@ season,name,age,hometown,job,outcome
 25,Saneh Ste. Claire,25,South,Consulting,earlyExit
 26,Susie Evans,28,South,Photography,winner
 26,"Gabriela ""Gabby"" Windey",30,Midwest,Healthcare,runnerUp
-26,Rachel Recchia,25,South,Aviation,endSeason
-26,Serene Russell,26,South,Education,midSeason
-26,Teddi Wright,24,West,Healthcare,midSeason
-26,Sarah Hamrick,23,South,Finance,midSeason
-26,Genevieve Parisi,26,Northeast,Hospitality,midSeason
-26,Eliza Isichei,25,South,Marketing,midSeason
-26,Mara Agrait,32,Northeast,Entrepreneurship,midSeason
-26,Hunter Haag,28,South,Human Resources,midSeason
-26,Marlena Wesh,30,South,Athlete,midSeason
-26,Shanae Ankney,29,Midwest,Human Resources,midSeason
+26,Rachel Recchia,25,South,Aviation,lateExit
+26,Serene Russell,26,South,Education,midExit
+26,Teddi Wright,24,West,Healthcare,midExit
+26,Sarah Hamrick,23,South,Finance,midExit
+26,Genevieve Parisi,26,Northeast,Hospitality,midExit
+26,Eliza Isichei,25,South,Marketing,midExit
+26,Mara Agrait,32,Northeast,Entrepreneurship,midExit
+26,Hunter Haag,28,South,Human Resources,midExit
+26,Marlena Wesh,30,South,Athlete,midExit
+26,Shanae Ankney,29,Midwest,Human Resources,midExit
 26,Jillian Chin,26,Northeast,Architecture,earlyExit
 26,Lyndsey Windham,28,South,Sales,earlyExit
 26,Sierra Jackson,26,South,Fitness,earlyExit
@@ -525,15 +525,15 @@ season,name,age,hometown,job,outcome
 26,Claire Heilig,28,South,Beauty,earlyExit
 27,Kaitlyn Biggar,27,Foreign,Healthcare,winner
 27,Gabriella Elnicki,25,Northeast,Management,runnerUp
-27,Ariel Frenkel,28,Northeast,Marketing,endSeason
-27,Charity Lawson,26,South,Therapy,midSeason
-27,Katherine Izzo,26,South,Healthcare,midSeason
-27,Brooklyn Willie,25,South,Athlete,midSeason
-27,Greer Blitzer,24,South,Sales,midSeason
-27,Alyssa Jacobs,26,South,Healthcare,midSeason
-27,Jessica Girod,23,South,E-Commerce,midSeason
-27,Kylee Russell,25,South,Healthcare,midSeason
-27,Mercedes Northup,24,Midwest,Nonprofit,midSeason
+27,Ariel Frenkel,28,Northeast,Marketing,lateExit
+27,Charity Lawson,26,South,Therapy,midExit
+27,Katherine Izzo,26,South,Healthcare,midExit
+27,Brooklyn Willie,25,South,Athlete,midExit
+27,Greer Blitzer,24,South,Sales,midExit
+27,Alyssa Jacobs,26,South,Healthcare,midExit
+27,Jessica Girod,23,South,E-Commerce,midExit
+27,Kylee Russell,25,South,Healthcare,midExit
+27,Mercedes Northup,24,Midwest,Nonprofit,midExit
 27,Davia Bunch,25,South,Marketing,earlyExit
 27,Genevie Mayo,26,South,Healthcare,earlyExit
 27,Anastasia Keramidas,30,South,Marketing,earlyExit
@@ -555,16 +555,16 @@ season,name,age,hometown,job,outcome
 27,Madison Johnson,26,Midwest,Entrepreneurship,earlyExit
 28,Kelsey Anderson,25,South,Management,winner
 28,Daisy Kent,25,Midwest,Management,runnerUp
-28,Rachel Nance,26,West,Healthcare,endSeason
-28,Maria Georgas,29,Foreign,Administration,midSeason
-28,Jennifer Tran,25,Northeast,Education,midSeason
-28,Kelsey Toussant,31,West,Entertainment,midSeason
-28,Katelyn DeBacker,26,West,Science,midSeason
-28,Lea Cayanan,23,West,Management,midSeason
-28,Lexi Young,30,Midwest,Digital Marketing,midSeason
-28,Jessica Edwards,24,South,Administration,midSeason
-28,Autumn Waggoner,26,Midwest,Management,midSeason
-28,Madina Alam,31,South,Therapy,midSeason
+28,Rachel Nance,26,West,Healthcare,lateExit
+28,Maria Georgas,29,Foreign,Administration,midExit
+28,Jennifer Tran,25,Northeast,Education,midExit
+28,Kelsey Toussant,31,West,Entertainment,midExit
+28,Katelyn DeBacker,26,West,Science,midExit
+28,Lea Cayanan,23,West,Management,midExit
+28,Lexi Young,30,Midwest,Digital Marketing,midExit
+28,Jessica Edwards,24,South,Administration,midExit
+28,Autumn Waggoner,26,Midwest,Management,midExit
+28,Madina Alam,31,South,Therapy,midExit
 28,Allison Hollinger,26,South,Real Estate,earlyExit
 28,Edwina Dorbor,25,Midwest,Entrepreneurship,earlyExit
 28,Sydney Gordon,28,Northeast,Retail,earlyExit

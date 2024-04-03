@@ -1,40 +1,38 @@
 
-
-- Missing: 4, 6, 7, 8,
-
-3, 15 from fandom website
-
-16 wikipedia
-
-season 11, all got rejected
-season 25 during covid. 
+Some issues with the data:
+- Missing seasons: 3, 4, 6, 7, 8, 15, 16
+- Season 11: All got rejected, no winner
+- Season 25: During covid.
+- Idk what "returned to competition means, just deleted them (2 or 3)
 
 
 Weeks 1 - 10
-There are no outliers, so we'll use unsupervised descretization
+There are no outliers, so we'll use unsupervised discretization
 Low Weeks 1 - 4
 Medium Weeks 5 - 7
 High Weeks 8 - 10
 Winner
 
-Place:
-1-3: High
-4-8: Medium
->8: Low
+Steps:
+- Removed the columns that were not useful (i.e. Ref)
+- Removed all references
+- Removed nicknames
+- Filled in missing values for the outcome
+- Removed the rows that had a majority of missing values
+- Created just one csv file with all the data ('processed_data.csv')
 
-
-Season 25 had a total of 37 contestants
-Idk what "returned to competition means, just deleted them (2 or 3)
 removed nicknames
 
-\[[^\[\]]*\]
 
+Generalized Data:
+- 'generalized_data.csv'
+- I made another csv file trying to apply discretization techniques to the data
 
+- Outcome: If the individual won or was the runner-up, I indicated so. Otherwise, I categorized their exit as the following:
+    - Early Exit: Weeks 1 - 4
+    - Mid Exit: Weeks 5 - 8
+    - Late Exit: Weeks 9 - 10
 
-Indicates whether the person was a winner, runner up, or what week they were eliminated
-winner
-runnerUp
-w1
+- With the help of chat gpt, narrowed down the jobs to 71 categories. The map of job to job category can be found in the jobs.py file
+- Also narrowed down hometown to "West", "Midwest", "South", "Northeast", and "Foreign"
 
-With the help of chat gpt, narrowed down the jobs to 71 categories
-narrowed down hometowns to 5 regions
