@@ -1,0 +1,587 @@
+season,name,age,hometown,job,outcome
+01,Amanda Marsh,23,Midwest,Event Planning,winner
+01,Trista Rehn,29,Midwest,Entertainment,runnerUp
+01,Shannon Oliver,24,South,Finance,5
+01,Kimberly Karels,24,West,Childcare,4
+01,Cathy Grimes,22,Midwest,Education,3
+01,Christina Stencil,28,West,Law,3
+01,LaNease Adams,23,West,Entertainment,3
+01,Rhonda Rittenhouse,28,South,Real Estate,3
+01,Alexa Jurgielewicz,27,West,Education,2
+01,Amy Anzel,28,Northeast,Management,2
+01,Angela Lowery,25,West,Hospitality,2
+01,Angelique Madrid,27,West,Entertainment,2
+01,Katie Sapienza,23,Northeast,Sales,2
+01,Melissa Reese,25,West,Arts,2
+01,Tina Chen,27,South,Education,2
+01,Amber Johnson,29,West,Management,1
+01,Daniela Ferdico,30,West,Healthcare,1
+01,Denise Kellaher,30,West,Healthcare,1
+01,Jackie Hucko,22,Northeast,Hospitality,1
+01,Jill Gosser,31,Midwest,Retail,1
+01,Kristina Jenkins,27,Northeast,Marketing,1
+01,Lisa Gold,29,South,Law,1
+01,Paula Oliveira,24,Northeast,Insurance,1
+01,Rachel Lanzilotto,29,Northeast,Education,1
+01,Wendi Plotnik,26,South,Technology,1
+02,Helene Eksterowicz,27,Northeast,Education,winner
+02,Brooke Smith,22,South,Education,runnerUp
+02,Gwen Gioia,31,Northeast,Human Resources,6
+02,Angela Vaught,27,Midwest,Healthcare,5
+02,Hayley Crittenden,28,West,Retail,4
+02,Heather Cranford,30,South,Hospitality,4
+02,Christi Weible,23,West,Finance,3
+02,Heather Campion,24,West,Counseling,3
+02,Kyla Dickerson,22,West,Hospitality,3
+02,Shannon Fries,26,Northeast,Arts,3
+02,Dana Norris,24,West,Sales,2
+02,Erin Lulevitch,25,Northeast,Quality Control,2
+02,Suzanne Freeman,33,West,Hospitality,2
+02,Frances Dinglasan,30,West,Management,2
+02,Anindita Dutta,27,Northeast,Law,2
+02,Amber West,26,South,Healthcare,1
+02,Camille Langfield,29,West,Entertainment,1
+02,Cari,29,Midwest,Education,1
+02,Christy,24,West,Healthcare,1
+02,Erin A.,24,South,Design,1
+02,Fatima Rivas,22,West,Education,1
+02,Liangy Fernandez,30,South,Legal,1
+02,Lori Todd,26,South,Entertainment,1
+02,Merrilee Donohue,28,Northeast,Education,1
+02,Suzi Reid,28,South,Communication,1
+05,Jessica Bowlin,22,West,Education,winner
+05,Tara Huckeby,23,South,Construction,7
+05,Mandy Jaye Jeffreys,26,South,Architecture,6
+05,Trish Schneider,28,South,Entertainment,5
+05,Karen Lindsay,28,West,Sales,4
+05,Suzie Williams,23,Midwest,Healthcare,4
+05,Jenny De Schiralli,26,South,Sports,3
+05,Jessica Holcomb,25,South,Law,3
+05,Julie Durda,24,West,Entertainment,3
+05,Katie Gehart,22,West,Healthcare,3
+05,Amber LaRoux,27,West,Consulting,2
+05,Anne-Catherine Labbé,27,Foreign,Entertainment,2
+05,Celeste Creel,24,Northeast,Administration,2
+05,Debbie Merkett,27,South,Healthcare,2
+05,Jean-Marie Callahan,26,South,Beauty,2
+05,Jenny Matthews,24,Midwest,Retail,2
+05,Kristy Romero,25,Midwest,Education,2
+05,Mandy Clemens,25,West,Sports,2
+05,DeShaun Warner,25,Northeast,Management,1
+05,Dolores Farburg,26,Northeast,Management,1
+05,Francine Jones,25,South,Retail,1
+05,Holly Reeder,26,South,Finance,1
+05,Jessica Kyron,21,Midwest,Education,1
+05,Kristin Clearwater,25,West,Entertainment,1
+05,Rachel Clementi,26,Northeast,Fashion,1
+09,Jennifer Wilson,24,South,Education,winner
+09,Sadie Murray,23,West,Public Relations,7
+09,Lisa Blank,25,West,Marketing,6
+09,Agnese Polliza,24,Foreign,Education,5
+09,Desiree Valentin,22,West,Real Estate,4
+09,Jeanette Pawula,23,Midwest,Education,4
+09,Erica Rose,23,South,Law,3
+09,Gina Clark,28,South,Healthcare,3
+09,Jami Matzke,27,South,Event Planning,3
+09,Ellen DeMaio,30,Northeast,Real Estate,2
+09,Kimberly Jackson,27,West,Design,2
+09,Sarah Schnare,30,Foreign,Media,2
+09,April Jacobs,23,Midwest,Entertainment,1
+09,Andrea Shirley,28,Midwest,Hospitality,1
+09,Britt Keeder,28,Midwest,Science,1
+09,Carissa Ilburg,25,Northeast,Law,1
+09,Claudia Gismondi,22,South,Hospitality,1
+09,Cosetta Blanca,,Foreign,Entertainment,1
+09,Elyse Hammer,27,West,Healthcare,1
+09,Heather Sneed,34,Northeast,Healthcare,1
+09,Jessica Horner,25,South,Retail,1
+09,Laura Morgan,29,West,Animal Care,1
+09,Meryl Barr,27,South,Law,1
+09,Renée Snell,30,South,Marketing,1
+09,Rita Ghazal,29,South,Government,1
+09,Rosella Fratto,27,Midwest,Beauty,1
+09,Tara Durr,24,South,Real Estate,1
+10,Tessa Horst,26,West,Social Services,winner
+10,Bevin Nicole Powers,28,West,Administration,8
+10,Danielle Imwalle,25,Northeast,Design,7
+10,Amber Alchalabi,23,South,Education,6
+10,Stephanie Wilhite,23,Midwest,Management,5
+10,Tina Wu,26,Northeast,Medical,5
+10,Kate Brockhouse,24,South,Retail,4
+10,Nicole Clary,26,South,Sales,4
+10,Stephanie Tipper,27,South,Healthcare,4
+10,Amanda Hackney,26,South,Finance,3
+10,Erin Parker,24,South,Finance,3
+10,Peyton Wright,24,South,Recruitment,3
+10,Alexis Young,26,South,Law,2
+10,Susan Anderson,23,South,Retail,2
+10,Tiffany Warren,28,Northeast,Sales,2
+10,Blakeney Rowe,29,South,Sales,1
+10,Candice DeCost,23,South,Hospitality,1
+10,Catherine Warren,23,Midwest,Beauty,1
+10,Danielle Vallis,26,Northeast,Law,1
+10,Jacqueline Topelli,23,Midwest,Administration,1
+10,Jeanette Alvarez,27,South,Healthcare,1
+10,Jessica Devallo,32,Northeast,Finance,1
+10,Linda Malek,33,Midwest,Law,1
+10,Lindsay Smith,22,Midwest,Education,1
+10,Tiffany Forester,27,Midwest,Real Estate,1
+11,DeAnna Pappas,25,South,Real Estate,runnerUp
+11,Jenni Croft,27,Midwest,Athlete,runnerUp
+11,Bettina Bell,27,Foreign,Real Estate,7
+11,Sheena Stewart,23,West,Marketing,6
+11,Hillary Reisinger,27,Northeast,Healthcare,5
+11,Kristy Katzmann,29,Midwest,Healthcare,5
+11,McCarten Delaney,26,West,Management,4
+11,Estefania Leon,26,South,Administration,4
+11,Jade Beazley,24,South,Retail,4
+11,Lindsey Hawkins,25,Midwest,Entertainment,3
+11,Sarah Newlon,23,Midwest,Hospitality,3
+11,Solisa Shoop,25,South,Beauty,3
+11,Erin Gardner,25,South,Sales,2
+11,Mallory Simons,24,West,Childcare,2
+11,Michele Leavy,30,Northeast,Real Estate,2
+11,Jessica Kiss,27,South,Media,1
+11,Julia Gilliam,24,Midwest,Law,1
+11,Kimberly Orville,31,Northeast,Real Estate,1
+11,Lori Langley,33,South,Education,1
+11,Melissa Buschel,28,Northeast,Event Planning,1
+11,Morgan Becker,24,West,Education,1
+11,Natalie Velasco,25,South,Law,1
+11,Regina Doringa,31,West,Sales,1
+11,Tauni Nessler ,31,Midwest,Healthcare,1
+11,Susan Coolidge,35,Midwest,Business,1
+12,Shayne Lamas,22,West,Entertainment,winner
+12,Chelsea Wanstrath,25,West,Sales,runnerUp
+12,Amanda Rantuccio,27,South,Management,7
+12,Noelle Drake,26,West,Arts,6
+12,Marshana Ritchie,27,Northeast,Fashion,5
+12,Robin Canfield,22,Midwest,Marketing,5
+12,Ashlee Williss,22,South,Entertainment,4
+12,Kelly Hark,25,West,Sales,4
+12,Holly Durst,24,Midwest,Writing,4
+12,Amy Bean,22,West,Childcare,3
+12,Erin Storm,33,West,Sales,3
+12,Kristine Heffelfinger,33,Northeast,Fitness,3
+12,Caroline Carri Perrier,25,South,Marketing,2
+12,Erin Harper,25,West,Event Planning,2
+12,Michelle Procopio,28,Northeast,Administration,2
+12,Alyssa Johnson,24,West,Education,1
+12,Amanda Peterman,26,Midwest,Law,1
+12,Denise Gitsham,30,Foreign,Law,1
+12,Devon Grisham,24,South,Beauty,1
+12,Lesley Geyer,23,South,Religion,1
+12,Michele Romero,33,West,Design,1
+12,Rebecca LeBlanc,30,West,Law,1
+12,Stacey Elza,26,Midwest,Education,1
+12,Tamara Marco,23,West,Hospitality,1
+12,Tiffany Hickenbottom,33,West,Real Estate,1
+13,Melissa Rycroft,25,South,Sales,winner
+13,Molly Malaney,24,Midwest,Retail,runnerUp
+13,Jillian Harris,29,Foreign,Design,7
+13,Naomi Crespo,24,West,Hospitality,6
+13,Stephanie Hogan,34,South,Marketing,5
+13,Lauren Wanger,27,Northeast,Education,4
+13,Megan Parris,25,Northeast,Sports,4
+13,Shannon Bair,29,Midwest,Healthcare,4
+13,Nikki Kaapke,29,Midwest,Administration,4
+13,Erica DeSimone,25,Northeast,Management,3
+13,Kari Fajen,27,Midwest,Management,3
+13,Natalie Getz,27,Midwest,Human Resources,3
+13,Raquel Medeiros,27,Foreign,Education,2
+13,Sharon Staebell,32,Northeast,Education,2
+13,Lisa Gonzalez,28,West,Marketing,2
+13,Ann Lueders,24,West,Hospitality,1
+13,Dominique Carta,26,Northeast,Sales,1
+13,Emily,23,West,Marketing,1
+13,Jackie Hickley,26,Northeast,Event Planning,1
+13,Julie Dermotta,26,Midwest,Education,1
+13,Nicole Mah,25,Foreign,Retail,1
+13,Renee Simlak,36,Midwest,Fashion,1
+13,Shelby Callas,23,West,Management,1
+13,Stacia Mann,24,West,Finance,1
+13,Treasure Morgan,28,West,Healthcare,1
+14,Vienna Girardi,23,South,Marketing,winner
+14,Tenley Molzahn,25,West,Education,runnerUp
+14,Gia Allemand,26,Northeast,Entertainment,7
+14,Ali Fedotowsky,25,Northeast,Management,6
+14,Corrie Adamson,23,South,Consulting,5
+14,Ashleigh Hunt,25,South,Management,4
+14,Jessica Sulidis,25,Foreign,Sales,4
+14,Kathryn Sherlock,25,South,Hospitality,4
+14,Ella Nolan,30,South,Beauty,4
+14,Elizabeth Kitt (NE),29,Midwest,Childcare,3
+14,Valishia Savage,32,West,Lifestyle,3
+14,Michelle Kujawa,26,West,Administration,3
+14,Ashley Elmore,29,Northeast,Education,2
+14,Christina McCasland,25,West,Hospitality,2
+14,Rozlyn Papa,28,South,Entertainment,2
+14,Alexa McAllister,25,Midwest,Entrepreneurship,1
+14,Caitlyn McCabe,24,Midwest,Modeling,1
+14,Channy Choch,29,West,Finance,1
+14,Elizabeth Kreft (D.C.),29,South,Military,1
+14,Emily Harkins,23,Midwest,Entertainment,1
+14,Kimberly Sullivan,24,South,Entertainment,1
+14,Kirsten Pittman,25,West,Hospitality,1
+14,Sheila Lidner,25,West,Aviation,1
+14,Stephanie Mueller,24,Midwest,Education,1
+14,Tiana Kruzel,31,Foreign,Healthcare,1
+17,Catherine Giudici,26,West,Design,winner
+17,Lindsay Yenter,24,Midwest,Education,runnerUp
+17,AshLee Frazier,32,South,Organization,9
+17,Desiree Hartsock,26,West,Fashion,8
+17,Lesley Murphy,25,South,Consulting,7
+17,Tierra LiCausi,24,West,Consulting,7
+17,Daniella McBride,24,West,Entertainment,6
+17,Selma Alameri,29,West,Real Estate,6
+17,Sarah Herron,26,West,Marketing,6
+17,Robyn Howard,24,Midwest,Management,5
+17,Jacqueline Parr,25,South,Consulting,5
+17,Amanda Meyer,26,West,Entertainment,4
+17,Leslie Hughes,28,South,Gaming,4
+17,Kristina Kaminski,25,Midwest,Entertainment,3
+17,Taryn Renee Daniels,30,West,Fitness,3
+17,Kacie Boguskie,25,South,Administration,3
+17,Brooke Burchette,25,Northeast,Community Service,2
+17,Diana Weeks Willardson,31,West,Beauty,2
+17,Katherine Levans,27,Midwest,Fitness,2
+17,Ashley Harper,25,South,Entertainment,1
+17,Ashley Palenkas,28,Midwest,Beauty,1
+17,Kelly Dutton,28,South,Entertainment,1
+17,Keriann Miranda,29,West,Entrepreneurship,1
+17,Lacey Latka,24,West,Education,1
+17,Lauren Marchetti,27,Northeast,Media,1
+17,Paige Vigil,25,Midwest,Entertainment,1
+18,Nikki Ferrell,26,Midwest,Healthcare,winner
+18,Clare Crawley,32,West,Beauty,runnerUp
+18,Andi Dorfman,26,South,Law,9
+18,Renee Oteri,32,Northeast,Real Estate,8
+18,Chelsie Webster,24,Midwest,Education,7
+18,Sharleen Joynt,29,Foreign,Entertainment,7
+18,Katherine Hurd,29,Midwest,Sales,6
+18,Cassandra Ferguson,22,Midwest,Entertainment,6
+18,Allison Restko,26,Midwest,Childcare,5
+18,Danielle Ronco,25,Midwest,Healthcare,5
+18,Kelly Travis,27,South,Animal Care,5
+18,Elise Mosca,27,Northeast,Education,4
+18,Lauren Solomon,26,Midwest,Music,4
+18,Christy Hansen,24,Midwest,Marketing,3
+18,Lucinda Aragon,25,West,Lifestyle,3
+18,Amy Long,27,South,Media,2
+18,Chantel Forrest,27,South,Management,2
+18,Victoria Lima,24,Foreign,Administration,2
+18,Alexis Morgado,24,South,Marketing,1
+18,Amy Jokinen,31,South,Healthcare,1
+18,Ashley Poe,25,South,Education,1
+18,Christine Llano,23,South,Law Enforcement,1
+18,Kylie Lewis,23,Midwest,Design,1
+18,Lacy Faddoul,25,West,Healthcare,1
+18,Lauren Higginson,25,South,Geology,1
+18,Maggie Gantt,25,South,Finance,1
+18,Valerie Eredia,26,West,Fitness,1
+19,Whitney Bischoff,29,South,Healthcare,winner
+19,Becca Tilley,25,South,Administration,runnerUp
+19,Kaitlyn Bristowe,29,Foreign,Education,9
+19,Jade Roper,28,Midwest,Beauty,8
+19,Carly Waddell,29,South,Entertainment,7
+19,Britt Nilsson,27,Midwest,Hospitality,7
+19,Megan Bell,24,South,Beauty,6
+19,Kelsey Poe,28,Midwest,Education,6
+19,Ashley Iaconetti,26,South,Media,6
+19,Mackenzie Deonigi,21,West,Administration,5
+19,Samantha Steffen,27,Midwest,Fashion,5
+19,Ashley Salter,24,South,Beauty,4
+19,Juelia Kinney,30,West,Beauty,4
+19,Nikki Delventhal,26,Northeast,Athlete,4
+19,Jillian Anderson,25,Midwest,Media,4
+19,Amber James,29,Midwest,Hospitality,3
+19,Tracy Darakis,29,South,Education,3
+19,Trina Scherenberg,33,Midwest,Education,3
+19,Alissa Giambrone,24,Northeast,Hospitality,2
+19,Jordan Branch,24,West,Education,2
+19,Kimberly Sherbach,28,Northeast,Fitness,2
+19,Tandra Steiner,30,West,Administration,2
+19,Tara Eddings,26,South,Recreation,2
+19,Amanda Goerlitz,24,Midwest,Education,1
+19,Bo Stanley,25,West,Entertainment,1
+19,Brittany Fetkin,26,West,Athlete,1
+19,Kara Wilson,25,South,Sports,1
+19,Michelle Davis,25,West,Food,1
+19,Nicole Meacham,31,West,Real Estate,1
+19,Reegan Cornwell,28,West,Medical,1
+20,Lauren Bushnell,25,West,Hospitality,winner
+20,Joelle Fletcher,24,South,Real Estate,runnerUp
+20,Caila Quinn,24,Midwest,Sales,9
+20,Amanda Stanton,25,West,Beauty,8
+20,Becca Tilley,26,South,Administration,7
+20,Emily Ferguson,23,West,Hospitality,6
+20,Lauren Himle,25,Midwest,Education,6
+20,Olivia Caridi,23,South,Media,6
+20,Leah Block,25,West,Event Planning,6
+20,Jennifer Saviano,25,South,Entrepreneurship,5
+20,Jubilee Sharpe,24,South,Military,5
+20,Amber James,30,Midwest,Hospitality,4
+20,Rachel Tchen,23,South,Unemployment,4
+20,Haley Ferguson,23,West,Hospitality,4
+20,Jami Letain,23,Foreign,Hospitality,3
+20,Shushanna Mkrtychyan,27,West,Real Estate,3
+20,Lace Morris,25,West,Real Estate,3
+20,Amanda Kremer,28,West,Healthcare,2
+20,Jacqueline Dion,23,West,Healthcare,2
+20,Samantha Passmore,26,South,Law,2
+20,Lauren Barr,23,South,Fashion,2
+20,Breanne Rice,30,West,Healthcare,1
+20,Isabel Goodkind,24,Northeast,Design,1
+20,Jessica Moser,23,South,Finance,1
+20,Laura Esselman,24,South,Management,1
+20,Lauren Russell,26,South,Education,1
+20,Maegan Miller,30,West,Agriculture,1
+20,Tiara Soleim,27,West,Agriculture,1
+21,Vanessa Grimaldi,29,Foreign,Education,winner
+21,Raven Gates,25,South,Entrepreneurship,runnerUp
+21,Rachel Lindsay,31,South,Law,9
+21,Corinne Olympios,24,South,Entrepreneurship,8
+21,Kristina Schulman,24,South,Healthcare,7
+21,Danielle Maltby,31,Midwest,Healthcare,7
+21,Danielle Lombard,27,West,Entrepreneurship,6
+21,Whitney Fransway,25,Midwest,Fitness,6
+21,Jasmine Goode,29,Northeast,Entertainment,6
+21,Alexis Waters,23,Northeast,Animal Care,5
+21,Jaimi King,28,South,Food,5
+21,Josephine Tutman,24,West,Healthcare,5
+21,Taylor Nolan,23,West,Therapy,5
+21,Astrid Loch,26,South,Administration,4
+21,Sarah Vendal,26,West,Education,4
+21,Brittany Farrar,26,West,Healthcare,3
+21,Christen Whitney,25,Midwest,Photography,3
+21,Dominique Alexis,25,West,Hospitality,3
+21,Elizabeth Whitelaw,24,Midwest,Marketing,2
+21,Hailey Merkt,23,Foreign,Arts,2
+21,Lacey Mark,25,Northeast,Marketing,2
+21,Elizabeth Sandoz,29,Midwest,Healthcare,2
+21,Angela Amezcua,26,South,Entertainment,1
+21,Briana Guertler,28,West,Healthcare,1
+21,Ida Marie DeLosSantos,23,South,Sales,1
+21,Jasmine Brown,25,West,Hospitality,1
+21,Lauren Hussey,30,South,Law,1
+21,Michelle Ramkissoon,24,South,Food,1
+21,Olivia Burnette,25,West,Sales,1
+21,Susannah Milan,26,West,Management,1
+22,Becca Kufrin,27,Midwest,Public Relations,winner
+22,Lauren Burnham,25,South,Sales,runnerUp
+22,Kendall Long,26,West,Design,9
+22,Tia Booth,26,South,Healthcare,8
+22,Bekah Martinez,22,West,Childcare,7
+22,Seinne Fleming,27,West,Real Estate,7
+22,Jacqueline Trumbull,26,South,Research,7
+22,Chelsea Roy,29,Northeast,Administration,6
+22,Jenna Cooper,28,Midwest,Marketing,6
+22,Krystal Nielson,29,West,Fitness,6
+22,Ashley Luebke,25,South,Real Estate,5
+22,Maquel Cooper,23,West,Arts,5
+22,Marikh Mathias,27,West,Hospitality,5
+22,Brittany Taylor,30,South,Human Resources,4
+22,Caroline Lunny,26,Northeast,Real Estate,4
+22,Bibiana Julian,30,South,Administration,3
+22,Annaliese Puccini,32,West,Event Planning,3
+22,Lauren Schleyer,31,South,Marketing,3
+22,Jennifer Delaney,25,Midwest,Design,2
+22,Lauren Griffin,26,Midwest,Human Resources,2
+22,Valerie Biles,26,South,Hospitality,2
+22,Alison Harrington,27,South,Fashion,1
+22,Amber Wilkerson,29,West,Entrepreneurship,1
+22,Brianna Amaranthus,25,West,Media,1
+22,Brittane Johnson,27,West,Marketing,1
+22,Jessica Carroll,26,Foreign,Media,1
+22,Lauren Jarreau,33,South,Education,1
+22,DNysha Norris,30,South,Healthcare,1
+22,Olivia Goethals,23,Midwest,Marketing,1
+23,Cassie Randolph,23,West,Healthcare,winner
+23,Hannah Godwin,23,South,Media,9
+23,Tayshia Adams,28,West,Healthcare,9
+23,Caelynn Miller-Keyes,23,South,Beauty Pageant,8
+23,Kirpa Sudick,26,West,Healthcare,7
+23,Heather Martin,23,West,Administration,7
+23,Hannah Brown,24,South,Beauty Pageant,7
+23,Katie Morton,26,South,Sales,6
+23,Demi Burnett,23,South,Design,6
+23,Sydney Lotuaco,27,South,Entertainment,6
+23,Nicole Lopez-Alvar,25,South,Marketing,5
+23,Onyeka Ehie,24,Midwest,Consulting,5
+23,Elyse Dehlbom,31,West,Beauty,5
+23,Courtney Curtis,23,South,Food,4
+23,Tracy Shapoff,31,Northeast,Fashion,4
+23,Brianna Barnes,24,West,Entertainment,3
+23,Catherine Agro,26,South,Entertainment,3
+23,Nina Bartula,30,South,Management,3
+23,Caitlin Clemmens,25,Foreign,Real Estate,3
+23,Alex Blumberg,29,Foreign,Animal Care,2
+23,Angelique Sherman,28,Northeast,Sales,2
+23,Annie Reardon,23,Midwest,Finance,2
+23,Erika McNutt,25,West,Human Resources,2
+23,Alex Dillon,23,Northeast,Zoology,1
+23,Devin Gooden,23,West,Media,1
+23,Erin Landry,28,South,Fictional Character,Week1
+23,Adrianne Averbukh,26,West,Social Services,1
+23,Laura Pellerito,26,South,Finance,1
+23,Revian Chang,24,South,Healthcare,1
+23,Tahzjuan Hawkins,25,West,Business Development,1
+24,Hannah Ann Sluss,23,South,Entertainment,winner
+24,Madison Prewett,23,South,Human Resources,runnerUp
+24,Victoria Fuller,26,South,Sales,9
+24,Kelsey Weier,28,Midwest,Fashion,8
+24,Kelley Flanagan,27,Midwest,Law,7
+24,Natasha Parker,31,Northeast,Event Planning,7
+24,Mykenna Dorn,22,Foreign,Fashion,6
+24,Sydney Hightower,24,South,Marketing,6
+24,Tammy Ly,24,Northeast,Real Estate,6
+24,Victoria Paul,27,South,Healthcare,6
+24,Lexi Buchanan,26,South,Marketing,5
+24,Shiann Lewis,27,West,Administration,5
+24,Deandra Kanu,23,Northeast,Healthcare,4
+24,Kiarra Norman,23,South,Childcare,4
+24,Savannah Mullins,27,South,Real Estate,4
+24,Alayah Benavidez,24,South,Administration,4
+24,Alexa Caves,27,Midwest,Beauty,4
+24,Jasmine Nguyen,25,South,Management,4
+24,Sarah Coffin,24,South,Healthcare,4
+24,Courtney Perry,26,South,Beauty,2
+24,Lauren Jones,26,West,Marketing,2
+24,Payton Moran,24,Northeast,Business,2
+24,Avonlea Elkins,27,South,Agriculture,1
+24,Eunice Cho,23,Midwest,Hospitality,1
+24,Jade Gilliland,26,West,Media,1
+24,Jenna Serrano,22,Midwest,Education,1
+24,Katrina Badowski,28,Midwest,Entertainment,1
+24,Kylie Ramos,26,West,Sales,1
+24,Maurissa Gunn,23,West,Healthcare,1
+24,Megan Hops,26,West,Hospitality,1
+25,Rachael Kirkconnell,24,South,Design,winner
+25,Michelle Young,27,Midwest,Education,runnerUp
+25,Briana Springs,24,South,Management,9
+25,Serena Pitt,23,Foreign,Public Relations,8
+25,Pieper James,23,West,Education,8
+25,Jessenia Cruz,27,South,Marketing,8
+25,Kit Keenan,21,Northeast,Entrepreneurship,7
+25,Abigail Heringer,25,West,Finance,7
+25,Chelsea Vaughn,29,South,Entertainment,6
+25,Serena Chew,24,West,Hospitality,6
+25,Katie Thurston,29,West,Marketing,6
+25,Brittany Galvin,23,Midwest,Entertainment,5
+25,Mearg Tareke,32,Foreign,Healthcare,5
+25,Ryan Claytor,26,South,Entertainment,5
+25,Meredith Snyder,23,Midwest,Beauty,5
+25,Catalina Morales,29,Foreign,Entertainment,4
+25,Lauren Maddox,29,South,Law,4
+25,Mariela Pepin,24,South,Marketing,4
+25,Victoria Larson,27,West,Royalty,4
+25,Anna Redman,24,Midwest,Writing,4
+25,Kaili Anderson,26,West,Hospitality,3
+25,Khaylah Epps,28,South,Healthcare,3
+25,Kimberly Li,28,West,Healthcare,3
+25,Sarah Trott,24,West,Media,3
+25,Alana Milne,26,South,Arts,2
+25,Illeana Pennetto,25,Northeast,Healthcare,2
+25,Kristin Hopkins,27,South,Law,2
+25,Marylynn Sienna,28,West,Event Management,2
+25,Sydney Johnson,28,South,Marketing,2
+25,Alicia Holloway,24,South,Entertainment,1
+25,Amber Andrews,30,West,Education,1
+25,Carolyn Vallejo,30,Northeast,Media,1
+25,Casandra Suarez,25,West,Social Services,1
+25,Corrinne Jones,22,Northeast,Marketing,1
+25,Emani Curl,25,West,Real Estate,1
+25,Kimberly Courneya,28,West,Human Resources,1
+25,Saneh Ste. Claire,25,South,Consulting,1
+26,Susie Evans,28,South,Photography,winner
+26,"Gabriela ""Gabby"" Windey",30,Midwest,Healthcare,runnerUp
+26,Rachel Recchia,25,South,Aviation,9
+26,Serene Russell,26,South,Education,8
+26,Teddi Wright,24,West,Healthcare,7
+26,Sarah Hamrick,23,South,Finance,7
+26,Genevieve Parisi,26,Northeast,Hospitality,7
+26,Eliza Isichei,25,South,Marketing,6
+26,Mara Agrait,32,Northeast,Entrepreneurship,6
+26,Hunter Haag,28,South,Human Resources,5
+26,Marlena Wesh,30,South,Athlete,5
+26,Shanae Ankney,29,Midwest,Human Resources,5
+26,Jillian Chin,26,Northeast,Architecture,4
+26,Lyndsey Windham,28,South,Sales,4
+26,Sierra Jackson,26,South,Fitness,4
+26,Elizabeth Corrigan,32,West,Real Estate,3
+26,Kira Mengistu,32,South,Healthcare,3
+26,Melina Nasab,27,West,Fitness,3
+26,Ency Abedin,28,West,Sales,2
+26,Kate Gallivan,32,South,Real Estate,2
+26,Tessa Tookes,26,Northeast,Human Resources,2
+26,Cassidy Timbrooks,26,West,Human Resources,2
+26,Daria Rose,24,Northeast,Education,1
+26,Hailey Malles,26,South,Healthcare,1
+26,Ivana Noble,31,South,Entertainment,1
+26,Jane Paik,33,West,Social Media,1
+26,Lindsay Dobbs,27,South,Healthcare,1
+26,Rianna Hockaday,26,South,Healthcare,1
+26,Samantha Jeffries,26,Midwest,Healthcare,1
+26,Claire Heilig,28,South,Beauty,1
+27,Kaitlyn Biggar,27,Foreign,Healthcare,winner
+27,Gabriella Elnicki,25,Northeast,Management,runnerUp
+27,Ariel Frenkel,28,Northeast,Marketing,9
+27,Charity Lawson,26,South,Therapy,8
+27,Katherine Izzo,26,South,Healthcare,7
+27,Brooklyn Willie,25,South,Athlete,7
+27,Greer Blitzer,24,South,Sales,7
+27,Alyssa Jacobs,26,South,Healthcare,6
+27,Jessica Girod,23,South,E-Commerce,6
+27,Kylee Russell,25,South,Healthcare,5
+27,Mercedes Northup,24,Midwest,Nonprofit,5
+27,Davia Bunch,25,South,Marketing,4
+27,Genevie Mayo,26,South,Healthcare,4
+27,Anastasia Keramidas,30,South,Marketing,4
+27,Christina Mandrell,26,South,Media,3
+27,Brianna Thorbourne,24,Northeast,Entrepreneurship,3
+27,Bailey Brown,27,South,Human Resources,3
+27,Catherine Wong,26,Northeast,Entertainment,2
+27,Kimberly Gutierrez,30,Northeast,Hospitality,2
+27,Victoria Jameson,30,South,Beauty,2
+27,Becca Serrano,25,West,Education,1
+27,Cara Ammon,27,Northeast,Human Resources,1
+27,Holland Parsons,24,South,Insurance,1
+27,Lekha Ravi,29,South,Finance,1
+27,Olivia Lewis,24,Northeast,Healthcare,1
+27,Olivia Miller,25,Midwest,Beauty,1
+27,Sonia Sharma,29,Northeast,Management,1
+27,Vanessa Dinh,23,Midwest,Marketing,1
+27,Viktoria Eichner,29,Foreign,Childcare,1
+27,Madison Johnson,26,Midwest,Entrepreneurship,1
+28,Kelsey Anderson,25,South,Management,winner
+28,Daisy Kent,25,Midwest,Management,runnerUp
+28,Rachel Nance,26,West,Healthcare,9
+28,Maria Georgas,29,Foreign,Administration,8
+28,Jennifer Tran,25,Northeast,Education,7
+28,Kelsey Toussant,31,West,Entertainment,7
+28,Katelyn DeBacker,26,West,Science,6
+28,Lea Cayanan,23,West,Management,6
+28,Lexi Young,30,Midwest,Digital Marketing,6
+28,Jessica Edwards,24,South,Administration,6
+28,Autumn Waggoner,26,Midwest,Management,5
+28,Madina Alam,31,South,Therapy,5
+28,Allison Hollinger,26,South,Real Estate,4
+28,Edwina Dorbor,25,Midwest,Entrepreneurship,4
+28,Sydney Gordon,28,Northeast,Retail,4
+28,Chrissa Perez,26,Foreign,Marketing,3
+28,Evalin Clark,29,South,Childcare,3
+28,Starr Skyler,25,South,Therapy,3
+28,Erika Cardenas,25,Northeast,Real Estate,Week2
+28,Marlena Haddad,26,Northeast,Finance,2
+28,Taylor Wiens,23,Midwest,Human Resources,2
+28,Lauren Hollinger,28,South,Healthcare,2
+28,Chandler Dewgard,24,Northeast,Design,1
+28,Kayla Rodgers,27,Midwest,Education,1
+28,Kyra Brusch,26,South,Legal,1
+28,Lanie Latsios,27,Northeast,Real Estate,1
+28,Natalie Crepeau,26,Foreign,Education,1
+28,Samantha Hale,31,Northeast,Finance,1
+28,Samantha Washington,25,Midwest,Athlete,1
+28,Sandra Rabadi,26,Midwest,Consulting,1
+28,Talyah Jackson,23,West,Beauty,1
+28,Zoe Antona,24,South,Art,1

@@ -63,6 +63,7 @@ const unuqueJobs = [
   "Publicist",
   "Marketing manager",
   "Realtor",
+  
   "Ultrasound technician",
   "Event planner",
   "Interior designer",
@@ -109,6 +110,8 @@ const unuqueJobs = [
   "News anchor",
   "Law student",
   "Biology teacher",
+
+
   "Graduate student",
   "Account representative",
   "Emergency room nurse",
@@ -216,6 +219,7 @@ const unuqueJobs = [
   "Fashion Designer",
   "Former NFL Cheerleader",
   "News Producer",
+  
   "Bartender",
   "Fourth Grade Teacher",
   "Special Education Teacher",
@@ -304,6 +308,7 @@ const unuqueJobs = [
   "Fashion Blogger",
   "Retail Marketing Manager",
   "House Flipper",
+
   "Marketing Coordinator",
   "Home Care Coordinator",
   "Orthodontist Assistant",
@@ -331,6 +336,7 @@ const unuqueJobs = [
   "Marketing Director",
   "Queen",
   "Copywriter",
+
   "Hostess",
   "Healthcare Advocate",
   "ICU Nurse",
@@ -372,6 +378,7 @@ const unuqueJobs = [
   "Restaurant Marketer",
   "Junior Project Manager",
   "PA Student",
+
   "Radiochemist",
   "Digital Strategist",
   "Mental Health Therapist",
