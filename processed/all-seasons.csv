@@ -1,0 +1,587 @@
+name,age,hometown,job,outcome,season
+Amanda Marsh,23,"Chanute, Kansas",Event Planner,Winner,./season_01.csv
+Trista Rehn,29,"St. Louis, Missouri",Miami Heat Dancer,Runner-up,./season_01.csv
+Shannon Oliver,24,"Dallas, Texas",Financial Management Consultant,Week 5,./season_01.csv
+Kimberly Karels,24,"Tempe, Arizona",Nanny,Week 4,./season_01.csv
+Cathy Grimes,22,"Terre Haute, Indiana",Graduate Student,Week 3,./season_01.csv
+Christina Stencil,28,"Bonita, California",Attorney,Week 3,./season_01.csv
+LaNease Adams,23,"Playa Del Rey, California",Actress,Week 3,./season_01.csv
+Rhonda Rittenhouse,28,"Woodward, Oklahoma",Commercial Real Estate Agent,Week 3,./season_01.csv
+Alexa Jurgielewicz,27,"Beverly Hills, California",Special Ed. Teacher,Week 2,./season_01.csv
+Amy Anzel,28,"Yonkers, New York",Production Coordinator,Week 2,./season_01.csv
+Angela Lowery,25,"Avondale, Arizona",Hooters Waitress,Week 2,./season_01.csv
+Angelique Madrid,27,"Burbank, California",Actress,Week 2,./season_01.csv
+Katie Sapienza,23,"Malden, Massachusetts",Power Tool Sales Rep.,Week 2,./season_01.csv
+Melissa Reese,25,"Tempe, Arizona",Photographer,Week 2,./season_01.csv
+Tina Chen,27,"Plano, Texas",Graduate Student,Week 2,./season_01.csv
+Amber Johnson,29,"Los Angeles, California",Business Development Director,Week 1,./season_01.csv
+Daniela Ferdico,30,"Seattle, Washington",Neuropsychologist,Week 1,./season_01.csv
+Denise Kellaher,30,"Honolulu, Hawaii",Doctor,Week 1,./season_01.csv
+Jackie Hucko,22,"Pittsburgh, Pennsylvania",Bar Manager,Week 1,./season_01.csv
+Jill Gosser,31,"Chicago, Illinois",Retail Manager,Week 1,./season_01.csv
+Kristina Jenkins,27,"Chelsea, New York",Advertising Executive,Week 1,./season_01.csv
+Lisa Gold,29,"Dallas, Texas",Attorney,Week 1,./season_01.csv
+Paula Oliveira,24,"Swansea, Massachusetts",Insurance Representative,Week 1,./season_01.csv
+Rachel Lanzilotto,29,"Eastchester, New York",6th Grade Teacher,Week 1,./season_01.csv
+Wendi Plotnik,26,"Dallas, Texas",Technology Specialist,Week 1,./season_01.csv
+Helene Eksterowicz,27,"Gloucester, New Jersey",School Psychologist,Winner,./season_02.csv
+Brooke Smith,22,"Albertville, Alabama",College Student,Runner-up,./season_02.csv
+Gwen Gioia,31,"Philadelphia, Pennsylvania",Executive Recruiter,Week 6,./season_02.csv
+Angela Vaught,27,"Kansas City, Missouri",Registered Nurse,Week 5,./season_02.csv
+Hayley Crittenden,28,"Lake Oswego, Oregon",Retail Manager,Week 4,./season_02.csv
+Heather Cranford,30,"Dallas, Texas",Flight Attendant,Week 4,./season_02.csv
+Christi Weible,23,"Boise, Idaho",Assistant Financial Advisor,Week 3,./season_02.csv
+Heather Campion,24,"Walnut Creek, California",Marriage Therapy Trainee,Week 3,./season_02.csv
+Kyla Dickerson,22,"Midvale, Utah",Airline Supervisor,Week 3,./season_02.csv
+Shannon Fries,26,"North Lindenhurst, New York",Graphic Artist,Week 3,./season_02.csv
+Dana Norris,24,"Beverly Hills, California",Radio Sales,Week 2,./season_02.csv
+Erin Lulevitch,25,"West Chester, Pennsylvania",Publications Quality Control,Week 2,./season_02.csv
+Suzanne Freeman,33,"Redondo Beach, California",Flight Attendant,Week 2,./season_02.csv
+Frances Dinglasan,30,"San Francisco, California",Strategic Planning Analyst,Week 2,./season_02.csv
+Anindita Dutta,27,"Brooklyn, New York",Attorney,Week 2,./season_02.csv
+Amber West,26,"Chapel Hill, North Carolina",Psychologist,Week 1,./season_02.csv
+Camille Langfield,29,"Sherman Oaks, California",Actress,Week 1,./season_02.csv
+Cari,29,"Granite City, Illinois",3rd Grade Teacher,Week 1,./season_02.csv
+Christy,24,"Avondale, Arizona",Radiological Technologist,Week 1,./season_02.csv
+Erin A.,24,"Houston, Texas",Interior Designer,Week 1,./season_02.csv
+Fatima Rivas,22,"Long Beach, California",College Student,Week 1,./season_02.csv
+Liangy Fernandez,30,"Coral Gables, Florida",Paralegal,Week 1,./season_02.csv
+Lori Todd,26,"Dallas, Texas",Former NBA Cheerleader,Week 1,./season_02.csv
+Merrilee Donohue,28,"Forked River, New Jersey",1st Grade Teacher,Week 1,./season_02.csv
+Suzi Reid,28,"Richmond, Virginia",Communications Specialist,Week 1,./season_02.csv
+Jessica Bowlin,22,"Huntington Beach, California",Student,Winner,./season_05.csv
+Tara Huckeby,23,"Shawnee, Oklahoma",General Contractor,Week 7,./season_05.csv
+Mandy Jaye Jeffreys,26,"Midland, Texas",Architect Designer,Week 6,./season_05.csv
+Trish Schneider,28,"Atlanta, Georgia",Model,Week 5,./season_05.csv
+Karen Lindsay,28,"Pleasant Grove, Utah",Pharmaceutical Salesperson,Week 4,./season_05.csv
+Suzie Williams,23,"Ann Arbor, Michigan",Prosthetic Technician,Week 4,./season_05.csv
+Jenny De Schiralli,26,"Carrboro, North Carolina",Swim Instructor,Week 3,./season_05.csv
+Jessica Holcomb,25,"Pearsall, Texas",Attorney,Week 3,./season_05.csv
+Julie Durda,24,"Sacramento, California",Professional Cheerleader,Week 3,./season_05.csv
+Katie Gehart,22,"Scottsdale, Arizona",LASIK Eye & Skin Center Manager,Week 3,./season_05.csv
+Amber LaRoux,27,"Sunriver, Oregon",Consultant,Week 2,./season_05.csv
+Anne-Catherine Labbé,27,"Quebec City, Quebec",Model,Week 2,./season_05.csv
+Celeste Creel,24,"Ithaca, New York",Executive Assistant,Week 2,./season_05.csv
+Debbie Merkett,27,"Pinetops, North Carolina",Massage Therapist,Week 2,./season_05.csv
+Jean-Marie Callahan,26,"Gibson, North Carolina",Hairstylist,Week 2,./season_05.csv
+Jenny Matthews,24,"Canton, Michigan",Retail Manager,Week 2,./season_05.csv
+Kristy Romero,25,"Dearborn, Michigan",Student,Week 2,./season_05.csv
+Mandy Clemens,25,"San Diego, California",Professional Soccer Player,Week 2,./season_05.csv
+DeShaun Warner,25,"Phillipsburg, New Jersey",Account Manager,Week 1,./season_05.csv
+Dolores Farburg,26,"Madison, New Jersey",Account Manager,Week 1,./season_05.csv
+Francine Jones,25,"Houston, Texas",Retail Manager,Week 1,./season_05.csv
+Holly Reeder,26,"Tulsa, Oklahoma",Bank Representative,Week 1,./season_05.csv
+Jessica Kyron,21,"Cincinnati, Ohio",Student,Week 1,./season_05.csv
+Kristin Clearwater,25,"Sausalito, California",Singer,Week 1,./season_05.csv
+Rachel Clementi,26,"Buffalo, New York",Fashion PR Manager,Week 1,./season_05.csv
+Jennifer Wilson,24,"Pembroke Pines, Florida",Teacher,Winner,./season_09.csv
+Sadie Murray,23,"Carlsbad, California",Publicist,Week 7,./season_09.csv
+Lisa Blank,25,"Portland, Oregon",Marketing manager,Week 6,./season_09.csv
+Agnese Polliza,24,"Venice, Italy",Student,Week 5,./season_09.csv
+Desiree Valentin,22,"Salt Lake City, Utah",Realtor,Week 4,./season_09.csv
+Jeanette Pawula,23,"Bloomingdale, Illinois",Teacher,Week 4,./season_09.csv
+Erica Rose,23,"Houston, Texas",Attorney,Week 3,./season_09.csv
+Gina Clark,28,"Dallas, Texas",Ultrasound technician,Week 3,./season_09.csv
+Jami Matzke,27,"Galveston, Texas",Event planner,Week 3,./season_09.csv
+Ellen DeMaio,30,"New Haven, Connecticut",Realtor,Week 2,./season_09.csv
+Kimberly Jackson,27,"Newport Beach, California",Interior designer,Week 2,./season_09.csv
+Sarah Schnare,30,"Nelson, British Columbia",Journalist,Week 2,./season_09.csv
+April Jacobs,23,"Hyde Park, Chicago, Illinois",Model,Week 1,./season_09.csv
+Andrea Shirley,28,"Cincinnati, Ohio",Hotel concierge,Week 1,./season_09.csv
+Britt Keeder,28,"Columbus, Ohio",Beer chemist,Week 1,./season_09.csv
+Carissa Ilburg,25,"Cattaraugus, New York",Attorney,Week 1,./season_09.csv
+Claudia Gismondi,22,"Boca Raton, Florida",Restaurateur,Week 1,./season_09.csv
+Cosetta Blanca,,Italy,Dancer,Week 1,./season_09.csv
+Elyse Hammer,27,"Meadow Vista, California",Physician,Week 1,./season_09.csv
+Heather Sneed,34,"Aliquippa, Pennsylvania",Registered nurse,Week 1,./season_09.csv
+Jessica Horner,25,"Charlotte, North Carolina",Assistant buyer,Week 1,./season_09.csv
+Laura Morgan,29,"Spring Valley, California",Dolphin trainer,Week 1,./season_09.csv
+Meryl Barr,27,"Biloxi, Mississippi",Attorney,Week 1,./season_09.csv
+Renée Snell,30,"Baltimore, Maryland",Broadcast marketer,Week 1,./season_09.csv
+Rita Ghazal,29,"Richmond, Virginia",Policy advisor,Week 1,./season_09.csv
+Rosella Fratto,27,"Homer Glen, Illinois",Make-up artist,Week 1,./season_09.csv
+Tara Durr,24,"St. Augustine, Florida",Realtor,Week 1,./season_09.csv
+Tessa Horst,26,"San Francisco, California",Social Worker,Winner,./season_10.csv
+Bevin Nicole Powers,28,"Palo Alto, California",Assistant,Week 8,./season_10.csv
+Danielle Imwalle,25,"Bethel, Connecticut",Graphic Designer,Week 7,./season_10.csv
+Amber Alchalabi,23,"Sugar Land, Texas",Teacher,Week 6,./season_10.csv
+Stephanie Wilhite,23,"Overland Park, Kansas",Project Manager,Week 5,./season_10.csv
+Tina Wu,26,"Lenox Hill, New York",Medical student,Week 5,./season_10.csv
+Kate Brockhouse,24,"Ravenel, South Carolina",Boutique owner,Week 4,./season_10.csv
+Nicole Clary,26,"Charleston, South Carolina",Sales Manager,Week 4,./season_10.csv
+Stephanie Tipper,27,"Folly Beach, South Carolina",Organ donor coordinator,Week 4,./season_10.csv
+Amanda Hackney,26,"Dallas, Texas",Financial analyst,Week 3,./season_10.csv
+Erin Parker,24,"Logansport, Louisiana",Financial analyst,Week 3,./season_10.csv
+Peyton Wright,24,"Kingsport, Tennessee",Sorority recruiter,Week 3,./season_10.csv
+Alexis Young,26,"Southlake, Texas",Attorney,Week 2,./season_10.csv
+Susan Anderson,23,"The Woodlands, Texas",Boutique manager,Week 2,./season_10.csv
+Tiffany Warren,28,"Boston, Massachusetts",Medical equipment sales rep,Week 2,./season_10.csv
+Blakeney Rowe,29,"Birmingham, Alabama",Radio sales,Week 1,./season_10.csv
+Candice DeCost,23,"Hilton Head Island, South Carolina",Waitress,Week 1,./season_10.csv
+Catherine Warren,23,"Lake Forest, Illinois",Former Miss Illinois,Week 1,./season_10.csv
+Danielle Vallis,26,"The Bronx, New York",Attorney,Week 1,./season_10.csv
+Jacqueline Topelli,23,"Minneapolis, Minnesota",Executive coordinator,Week 1,./season_10.csv
+Jeanette Alvarez,27,"Tampa, Florida",Health care manager,Week 1,./season_10.csv
+Jessica Devallo,32,"New York, New York",Hedge fund analyst,Week 1,./season_10.csv
+Linda Malek,33,"Cuyahoga Falls, Ohio",Attorney,Week 1,./season_10.csv
+Lindsay Smith,22,"Lawrence, Kansas",Student,Week 1,./season_10.csv
+Tiffany Forester,27,"St. Louis Park, Minnesota",Real estate sales/development,Week 1,./season_10.csv
+DeAnna Pappas,25,"Newnan, Georgia",Realtor,Runner-Up,./season_11.csv
+Jenni Croft,27,"Wichita, Kansas",Phoenix Suns Cheerleader,Runner-Up,./season_11.csv
+Bettina Bell,27,"Washington, D.C.",Realtor,Week 7,./season_11.csv
+Sheena Stewart,23,"Walnut Creek, California",Internet marketing executive,Week 6,./season_11.csv
+Hillary Reisinger,27,"Philadelphia, Pennsylvania",Registered nurse,Week 5,./season_11.csv
+Kristy Katzmann,29,"Gurnee, Illinois",Acupuncturist,Week 5,./season_11.csv
+McCarten Delaney,26,"Lemon Grove, California",Account manager,Week 4,./season_11.csv
+Estefania Leon,26,"Atlanta, Georgia",Executive assistant,Week 4,./season_11.csv
+Jade Beazley,24,"Nashville, Tennessee",Boutique sales worker,Week 4,./season_11.csv
+Lindsey Hawkins,25,"Livonia, Michigan",Model,Week 3,./season_11.csv
+Sarah Newlon,23,"O'Fallon, Illinois",Bar manager,Week 3,./season_11.csv
+Solisa Shoop,25,"Georgetown, Texas",Esthetician,Week 3,./season_11.csv
+Erin Gardner,25,"Tampa, Florida",Publishing sales executive,Week 2,./season_11.csv
+Mallory Simons,24,"Honolulu, Hawaii",Nanny,Week 2,./season_11.csv
+Michele Leavy,30,"South Brunswick, New Jersey",Realtor,Week 2,./season_11.csv
+Jessica Kiss,27,"Lady Lake, Florida",News anchor,Week 1,./season_11.csv
+Julia Gilliam,24,"Chicago, Illinois",Law student,Week 1,./season_11.csv
+Kimberly Orville,31,"Woodbridge, Connecticut",Realtor,Week 1,./season_11.csv
+Lori Langley,33,"Annapolis, Maryland",Biology teacher,Week 1,./season_11.csv
+Melissa Buschel,28,"Armonk, New York",Event planner,Week 1,./season_11.csv
+Morgan Becker,24,"Tempe, Arizona",Graduate student,Week 1,./season_11.csv
+Natalie Velasco,25,"Duncanville, Texas",Law student,Week 1,./season_11.csv
+Regina Doringa,31,"San Diego, California",Account representative,Week 1,./season_11.csv
+Tauni Nessler ,31,"St. Louis Park, Minnesota",Emergency room nurse,Week 1,./season_11.csv
+Susan Coolidge,35,"St. Charles, Illinois",Project analyst,Week 1,./season_11.csv
+Shayne Lamas,22,"Malibu, California",Actress,Winner,./season_12.csv
+Chelsea Wanstrath,25,"Durango, Colorado",Pharmaceutical sales rep.,Runner-up,./season_12.csv
+Amanda Rantuccio,27,"Niceville, Florida",Account Executive,Week 7,./season_12.csv
+Noelle Drake,26,"Loveland, Colorado",Photographer,Week 6,./season_12.csv
+Marshana Ritchie,27,"Brooklyn, New York",Fashion designer,Week 5,./season_12.csv
+Robin Canfield,22,"Holland, Michigan",Advertising coordinator,Week 5,./season_12.csv
+Ashlee Williss,22,"Jacksonville Beach, Florida",Singer-songwriter,Week 4,./season_12.csv
+Kelly Hark,25,"Hollywood, California",Medical sales representative,Week 4,./season_12.csv
+Holly Durst,24,"Suffield, Ohio",Children's book author,Week 4,./season_12.csv
+Amy Bean,22,"Stockton, California",Nanny,Week 3,./season_12.csv
+Erin Storm,33,"San Marcos, California",Vendor,Week 3,./season_12.csv
+Kristine Heffelfinger,33,"Dillsburg, Pennsylvania",Personal trainer,Week 3,./season_12.csv
+Caroline Carri Perrier,25,"Oklahoma City, Oklahoma",Church marketing rep.,Week 2,./season_12.csv
+Erin Harper,25,"Seattle, Washington",Event planner,Week 2,./season_12.csv
+Michelle Procopio,28,"Syracuse, New York",Administrative assistant,Week 2,./season_12.csv
+Alyssa Johnson,24,"Boise, Idaho",Biology student,Week 1,./season_12.csv
+Amanda Peterman,26,"Cape Girardeau, Missouri",Law student,Week 1,./season_12.csv
+Denise Gitsham,30,"Washington, D.C.",Attorney and former White House aide,Week 1,./season_12.csv
+Devon Grisham,24,"Austin, Texas",Make-up artist,Week 1,./season_12.csv
+Lesley Geyer,23,"Tampa, Florida",Youth minister,Week 1,./season_12.csv
+Michele Romero,33,"Laguna Niguel, California",Interior designer,Week 1,./season_12.csv
+Rebecca LeBlanc,30,"Alamo, California",Attorney,Week 1,./season_12.csv
+Stacey Elza,26,"Chicago, Illinois",Graduate student,Week 1,./season_12.csv
+Tamara Marco,23,"Beverly Hills, California",Cocktail waitress,Week 1,./season_12.csv
+Tiffany Hickenbottom,33,"San Francisco, California",Real estate marketing rep.,Week 1,./season_12.csv
+Melissa Rycroft,25,"Dallas, Texas",Sales Representative,Winner,./season_13.csv
+Molly Malaney,24,"Brookfield, Wisconsin",Department Store Buyer,Runner-Up,./season_13.csv
+Jillian Harris,29,"Peace River, Alberta",Interior Designer,Week 7,./season_13.csv
+Naomi Crespo,24,"Carlsbad, California",Flight Attendant,Week 6,./season_13.csv
+Stephanie Hogan,34,"Huntsville, Alabama",Medical Marketing Representative,Week 5,./season_13.csv
+Lauren Wanger,27,"Marlboro, New Jersey",Teacher,Week 4,./season_13.csv
+Megan Parris,25,"Sewickley, Pennsylvania",Lacrosse Coach,Week 4,./season_13.csv
+Shannon Bair,29,"Marshall, Missouri",Dental Hygienist,Week 4,./season_13.csv
+Nikki Kaapke,29,"Blue Island, Illinois",Administrative Assistant,Week 4,./season_13.csv
+Erica DeSimone,25,"Monroe, Connecticut",Account Executive,Week 3,./season_13.csv
+Kari Fajen,27,"Lee's Summit, Missouri",Account Executive,Week 3,./season_13.csv
+Natalie Getz,27,"Morton, Illinois",Human Resources Recruiter,Week 3,./season_13.csv
+Raquel Medeiros,27,"Recife, Pernambuco",Medical Student,Week 2,./season_13.csv
+Sharon Staebell,32,"Batavia, New York",Teacher,Week 2,./season_13.csv
+Lisa Gonzalez,28,"Boise, Idaho",Public Relations Associate,Week 2,./season_13.csv
+Ann Lueders,24,"Phoenix, Arizona",Flight Attendant,Week 1,./season_13.csv
+Dominique Carta,26,"Mount Carmel, Pennsylvania",Medical Sales Representative,Week 1,./season_13.csv
+Emily,23,"Seattle, Washington",Casino Marketing Representative,Week 1,./season_13.csv
+Jackie Hickley,26,"Springfield, Massachusetts",Wedding Coordinator,Week 1,./season_13.csv
+Julie Dermotta,26,"Columbus, Ohio",Teacher,Week 1,./season_13.csv
+Nicole Mah,25,"Calgary, Alberta",Menswear Buyer,Week 1,./season_13.csv
+Renee Simlak,36,"Southfield, Michigan",Jewelry Designer,Week 1,./season_13.csv
+Shelby Callas,23,"Stockton, California",Account Executive,Week 1,./season_13.csv
+Stacia Mann,24,"Orem, Utah",Charity Accountant,Week 1,./season_13.csv
+Treasure Morgan,28,"Salt Lake City, Utah",Nurse Practitioner,Week 1,./season_13.csv
+Vienna Girardi,23,"Geneva, Florida",Marketing Representative,Winner,./season_14.csv
+Tenley Molzahn,25,"Newberg, Oregon",College Admissions,Runner-Up,./season_14.csv
+Gia Allemand,26,"Manorville, New York",Swimsuit Model,Week 7,./season_14.csv
+Ali Fedotowsky,25,"Williamstown, Massachusetts",Advertising Account Manager,Week 6,./season_14.csv
+Corrie Adamson,23,"Kissimmee, Florida",Wardrobe Consultant,Week 5,./season_14.csv
+Ashleigh Hunt,25,"North Potomac, Maryland",Account Manager,Week 4,./season_14.csv
+Jessica Sulidis,25,"Oakville, Ontario",Cosmetic Sales Manager,Week 4,./season_14.csv
+Kathryn Sherlock,25,"Lexington, Kentucky",Corporate Flight Attendant,Week 4,./season_14.csv
+Ella Nolan,30,"La Follette, Tennessee",Hair Stylist,Week 4,./season_14.csv
+Elizabeth Kitt (NE),29,"Imperial, Nebraska",Nanny,Week 3,./season_14.csv
+Valishia Savage,32,"San Bernardino, California",Homemaker,Week 3,./season_14.csv
+Michelle Kujawa,26,"Anaheim, California",Office Manager,Week 3,./season_14.csv
+Ashley Elmore,29,"Pittsburgh, Pennsylvania",Teacher,Week 2,./season_14.csv
+Christina McCasland,25,"Encinitas, California",Restaurant Manager,Week 2,./season_14.csv
+Rozlyn Papa,28,"Richmond, Virginia",Model/Make-Up Artist,Week 2,./season_14.csv
+Alexa McAllister,25,"Galloway, Ohio",Entrepreneur,Week 1,./season_14.csv
+Caitlyn McCabe,24,"Winfield, Illinois",Spokesmodel,Week 1,./season_14.csv
+Channy Choch,29,"Santa Rosa, California",Mortgage Loan Officer,Week 1,./season_14.csv
+Elizabeth Kreft (D.C.),29,"Union, Kentucky","Captain, Air National Guard",Week 1,./season_14.csv
+Emily Harkins,23,"West Chester, Ohio",Fit Model,Week 1,./season_14.csv
+Kimberly Sullivan,24,"Norman, Oklahoma",NBA Dancer,Week 1,./season_14.csv
+Kirsten Pittman,25,"Aurora, Colorado",Waitress,Week 1,./season_14.csv
+Sheila Lidner,25,"Scottsdale, Arizona",Commercial Pilot,Week 1,./season_14.csv
+Stephanie Mueller,24,"Morris, Illinois",Dance Teacher,Week 1,./season_14.csv
+Tiana Kruzel,31,"Calgary, Alberta",Medical Technician,Week 1,./season_14.csv
+Catherine Giudici,26,"Seattle, Washington",Graphic Designer,Winner,./season_17.csv
+Lindsay Yenter,24,"Fort Leonard Wood, Missouri",Substitute Teacher,Runner-up,./season_17.csv
+AshLee Frazier,32,"Houston, Texas",Personal Organizer,Week 9,./season_17.csv
+Desiree Hartsock,26,"Northglenn, Colorado",Bridal Stylist,Week 8,./season_17.csv
+Lesley Murphy,25,"Fort Smith, Arkansas",Political Consultant,Week 7,./season_17.csv
+Tierra LiCausi,24,"Las Vegas, Nevada",Leasing Consultant,Week 7,./season_17.csv
+Daniella McBride,24,"Belmont, California",Commercial Casting Associate,Week 6,./season_17.csv
+Selma Alameri,29,"Borrego Springs, California",Real Estate Dealer,Week 6,./season_17.csv
+Sarah Herron,26,"Evergreen, Colorado",Advertising Executive,Week 6,./season_17.csv
+Robyn Howard,24,"Topeka, Kansas",Oil Field Account Manager,Week 5,./season_17.csv
+Jacqueline Parr,25,"Ormond Beach, Florida",Cosmetics Consultant,Week 5,./season_17.csv
+Amanda Meyer,26,"Bakersfield, California",Fit Model,Week 4,./season_17.csv
+Leslie Hughes,28,"Ruskin, Florida",Poker Dealer,Week 4,./season_17.csv
+Kristina Kaminski,25,"Darien, Wisconsin",Model,Week 3,./season_17.csv
+Taryn Renee Daniels,30,"Troutdale, Oregon",Health Club Manager,Week 3,./season_17.csv
+Kacie Boguskie,25,"Clarksville, Tennessee",Administrative Assistant,Week 3,./season_17.csv
+Brooke Burchette,25,"Pittsburgh, Pennsylvania",Community Organizer,Week 2,./season_17.csv
+Diana Weeks Willardson,31,"Sandy, Utah",Salon Owner,Week 2,./season_17.csv
+Katherine Levans,27,"Woodstock, Illinois",Yoga Instructor,Week 2,./season_17.csv
+Ashley Harper,25,"Garner, North Carolina",Fashion Model,Week 1,./season_17.csv
+Ashley Palenkas,28,"Macomb, Michigan",Hair Stylist,Week 1,./season_17.csv
+Kelly Dutton,28,"Chattanooga, Tennessee",Cruise Ship Entertainer,Week 1,./season_17.csv
+Keriann Miranda,29,"Agoura Hills, California",Entrepreneur,Week 1,./season_17.csv
+Lacey Latka,24,"Stevenson Ranch, California",Graduate Student,Week 1,./season_17.csv
+Lauren Marchetti,27,"Cranston, Rhode Island",Journalist,Week 1,./season_17.csv
+Paige Vigil,25,"Minnetonka, Minnesota",Jumbotron Operator,Week 1,./season_17.csv
+Nikki Ferrell,26,"Kearney, Missouri",Pediatric Nurse,Winner,./season_18.csv
+Clare Crawley,32,"Sacramento, California",Hairstylist,Runner-up,./season_18.csv
+Andi Dorfman,26,"Buckhead, Georgia",Assistant District Attorney,Week 9,./season_18.csv
+Renee Oteri,32,"Martha's Vineyard, Massachusetts",Real Estate Agent,Week 8,./season_18.csv
+Chelsie Webster,24,"Lexington, Ohio",Science Educator,Week 7,./season_18.csv
+Sharleen Joynt,29,"Ottawa, Ontario",Opera Singer,Week 7,./season_18.csv
+Katherine Hurd,29,"Iowa City, Iowa",Medical Sales Rep,Week 6,./season_18.csv
+Cassandra Ferguson,22,"Rochester Hills, Michigan",Former NBA Dancer,Week 6,./season_18.csv
+Allison Restko,26,"Orland Park, Illinois",Nanny,Week 5,./season_18.csv
+Danielle Ronco,25,"Litchfield, Illinois",Psychiatric Nurse,Week 5,./season_18.csv
+Kelly Travis,27,"Conyers, Georgia",Dog Lover,Week 5,./season_18.csv
+Elise Mosca,27,"Forty Fort, Pennsylvania",First Grade Teacher,Week 4,./season_18.csv
+Lauren Solomon,26,"Clinton, Michigan",Music Composer,Week 4,./season_18.csv
+Christy Hansen,24,"Aurora, Illinois",Marketing Manager,Week 3,./season_18.csv
+Lucinda Aragon,25,"Santa Barbara, California",Free Spirit,Week 3,./season_18.csv
+Amy Long,27,"Clermont, Florida",Local News Reporter,Week 2,./season_18.csv
+Chantel Forrest,27,"Miami, Florida",Account Manager,Week 2,./season_18.csv
+Victoria Lima,24,"Porto Alegre, Brazil",Legal Assistant,Week 2,./season_18.csv
+Alexis Morgado,24,"Tampa, Florida",Communications Director,Week 1,./season_18.csv
+Amy Jokinen,31,"Apopka, Florida",Massage Therapist,Week 1,./season_18.csv
+Ashley Poe,25,"Roanoke, Texas",Grade School Teacher,Week 1,./season_18.csv
+Christine Llano,23,"Miami, Florida",Police Support Specialist,Week 1,./season_18.csv
+Kylie Lewis,23,"Rockford, Illinois",Interior Designer,Week 1,./season_18.csv
+Lacy Faddoul,25,"Antelope Acres, California",Nursing Home Owner,Week 1,./season_18.csv
+Lauren Higginson,25,"Edmond, Oklahoma",Mineral Coordinator,Week 1,./season_18.csv
+Maggie Gantt,25,"Wagener, South Carolina",Personal Banker,Week 1,./season_18.csv
+Valerie Eredia,26,"Sutter, California",Personal Trainer,Week 1,./season_18.csv
+Whitney Bischoff,29,"Louisville, Kentucky",Fertility Nurse,Winner,./season_19.csv
+Becca Tilley,25,"Shreveport, Louisiana",Chiropractic Assistant,Runner-up,./season_19.csv
+Kaitlyn Bristowe,29,"Leduc, Alberta",Dance Instructor,Week 9,./season_19.csv
+Jade Roper,28,"Gering, Nebraska",Cosmetics Developer,Week 8,./season_19.csv
+Carly Waddell,29,"Arlington, Texas",Cruise Ship Singer,Week 7,./season_19.csv
+Britt Nilsson,27,"Wolcott Mills, Michigan",Waitress,Week 7,./season_19.csv
+Megan Bell,24,"Brentwood, Tennessee",Make-Up Artist,Week 6,./season_19.csv
+Kelsey Poe,28,"Hudsonville, Michigan",Guidance Counselor,Week 6,./season_19.csv
+Ashley Iaconetti,26,"Great Falls, Virginia",Journalist,Week 6,./season_19.csv
+Mackenzie Deonigi,21,"Maple Valley, Washington",Dental Assistant,Week 5,./season_19.csv
+Samantha Steffen,27,"Indianapolis, Indiana",Fashion Designer,Week 5,./season_19.csv
+Ashley Salter,24,"Vinings, Georgia",Hair Stylist,Week 4,./season_19.csv
+Juelia Kinney,30,"Beaverton, Oregon",Esthetician,Week 4,./season_19.csv
+Nikki Delventhal,26,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader,Week 4,./season_19.csv
+Jillian Anderson,25,"Howland, Ohio",News Producer,Week 4,./season_19.csv
+Amber James,29,"Kankakee, Illinois",Bartender,Week 3,./season_19.csv
+Tracy Darakis,29,"Wellington, Florida",Fourth Grade Teacher,Week 3,./season_19.csv
+Trina Scherenberg,33,"Algonquin, Illinois",Special Education Teacher,Week 3,./season_19.csv
+Alissa Giambrone,24,"Hamilton, New Jersey",Flight Attendant,Week 2,./season_19.csv
+Jordan Branch,24,"Windsor, Colorado",Student,Week 2,./season_19.csv
+Kimberly Sherbach,28,"Wantagh, New York",Yoga Instructor,Week 2,./season_19.csv
+Tandra Steiner,30,"Sandy, Utah",Executive Assistant,Week 2,./season_19.csv
+Tara Eddings,26,"Fort Lauderdale, Florida",Sport Fishing Enthusiast,Week 2,./season_19.csv
+Amanda Goerlitz,24,"Lake in the Hills, Illinois",Ballet Teacher,Week 1,./season_19.csv
+Bo Stanley,25,"Carpinteria, California",Plus-Size Model,Week 1,./season_19.csv
+Brittany Fetkin,26,"Temecula, California",WWE Diva-in-Training,Week 1,./season_19.csv
+Kara Wilson,25,"Brownsville, Kentucky",High School Soccer Coach,Week 1,./season_19.csv
+Michelle Davis,25,"Provo, Utah",Wedding Cake Baker,Week 1,./season_19.csv
+Nicole Meacham,31,"Scottsdale, Arizona",Real Estate Agent,Week 1,./season_19.csv
+Reegan Cornwell,28,"Manhattan Beach, California",Cadaver Tissue Saleswoman,Week 1,./season_19.csv
+Lauren Bushnell,25,"West Linn, Oregon",Flight Attendant,Winner,./season_20.csv
+Joelle Fletcher,24,"Dallas, Texas",Real Estate Developer,Runner-up,./season_20.csv
+Caila Quinn,24,"Hudson, Ohio",Software Sales Representative,Week 9,./season_20.csv
+Amanda Stanton,25,"Laguna Beach, California",Esthetician,Week 8,./season_20.csv
+Becca Tilley,26,"Shreveport, Louisiana",Chiropractic Assistant,Week 7,./season_20.csv
+Emily Ferguson,23,"Las Vegas, Nevada",Waitress,Week 6,./season_20.csv
+Lauren Himle,25,"Dexter, Michigan",Kindergarten Teacher,Week 6,./season_20.csv
+Olivia Caridi,23,"Austin, Texas",Former News Anchor,Week 6,./season_20.csv
+Leah Block,25,"Greenwood Village, Colorado",Event Planner,Week 6,./season_20.csv
+Jennifer Saviano,25,"Davie, Florida",Small Business Owner,Week 5,./season_20.csv
+Jubilee Sharpe,24,"Fort Lauderdale, Florida",War Veteran,Week 5,./season_20.csv
+Amber James,30,"Kankakee, Illinois",Bartender,Week 4,./season_20.csv
+Rachel Tchen,23,"Little Rock, Arkansas",Unemployed,Week 4,./season_20.csv
+Haley Ferguson,23,"Las Vegas, Nevada",Waitress,Week 4,./season_20.csv
+Jami Letain,23,"St. Albert, Alberta",Bartender,Week 3,./season_20.csv
+Shushanna Mkrtychyan,27,"Salt Lake City, Utah",Property Manager,Week 3,./season_20.csv
+Lace Morris,25,"Denver, Colorado",Real Estate Agent,Week 3,./season_20.csv
+Amanda Kremer,28,"Portland, Oregon",Dentist,Week 2,./season_20.csv
+Jacqueline Dion,23,"Newport Beach, California",Gerontologist,Week 2,./season_20.csv
+Samantha Passmore,26,"New Smyrna Beach, Florida",Attorney,Week 2,./season_20.csv
+Lauren Barr,23,"Stillwater, Oklahoma",Fashion Buyer,Week 2,./season_20.csv
+Breanne Rice,30,"Seattle, Washington",Nutritional Therapist,Week 1,./season_20.csv
+Isabel Goodkind,24,"Branford, Connecticut",Graphic Designer,Week 1,./season_20.csv
+Jessica Moser,23,"Boca Raton, Florida",Accountant,Week 1,./season_20.csv
+Laura Esselman,24,"Louisville, Kentucky",Account Executive,Week 1,./season_20.csv
+Lauren Russell,26,"Houston, Texas",Math Teacher,Week 1,./season_20.csv
+Maegan Miller,30,"Visalia, California",Cowgirl,Week 1,./season_20.csv
+Tiara Soleim,27,"Redmond, Washington",Chicken Enthusiast,Week 1,./season_20.csv
+Vanessa Grimaldi,29,"Montreal, Quebec",Special Education Teacher,Winner,./season_21.csv
+Raven Gates,25,"Hoxie, Arkansas",Fashion Boutique Owner,Runner-Up,./season_21.csv
+Rachel Lindsay,31,"Dallas, Texas",Attorney,Week 9,./season_21.csv
+Corinne Olympios,24,"Miami, Florida",Business Owner,Week 8,./season_21.csv
+Kristina Schulman,24,"Lexington, Kentucky",Dental Hygienist,Week 7,./season_21.csv
+Danielle Maltby,31,"Colgate, Wisconsin",Neonatal Nurse,Week 7,./season_21.csv
+Danielle Lombard,27,"Danville, California",Small Business Owner,Week 6,./season_21.csv
+Whitney Fransway,25,"Chanhassen, Minnesota",Pilates Instructor,Week 6,./season_21.csv
+Jasmine Goode,29,"Maplewood, New Jersey",Pro Basketball Dancer,Week 6,./season_21.csv
+Alexis Waters,23,"Secaucus, New Jersey",Aspiring Dolphin Trainer,Week 5,./season_21.csv
+Jaimi King,28,"New Orleans, Louisiana",Chef,Week 5,./season_21.csv
+Josephine Tutman,24,"Santa Cruz, California",Registered Nurse,Week 5,./season_21.csv
+Taylor Nolan,23,"Seattle, Washington",Mental Health Counselor,Week 5,./season_21.csv
+Astrid Loch,26,"Tampa, Florida",Plastic Surgery Office Manager,Week 4,./season_21.csv
+Sarah Vendal,26,"Palmdale, California",Grade School Teacher,Week 4,./season_21.csv
+Brittany Farrar,26,"Santa Monica, California",Travel Nurse,Week 3,./season_21.csv
+Christen Whitney,25,"Martinsville, Indiana",Wedding Videographer,Week 3,./season_21.csv
+Dominique Alexis,25,"Los Angeles, California",Restaurant Server,Week 3,./season_21.csv
+Elizabeth Whitelaw,24,"New Trier, Illinois",Marketing Manager,Week 2,./season_21.csv
+Hailey Merkt,23,"Vancouver, British Columbia",Photographer,Week 2,./season_21.csv
+Lacey Mark,25,"Montville, New Jersey",Digital Marketing Manager,Week 2,./season_21.csv
+Elizabeth Sandoz,29,"Scottsbluff, Nebraska",Doula,Week 2,./season_21.csv
+Angela Amezcua,26,"Cumberland, Maryland",Model,Week 1,./season_21.csv
+Briana Guertler,28,"Salt Lake City, Utah",Surgical Unit Nurse,Week 1,./season_21.csv
+Ida Marie DeLosSantos,23,"Harlingen, Texas",Sales Manager,Week 1,./season_21.csv
+Jasmine Brown,25,"Tacoma, Washington",Flight Attendant,Week 1,./season_21.csv
+Lauren Hussey,30,"Naples, Florida",Law School Graduate,Week 1,./season_21.csv
+Michelle Ramkissoon,24,"Silver Spring, Maryland",Food Truck Owner,Week 1,./season_21.csv
+Olivia Burnette,25,"Anchorage, Alaska",Apparel Sales Representative,Week 1,./season_21.csv
+Susannah Milan,26,"Jamul, California",Account Manager,Week 1,./season_21.csv
+Becca Kufrin,27,"Prior Lake, Minnesota",Publicist,Winner,./season_22.csv
+Lauren Burnham,25,"Virginia Beach, Virginia",Technology Salesperson,Runner-up,./season_22.csv
+Kendall Long,26,"Santa Clarita, California",Creative Director,Week 9,./season_22.csv
+Tia Booth,26,"Weiner, Arkansas",Physical Therapist,Week 8,./season_22.csv
+Bekah Martinez,22,"Clovis, California",Nanny,Week 7,./season_22.csv
+Seinne Fleming,27,"Long Beach, California",Commercial Real Estate Agent,Week 7,./season_22.csv
+Jacqueline Trumbull,26,"Morgantown, West Virginia",Research Coordinator,Week 7,./season_22.csv
+Chelsea Roy,29,"South Portland, Maine",Real Estate Executive Assistant,Week 6,./season_22.csv
+Jenna Cooper,28,"Upland, Indiana",Social Media Manager,Week 6,./season_22.csv
+Krystal Nielson,29,"Missoula, Montana",Fitness Coach,Week 6,./season_22.csv
+Ashley Luebke,25,"West Palm Beach, Florida",Real Estate Agent,Week 5,./season_22.csv
+Maquel Cooper,23,"American Fork, Utah",Photographer,Week 5,./season_22.csv
+Marikh Mathias,27,"Salt Lake City, Utah",Restaurant Owner,Week 5,./season_22.csv
+Brittany Taylor,30,"Belton, South Carolina",Tech Recruiter,Week 4,./season_22.csv
+Caroline Lunny,26,"Holliston, Massachusetts",Realtor,Week 4,./season_22.csv
+Bibiana Julian,30,"Miami, Florida",Executive Assistant,Week 3,./season_22.csv
+Annaliese Puccini,32,"San Mateo, California",Event Designer,Week 3,./season_22.csv
+Lauren Schleyer,31,"Dallas, Texas",Social Media Manager,Week 3,./season_22.csv
+Jennifer Delaney,25,"Northbrook, Illinois",Graphic Designer,Week 2,./season_22.csv
+Lauren Griffin,26,"Indianapolis, Indiana",Executive Recruiter,Week 2,./season_22.csv
+Valerie Biles,26,"Nashville, Tennessee",Server,Week 2,./season_22.csv
+Alison Harrington,27,"Lawton, Oklahoma",Personal Stylist,Week 1,./season_22.csv
+Amber Wilkerson,29,"Denver, Colorado",Business Owner,Week 1,./season_22.csv
+Brianna Amaranthus,25,"Grants Pass, Oregon",Sports Reporter,Week 1,./season_22.csv
+Brittane Johnson,27,"San Diego, California",Marketing Manager,Week 1,./season_22.csv
+Jessica Carroll,26,"Calgary, Alberta",Television Host,Week 1,./season_22.csv
+Lauren Jarreau,33,"New Roads, Louisiana",Recent Master's Graduate,Week 1,./season_22.csv
+DNysha Norris,30,"Anderson, South Carolina",Orthopedic Nurse,Week 1,./season_22.csv
+Olivia Goethals,23,"Geneseo, Illinois",Marketing Associate,Week 1,./season_22.csv
+Cassie Randolph,23,"Huntington Beach, California",Speech Pathologist,Winner,./season_23.csv
+Hannah Godwin,23,"Birmingham, Alabama",Content Creator,Week 9,./season_23.csv
+Tayshia Adams,28,"Santa Ana, California",Phlebotomist,Week 9,./season_23.csv
+Caelynn Miller-Keyes,23,"Fredericksburg, Virginia",Miss North Carolina USA 2018,Week 8,./season_23.csv
+Kirpa Sudick,26,"Whittier, California",Dental Hygienist,Week 7,./season_23.csv
+Heather Martin,23,"Carlsbad, California",Assistant Program Manager,Week 7,./season_23.csv
+Hannah Brown,24,"Northport, Alabama",Miss Alabama USA 2018,Week 7,./season_23.csv
+Katie Morton,26,"Oviedo, Florida",Medical Sales Representative,Week 6,./season_23.csv
+Demi Burnett,23,"Red Oak, Texas",Interior Designer,Week 6,./season_23.csv
+Sydney Lotuaco,27,"Virginia Beach, Virginia",NBA Dancer,Week 6,./season_23.csv
+Nicole Lopez-Alvar,25,"Miami, Florida",Social Media Coordinator,Week 5,./season_23.csv
+Onyeka Ehie,24,"Manhattan, Kansas",IT Risk Consultant,Week 5,./season_23.csv
+Elyse Dehlbom,31,"Soldotna, Alaska",Makeup Artist,Week 5,./season_23.csv
+Courtney Curtis,23,"McDonough, Georgia",Caterer,Week 4,./season_23.csv
+Tracy Shapoff,31,"Rochester, New York",Wardrobe Stylist,Week 4,./season_23.csv
+Brianna Barnes,24,"Chino Hills, California",Model,Week 3,./season_23.csv
+Catherine Agro,26,"Fort Lauderdale, Florida",DJ,Week 3,./season_23.csv
+Nina Bartula,30,"Raleigh, North Carolina",Sales Account Manager,Week 3,./season_23.csv
+Caitlin Clemmens,25,"Toronto, Ontario",Realtor,Week 3,./season_23.csv
+Alex Blumberg,29,"Vancouver, British Columbia",Dog Rescuer,Week 2,./season_23.csv
+Angelique Sherman,28,"Hamilton, New Jersey",Marketing Salesperson,Week 2,./season_23.csv
+Annie Reardon,23,"Mequon, Wisconsin",Financial Associate,Week 2,./season_23.csv
+Erika McNutt,25,"Encinitas, California",Recruiter,Week 2,./season_23.csv
+Alex Dillon,23,"Dennis, Massachusetts",Sloth,Week 1,./season_23.csv
+Devin Gooden,23,"Medford, Oregon",Broadcast Journalist,Week 1,./season_23.csv
+Erin Landry,28,"Plano, Texas",Cinderella,WeekWeek 1,./season_23.csv
+Adrianne Averbukh,26,"West Hollywood, California",Social Worker,Week 1,./season_23.csv
+Laura Pellerito,26,"Dallas, Texas",Accountant,Week 1,./season_23.csv
+Revian Chang,24,"Plano, Texas",Nurse,Week 1,./season_23.csv
+Tahzjuan Hawkins,25,"Castle Pines, Colorado",Business Development Associate,Week 1,./season_23.csv
+Hannah Ann Sluss,23,"Powell, Tennessee",Model,Winner,./season_24.csv
+Madison Prewett,23,"Auburn, Alabama",Foster Parent Recruiter,Runner-up,./season_24.csv
+Victoria Fuller,26,"Virginia Beach, Virginia",Medical Sales Rep,Week 9,./season_24.csv
+Kelsey Weier,28,"Urbandale, Iowa",Professional Clothier,Week 8,./season_24.csv
+Kelley Flanagan,27,"North Barrington, Illinois",Attorney,Week 7,./season_24.csv
+Natasha Parker,31,"Manhattan, New York",Event Planner,Week 7,./season_24.csv
+Mykenna Dorn,22,"Langley, British Columbia",Fashion Blogger,Week 6,./season_24.csv
+Sydney Hightower,24,"Northport, Alabama",Retail Marketing Manager,Week 6,./season_24.csv
+Tammy Ly,24,"Syracuse, New York",House Flipper,Week 6,./season_24.csv
+Victoria Paul,27,"Alexandria, Louisiana",Nurse,Week 6,./season_24.csv
+Lexi Buchanan,26,"Jacksonville, Florida",Marketing Coordinator,Week 5,./season_24.csv
+Shiann Lewis,27,"Las Vegas, Nevada",Administrative Assistant,Week 5,./season_24.csv
+Deandra Kanu,23,"Bar Harbor, Maine",Home Care Coordinator,Week 4,./season_24.csv
+Kiarra Norman,23,"Kennesaw, Georgia",Nanny,Week 4,./season_24.csv
+Savannah Mullins,27,"Houston, Texas",Realtor,Week 4,./season_24.csv
+Alayah Benavidez,24,"Helotes, Texas",Orthodontist Assistant,Week 4,./season_24.csv
+Alexa Caves,27,"Springfield, Illinois",Esthetician,Week 4,./season_24.csv
+Jasmine Nguyen,25,"Houston, Texas",Client Relations Manager,Week 4,./season_24.csv
+Sarah Coffin,24,"Knoxville, Tennessee",Medical Radiographer,Week 4,./season_24.csv
+Courtney Perry,26,"Venice, Florida",Cosmetologist,Week 2,./season_24.csv
+Lauren Jones,26,"Glendale, California",Marketing Executive,Week 2,./season_24.csv
+Payton Moran,24,"Wellesley, Massachusetts",Business Development Rep,Week 2,./season_24.csv
+Avonlea Elkins,27,"Fort Worth, Texas",Cattle Rancher,Week 1,./season_24.csv
+Eunice Cho,23,"Chicago, Illinois",Flight Attendant,Week 1,./season_24.csv
+Jade Gilliland,26,"Mesa, Arizona",Media Buyer,Week 1,./season_24.csv
+Jenna Serrano,22,"New Lenox, Illinois",Nursing Student,Week 1,./season_24.csv
+Katrina Badowski,28,"St. Charles, Illinois",Pro NBA Dancer,Week 1,./season_24.csv
+Kylie Ramos,26,"Davis, California",Entertainment Sales Associate,Week 1,./season_24.csv
+Maurissa Gunn,23,"Laurel, Montana",Patient Care Coordinator,Week 1,./season_24.csv
+Megan Hops,26,"San Bruno, California",Flight Attendant,Week 1,./season_24.csv
+Rachael Kirkconnell,24,"Cumming, Georgia",Graphic Designer,Winner,./season_25.csv
+Michelle Young,27,"Woodbury, Minnesota",Teacher,Runner-Up,./season_25.csv
+Briana Springs,24,"San Antonio, Texas",Communications Manager,Week 9,./season_25.csv
+Serena Pitt,23,"Markham, Ontario",Publicist,Week 8,./season_25.csv
+Pieper James,23,"Happy Valley, Oregon",Graduate Student,Week 8,./season_25.csv
+Jessenia Cruz,27,"El Paso, Texas",Social Media Marketer,Week 8,./season_25.csv
+Kit Keenan,21,"Manhattan, New York",Fashion Entrepreneur,Week 7,./season_25.csv
+Abigail Heringer,25,"Salem, Oregon",Client Financial Manager,Week 7,./season_25.csv
+Chelsea Vaughn,29,"Marietta, Georgia",Runway Model,Week 6,./season_25.csv
+Serena Chew,24,"San Bruno, California",Flight Attendant,Week 6,./season_25.csv
+Katie Thurston,29,"Lynnwood, Washington",Bank Marketing Manager,Week 6,./season_25.csv
+Brittany Galvin,23,"Hinsdale, Illinois",Model,Week 5,./season_25.csv
+Mearg Tareke,32,"Adwa, Ethiopia",Pharmacist,Week 5,./season_25.csv
+Ryan Claytor,26,"Mechanicsville, Virginia",Dancer/Choreographer,Week 5,./season_25.csv
+Meredith Snyder,23,"Hudson, Ohio",Hairstylist,Week 5,./season_25.csv
+Catalina Morales,29,"Caguas, Puerto Rico",Former Miss Universe Puerto Rico,Week 4,./season_25.csv
+Lauren Maddox,29,"Miami, Florida",Corporate Attorney,Week 4,./season_25.csv
+Mariela Pepin,24,"Severn, Maryland",Marketing Director,Week 4,./season_25.csv
+Victoria Larson,27,"Los Angeles, California",Queen,Week 4,./season_25.csv
+Anna Redman,24,"Owatonna, Minnesota",Copywriter,Week 4,./season_25.csv
+Kaili Anderson,26,"San Diego, California",Hostess,Week 3,./season_25.csv
+Khaylah Epps,28,"Durham, North Carolina",Healthcare Advocate,Week 3,./season_25.csv
+Kimberly Li,28,"Cypress, California",ICU Nurse,Week 3,./season_25.csv
+Sarah Trott,24,"Scripps Ranch, California",Broadcast Journalist,Week 3,./season_25.csv
+Alana Milne,26,"San Antonio, Texas",Photographer,Week 2,./season_25.csv
+Illeana Pennetto,25,"South Salem, New York",Health Food Developer,Week 2,./season_25.csv
+Kristin Hopkins,27,"Virginia Beach, Virginia",Attorney,Week 2,./season_25.csv
+Marylynn Sienna,28,"Huntington Beach, California",Event Coordinator,Week 2,./season_25.csv
+Sydney Johnson,28,"Franklin, Tennessee",Marketing Specialist,Week 2,./season_25.csv
+Alicia Holloway,24,"Morgantown, West Virginia",Professional Ballerina,Week 1,./season_25.csv
+Amber Andrews,30,"Rialto, California",Nursing Student,Week 1,./season_25.csv
+Carolyn Vallejo,30,"Newburyport, Massachusetts",Journalist,Week 1,./season_25.csv
+Casandra Suarez,25,"Lodi, California",Social Worker,Week 1,./season_25.csv
+Corrinne Jones,22,"Pomfret, Connecticut",Marketing Manager,Week 1,./season_25.csv
+Emani Curl,25,"Albuquerque, New Mexico",Realtor,Week 1,./season_25.csv
+Kimberly Courneya,28,"Lake Tapps, Washington",Airline Recruiter,Week 1,./season_25.csv
+Saneh Ste. Claire,25,"Vilano Beach, Florida",IT Consultant,Week 1,./season_25.csv
+Susie Evans,28,"Poquoson, Virginia",Wedding Videographer,Winner,./season_26.csv
+"Gabriela ""Gabby"" Windey",30,"O'Fallon, Illinois",ICU Nurse,Runner-Up,./season_26.csv
+Rachel Recchia,25,"Clermont, Florida",Flight Instructor,Week 9,./season_26.csv
+Serene Russell,26,"Oklahoma City, Oklahoma",Elementary School Teacher,Week 8,./season_26.csv
+Teddi Wright,24,"Redlands, California",Surgical Unit Nurse,Week 7,./season_26.csv
+Sarah Hamrick,23,"Spartanburg, South Carolina",Wealth Management Advisor,Week 7,./season_26.csv
+Genevieve Parisi,26,"Rehoboth, Massachusetts",Bartender,Week 7,./season_26.csv
+Eliza Isichei,25,"Tampa, Florida",Marketing Manager,Week 6,./season_26.csv
+Mara Agrait,32,"Collingswood, New Jersey",Entrepreneur,Week 6,./season_26.csv
+Hunter Haag,28,"Lake Wylie, South Carolina",Human Resources Specialist,Week 5,./season_26.csv
+Marlena Wesh,30,"Virginia Beach, Virginia",Former Olympian,Week 5,./season_26.csv
+Shanae Ankney,29,"Sycamore, Ohio",Recruiter,Week 5,./season_26.csv
+Jillian Chin,26,"Scituate, Rhode Island",Architectural Historian,Week 4,./season_26.csv
+Lyndsey Windham,28,"Orange, Texas",Industrial Sales Representative,Week 4,./season_26.csv
+Sierra Jackson,26,"Oklahoma City, Oklahoma",Yoga Instructor,Week 4,./season_26.csv
+Elizabeth Corrigan,32,"Highlands Ranch, Colorado",Real Estate Advisor,Week 3,./season_26.csv
+Kira Mengistu,32,"Greensboro, North Carolina",Physician,Week 3,./season_26.csv
+Melina Nasab,27,"West Hollywood, California",Personal Trainer,Week 3,./season_26.csv
+Ency Abedin,28,"Burbank, California",Sales Manager,Week 2,./season_26.csv
+Kate Gallivan,32,"Clarksville, Tennessee",Real Estate Agent,Week 2,./season_26.csv
+Tessa Tookes,26,"Stamford, Connecticut",Human Resources Specialist,Week 2,./season_26.csv
+Cassidy Timbrooks,26,"Cave Creek, Arizona",Executive Recruiter,Week 2,./season_26.csv
+Daria Rose,24,"Baldwin, New York",Law Student,Week 1,./season_26.csv
+Hailey Malles,26,"Orlando, Florida",Pediatric Nurse,Week 1,./season_26.csv
+Ivana Noble,31,"Snellville, Georgia",Bar Mitzvah Dancer,Week 1,./season_26.csv
+Jane Paik,33,"Santa Monica, California",Social Media Director,Week 1,./season_26.csv
+Lindsay Dobbs,27,"Warner Robins, Georgia",Neonatal Nurse,Week 1,./season_26.csv
+Rianna Hockaday,26,"Mount Pleasant, Texas",Registered Nurse,Week 1,./season_26.csv
+Samantha Jeffries,26,"Dayton, Ohio",Occupational Therapist,Week 1,./season_26.csv
+Claire Heilig,28,"Virginia Beach, Virginia",Spray Tanner,Week 1,./season_26.csv
+Kaitlyn Biggar,27,"Kingston, Ontario",Travel Nurse,Winner,./season_27.csv
+Gabriella Elnicki,25,"Pittsford, Vermont",Senior Account Executive,Runner-Up,./season_27.csv
+Ariel Frenkel,28,"Manhattan, New York",Marketing Executive,Week 9,./season_27.csv
+Charity Lawson,26,"Columbus, Georgia",Child and Family Therapist,Week 8,./season_27.csv
+Katherine Izzo,26,"Tampa, Florida",Registered Nurse,Week 7,./season_27.csv
+Brooklyn Willie,25,"Mineola, Texas",Rodeo Racer,Week 7,./season_27.csv
+Greer Blitzer,24,"Bellaire, Texas",Medical Sales Representative,Week 7,./season_27.csv
+Alyssa Jacobs,26,"Smyrna, Georgia",Healthcare Strategist,Week 6,./season_27.csv
+Jessica Girod,23,"Winter Springs, Florida",E-Commerce Coordinator,Week 6,./season_27.csv
+Kylee Russell,25,"Charlotte, North Carolina",Postpartum Nurse,Week 5,./season_27.csv
+Mercedes Northup,24,"Bloomfield, Iowa",Nonprofit Case Manager,Week 5,./season_27.csv
+Davia Bunch,25,"Roebuck, South Carolina",Marketing Manager,Week 4,./season_27.csv
+Genevie Mayo,26,"Joppa, Maryland",Neonatal Nurse,Week 4,./season_27.csv
+Anastasia Keramidas,30,"Baltimore, Maryland",Content Marketing Manager,Week 4,./season_27.csv
+Christina Mandrell,26,"Hendersonville, Tennessee",Content Creator,Week 3,./season_27.csv
+Brianna Thorbourne,24,"Jersey City, New Jersey",Entrepreneur,Week 3,./season_27.csv
+Bailey Brown,27,"Brentwood, Tennessee",Executive Recruiter,Week 3,./season_27.csv
+Catherine Wong,26,"Bushwick, New York",Professional Dancer,Week 2,./season_27.csv
+Kimberly Gutierrez,30,"Stroudsburg, Pennsylvania",Hospitality Manager,Week 2,./season_27.csv
+Victoria Jameson,30,"Keller, Texas",Professional Makeup Artist,Week 2,./season_27.csv
+Becca Serrano,25,"Burbank, California",Nursing Student,Week 1,./season_27.csv
+Cara Ammon,27,"McCandless, Pennsylvania",Corporate Recruiter,Week 1,./season_27.csv
+Holland Parsons,24,"Boca Raton, Florida",Insurance Marketer,Week 1,./season_27.csv
+Lekha Ravi,29,"Miami, Florida",Financial Advisor,Week 1,./season_27.csv
+Olivia Lewis,24,"Churchville, New York",Patient Care Technician,Week 1,./season_27.csv
+Olivia Miller,25,"Delphos, Ohio",Stylist,Week 1,./season_27.csv
+Sonia Sharma,29,"Jericho, New York",Project Manager,Week 1,./season_27.csv
+Vanessa Dinh,23,"Farmington Hills, Michigan",Restaurant Marketer,Week 1,./season_27.csv
+Viktoria Eichner,29,"Vienna, Austria",Nanny,Week 1,./season_27.csv
+Madison Johnson,26,"Fargo, North Dakota",Business Owner,Week 1,./season_27.csv
+Kelsey Anderson,25,"Leesville, Louisiana",Junior Project Manager,Winner,./season_28.csv
+Daisy Kent,25,"Becker, Minnesota",Account Executive,Runner-Up,./season_28.csv
+Rachel Nance,26,"Honolulu, Hawaii",ICU Nurse,Week 9,./season_28.csv
+Maria Georgas,29,"Kleinburg, Ontario",Executive Assistant,Week 8,./season_28.csv
+Jennifer Tran,25,"Hillsdale, New Jersey",PA Student,Week 7,./season_28.csv
+Kelsey Toussant,31,"Inglewood, California",Actress,Week 7,./season_28.csv
+Katelyn DeBacker,26,"Santa Fe, New Mexico",Radiochemist,Week 6,./season_28.csv
+Lea Cayanan,23,"Waipahu, Hawaii",Account Manager,Week 6,./season_28.csv
+Lexi Young,30,"Pataskala, Ohio",Digital Strategist,Week 6,./season_28.csv
+Jessica Edwards,24,"Erwin, Tennessee",Executive Assistant,Week 6,./season_28.csv
+Autumn Waggoner,26,"De Soto, Missouri",Account Executive,Week 5,./season_28.csv
+Madina Alam,31,"Charlotte, North Carolina",Mental Health Therapist,Week 5,./season_28.csv
+Allison Hollinger,26,"Dover, Delaware",Realtor,Week 4,./season_28.csv
+Edwina Dorbor,25,"Maple Grove, Minnesota",Entrepreneur,Week 4,./season_28.csv
+Sydney Gordon,28,"Newport, Rhode Island",Vintage Store Owner,Week 4,./season_28.csv
+Chrissa Perez,26,"Abbotsford, British Columbia",Marketing Director,Week 3,./season_28.csv
+Evalin Clark,29,"San Antonio, Texas",Nanny,Week 3,./season_28.csv
+Starr Skyler,25,"Delray Beach, Florida",Mental Health Counselor,Week 3,./season_28.csv
+Erika Cardenas,25,"North Bergen, New Jersey",Leasing Agent,WeekWeek 2,./season_28.csv
+Marlena Haddad,26,"Waterbury, Connecticut",Finance Writer,Week 2,./season_28.csv
+Taylor Wiens,23,"Olathe, Kansas",Recruiter,Week 2,./season_28.csv
+Lauren Hollinger,28,"Dover, Delaware",Registered Nurse,Week 2,./season_28.csv
+Chandler Dewgard,24,"Brooklyn, New York",Graphic Designer,Week 1,./season_28.csv
+Kayla Rodgers,27,"Hamilton, Ohio",Guidance Counselor,Week 1,./season_28.csv
+Kyra Brusch,26,"Miami, Florida",Paralegal,Week 1,./season_28.csv
+Lanie Latsios,27,"Glen Mills, Pennsylvania",Realtor,Week 1,./season_28.csv
+Natalie Crepeau,26,"Sudbury, Ontario",Nursing Professor,Week 1,./season_28.csv
+Samantha Hale,31,"Melville, New York",CPA,Week 1,./season_28.csv
+Samantha Washington,25,"Lincoln, Nebraska",Miami Dolphins Cheerleader,Week 1,./season_28.csv
+Sandra Rabadi,26,"Strongsville, Ohio",Cybersecurity Consultant,Week 1,./season_28.csv
+Talyah Jackson,23,"Huntington Beach, California",Esthetician,Week 1,./season_28.csv
+Zoe Antona,24,"Roswell, Georgia",Artist,Week 1,./season_28.csv
