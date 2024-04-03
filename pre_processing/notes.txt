@@ -21,6 +21,10 @@ Steps:
 - Removed the rows that had a majority of missing values
 - Created just one csv file with all the data ('processed_data.csv')
 
+Instagram:
+- Separate into different files
+- Change spelling errors
+
 removed nicknames
 
 
