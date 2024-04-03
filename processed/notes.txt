@@ -35,3 +35,6 @@ Indicates whether the person was a winner, runner up, or what week they were eli
 winner
 runnerUp
 w1
+
+With the help of chat gpt, narrowed down the jobs to 71 categories
+narrowed down hometowns to 5 regions
