@@ -38,5 +38,5 @@ Generalized Data:
     - Late Exit: Weeks 9 - 10
 
 - With the help of chat gpt, narrowed down the jobs to 71 categories. The map of job to job category can be found in the jobs.py file
-- Also narrowed down hometown to "West", "Midwest", "South", "Northeast", and "Foreign"
+- Also narrowed down hometown to West, Midwest, South, Northeast, and Foreign
 

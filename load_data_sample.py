@@ -7,8 +7,8 @@ def load_data_into_df():
     instagram_winners_df = pd.read_csv('./instagram_data/winners.csv')
     instagram_bachelors_df = pd.read_csv('./instagram_data/bachelors.csv')
 
-    generalized_df = pd.read_csv('./pre_processing/generalized_data.csv')
-    processed_df = pd.read_csv('./pre_processing/processed_data.csv')
+    generalized_df = pd.read_csv('./personal_info/contestants_generalized.csv')
+    processed_df = pd.read_csv('./personal_info/contestants_processed.csv')
 
     # Some people are missing from the generalized data, because we don't have all seasons
     print('Missing from generalized data:')
