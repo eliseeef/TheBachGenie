@@ -1,5 +1,34 @@
 import csv
 
+
+# Define a function to map specific job titles to general categories
+def map_job_title(job_title):
+    for specific_job, category in job_title_to_category.items():
+        if specific_job in job_title:
+            return category
+        
+    print(f"Unmapped job title: {job_title}")
+    return "Other"  # If the job title doesn't match any specific job, categorize it as "Other"
+
+# Read the CSV file
+with open('generalized-data.csv', newline='') as csvfile:
+    reader = csv.DictReader(csvfile)
+    rows = list(reader)
+
+# Update the job titles to general categories
+for row in rows:
+    job_title = row['job']
+    category = map_job_title(job_title)
+    row['job'] = category
+
+# Write the updated data back to the CSV file
+with open('updated_file.csv', 'w', newline='') as csvfile:
+    fieldnames = ['season', 'name', 'age', 'hometown', 'job', 'outcome']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for row in rows:
+        writer.writerow(row)
+
 # Mapping of specific job titles to general categories
 job_title_to_category = {
     "Event Planner": "Event Planning",
@@ -396,31 +425,3 @@ job_title_to_category = {
     "Artist": "Art",
 }
 
-
-# Define a function to map specific job titles to general categories
-def map_job_title(job_title):
-    for specific_job, category in job_title_to_category.items():
-        if specific_job in job_title:
-            return category
-        
-    print(f"Unmapped job title: {job_title}")
-    return "Other"  # If the job title doesn't match any specific job, categorize it as "Other"
-
-# Read the CSV file
-with open('generalized-data.csv', newline='') as csvfile:
-    reader = csv.DictReader(csvfile)
-    rows = list(reader)
-
-# Update the job titles to general categories
-for row in rows:
-    job_title = row['job']
-    category = map_job_title(job_title)
-    row['job'] = category
-
-# Write the updated data back to the CSV file
-with open('updated_file.csv', 'w', newline='') as csvfile:
-    fieldnames = ['season', 'name', 'age', 'hometown', 'job', 'outcome']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    for row in rows:
-        writer.writerow(row)
